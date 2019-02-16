@@ -1,0 +1,156 @@
+/* Global */
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+    outline: 0;
+    vertical-align: baseline;
+}
+
+html {
+    font-family: proxima nova, sans-serif;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
+body {
+
+    overflow-x: hidden;
+}
+
+h1 {
+    font-size: 48px;
+    line-height: 58px;
+    color: #223242;
+}
+
+h2 {
+    font-size: 36px;
+    line-height: 43px;
+    color: #223242;
+}
+
+p {
+    font-size: 24px;
+    line-height: 27px;
+    color: #657783;
+}
+
+a {
+    text-decoration: none;
+    font-size: 24px;
+    line-height: 29px;
+    color: #707070;
+}
+
+img {
+    size: 100%;
+}
+
+header {
+    display: inline-flex;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.logo {
+    height: 3rem;
+    position: absolute;
+    z-index: 3;
+    top: 40px;
+    cursor: pointer;
+    transition: all 0.5s ease-out;
+}
+
+ul li {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    padding: 1rem;
+    margin: 1rem;
+    position: absolute;
+    z-index: 3;
+    top: 40px;
+}
+
+.signin {
+    position: absolute;
+    z-index: 3;
+    top: 40px;
+    cursor: pointer;
+    transition: all 0.5s ease-out;
+}
+
+.signup {
+    position: absolute;
+    z-index: 3;
+    top: 40px;
+    cursor: pointer;
+    transition: all 0.5s ease-out;
+}
+
+.btn {
+    background-color: #B9C176;
+    border-radius: 1000px;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+.clear-btn {
+    color: #707070;
+    background: transparent;
+    border: none;
+}
+
+.small-btn {
+    width: 130;
+    height: 50;
+    border: none;
+    padding: 13px 20px;
+}
+
+.large-btn {
+    width: 190;
+    height: 60;
+    border: none;
+    padding: 18px 50px;
+}
+
+.menu-btn {
+    position: absolute;
+    z-index: 3;
+    top: 40px;
+    cursor: pointer;
+    transition: all 0.5s ease-out;
+}
+
+.menu-btn .btn-line {
+    width: 28px;
+    height: 3px;
+    margin: 0 0 5px 0;
+    background: #B9C176;
+    transition: all 0.5s ease-out;
+}
+
+.menu-btn .btn-line.btn-line:nth-child(2) {
+    width: 20px;
+}
+
+.menu-btn.close {
+    transform: rotate(180deg);
+}
+
+.menu-btn.close .btn-line:nth-child(1) {
+    transform: rotate(45deg) translate(5px, 5px);
+}
+
+.menu-btn.close .btn-line:nth-child(2) {
+    opacity: 0;
+}
+
+.menu-btn.close .btn-line:nth-child(3) {
+    transform: rotate(-45deg) translate(7px, -6px);
+}
