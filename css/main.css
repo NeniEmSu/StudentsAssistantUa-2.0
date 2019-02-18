@@ -272,7 +272,7 @@ li:last-child {
   text-align: center;
   padding: 25px;
   width: 45%;
-  height: 650px;
+  height: auto;
   -ms-border-radius: 20px;
   -o-border-radius: 20px;
   -moz-border-radius: 20px;
@@ -284,6 +284,11 @@ li:last-child {
   -moz-box-shadow: 0px 3px 5px 1px rgba(50, 50, 50, 2);
   box-shadow: 0px 3px 5px 1px rgba(50, 50, 50, 2);
   background: rgba(255, 255, 255, 255);
+}
+
+.card .illustration {
+  width: 65%;
+  height: auto;
 }
 
 .card:nth-child(1) {
@@ -752,13 +757,13 @@ div .Copyright {
   div .Copyright {
     height: auto;
     background: #223242;
-    text-align: right;
+    text-align: center;
     padding: 2rem;
     margin: 30px 0 0 0;
   }
 
   .social-icons a {
-    padding-right: 2rem;
+    padding-right: 0rem;
   }
 
   .social-icons {
@@ -775,29 +780,69 @@ div .Copyright {
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 600px) and (max-width: 767.9px) {
   /* body {
-        background-color: purple;
-    } */
+    background-color: purple;
+  } */
+
+  .menu-nav {
+    display: none;
+  }
+
+  .logo {
+    margin-left: 20%;
+  }
+
+  .sign-in {
+    display: none;
+  }
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 768px) and (max-width: 991px) {
   /* body {
-        background-color: orangered;
-    } */
+    background-color: orangered;
+  } */
+
+  .logo {
+    margin-left: 10%;
+  }
+
+  .menu-nav {
+    display: none;
+  }
+
+  .sign-in {
+    display: inherit;
+  }
 }
 
 /* Large devices (laptops/desktops, 992px and up) */
-@media only screen and (min-width: 992px) {
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
   /* body {
-        background-color: blue;
-    } */
+    background-color: blue;
+  } */
+
+  .logo {
+    margin-left: 30%;
+  }
+
+  .menu-nav {
+    display: none;
+  }
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
   /* body {
-        background-color: green;
-    } */
+    background-color: green;
+  } */
+
+  .logo {
+    display: inherit;
+  }
+
+  .menu-nav {
+    display: inherit;
+  }
 }
