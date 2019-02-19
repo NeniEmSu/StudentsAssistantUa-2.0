@@ -39,14 +39,11 @@ Allow: /profiles/*.jpeg
 Allow: /profiles/*.png
 # Directories
 Disallow: /includes/
-Disallow: /misc/
-Disallow: /modules/
 Disallow: /profiles/
 Disallow: /scripts/
 Disallow: /js/
 # Files
 Disallow: /CHANGELOG.txt
-Disallow: /cron.php
 Disallow: /INSTALL.mysql.txt
 Disallow: /INSTALL.pgsql.txt
 Disallow: /INSTALL.sqlite.txt
@@ -55,7 +52,6 @@ Disallow: /INSTALL.txt
 Disallow: /LICENSE.txt
 Disallow: /update.php
 Disallow: /UPGRADE.txt
-Disallow: /xmlrpc.php
 # Paths (clean URLs)
 Disallow: /admin/
 Disallow: /comment/reply/
@@ -66,6 +62,10 @@ Disallow: /user/register/
 Disallow: /user/password/
 Disallow: /user/login/
 Disallow: /user/logout/
+Disallow: /user/signup/
+Disallow: /user/password/
+Disallow: /user/signin/
+Disallow: /user/signup/
 # Paths (no clean URLs)
 Disallow: /?q=admin/
 Disallow: /?q=comment/reply/
@@ -73,23 +73,19 @@ Disallow: /?q=filter/tips/
 Disallow: /?q=node/add/
 Disallow: /?q=search/
 Disallow: /?q=user/password/
+Disallow: /?q=user/signup/
+Disallow: /?q=user/signin/
+Disallow: /?q=user/signup/
 Disallow: /?q=user/register/
 Disallow: /?q=user/login/
 Disallow: /?q=user/logout/
 
 
 
-##############################
-# START TESLA CONTENT.
-##############################
 
-# StudentsAssistantUA content landing pages.
-Disallow: /content/*
-Disallow: /new/*
-Disallow: /used/*
-Disallow: /preowned/*
-Disallow: /demo/*
-Allow: /content/
+##############################
+# START Students Assistant UA CONTENT.
+##############################
 
 ##############################
 # END OF CONTENT.

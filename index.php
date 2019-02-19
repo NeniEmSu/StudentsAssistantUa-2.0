@@ -10,48 +10,10 @@
     <meta name="description" content="Assist students with preparation for classes, practical skills, examinations and educational Work." />
     <meta name="keywords" content="test practice, exam preparations, examinations, student assistant, students assistant , medical university, students assistant app, student assistant app, student assistant application, a student research assistant, student assistant benefits, student assistant exam, student assistant evaluation, student assistant high school, student assistant library, student assistant research, student assistant training, student assistant teacher, practice test for postal exams 473 free, practice test for nursing exams, medical assistant practice test for written exams, ukrainian medical schools ranking, best ukrainian medical school,  ukraine, education, learn, classes, exam preparation, students, assistant, studentsassistant, ternopil, kiev, test-practice, international students, medical university, study in ukraine, study smart, mcq practice, directions to school buildings, study notes, study tips, educational, tdmu, tdmuexams, tdmu exam practice" />
     <meta name="robots" content="index, follow" />
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta name="language" content="English" />
-    <meta name="revisit-after" content="1 day" />
-    <meta name="author" content="EMMANUEL NENI" />
-    <title>Students Assistant UA</title>
-
-
-    <!-- Mobile -->
-
-    <meta name="apple-mobile-web-app-capable" content="yes" />
-    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
-    <meta content="True" name="HandheldFriendly" />
-    <meta id="viewport-tag" name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0, initial-scale=1, minimal-ui, shrink-to-fit=no" />
-
-    <!-- Favicons -->
-
-
-    <link rel="manifest" href="img/favicon.png" />
-    <link rel="mask-icon" href="img/favicon.png" color="#854B5B" />
-    <link rel="icon" href="../images/favicon.png" sizes="200x200" />
-    <link rel="icon" type="image/png" href="img/favicon/favicon-196x196.png" sizes="196x196?2" type="image/png" />
-    <link rel="icon" type="image/png" href="img/favicon/favicon-160x160.png" sizes="160x160?2" type="image/png" />
-    <link rel="icon" type="image/png" href="img/favicon/favicon-96x96.png" sizes="96x96?2" type="image/png" />
-    <link rel="icon" type="image/png" href="img/favicon/favicon-16x16.png" sizes="16x16?2" type="image/png" />
-    <link rel="icon" type="image/png" href="img/favicon/favicon-32x32.png" sizes="32x32?2" type="image/png" />
-    <meta name="msapplication-TileColor" content="#854B5B" />
-    <meta name="theme-color" content="#854B5B">
-    <meta name="msapplication-TileImage" content="https://www.studentsassistantua.com/img/mainHero.jpg" />
-    <meta name="msapplication-config" content="">
-
-    <!-- Apple Touch Icons -->
-
-    <link rel="apple-touch-icon" href="img/favicon.png" sizes="200x200" />
-    <link rel="apple-touch-icon" sizes="57x57" href="img/favicon/favicon-57x57.png?2" type="image/png" />
-    <link rel="apple-touch-icon" sizes="114x114" href="img/favicon/favicon-114x114.png?2" type="image/png" />
-    <link rel="apple-touch-icon" sizes="72x72" href="img/favicon/favicon-72x72.png?2" type="image/png" />
-    <link rel="apple-touch-icon" sizes="144x144" href="img/favicon/favicon-144x144.png?2" type="image/png" />
-    <link rel="apple-touch-icon" sizes="60x60" href="img/favicon/favicon-60x60.png?2" type="image/png" />
-    <link rel="apple-touch-icon" sizes="120x120" href="img/favicon/favicon-120x120.png?2" type="image/png" />
-    <link rel="apple-touch-icon" sizes="76x76" href="img/favicon/favicon-76x76.png?2" type="image/png" />
-    <link rel="apple-touch-icon" sizes="152x152" href="img/favicon/favicon-152x152.png?2" type="image/png" />
-
+    
+    <?php 
+    require 'metaTags.php';
+    ?>
 
     <!-- Open Graph protocol & Sharing meta data -->
 
@@ -74,46 +36,21 @@
 
     <!-- Css -->
 
-    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/main.css" type="text/css">
+
+    <!-- Webfonts Css -->
+
+    <link rel="stylesheet" href="css/stylesheet.css" type="text/css" charset="utf-8" />
 </head>
 
 <body>
 
     <div class="wrapper">
-        <header>
 
-            <div class="container">
-                <div class="menu-btn">
-                    <div class="btn-line"></div>
-                    <div class="btn-line"></div>
-                    <div class="btn-line"></div>
-                </div>
-
-                <div class="menu-branding">
-                    <a href="index.html" class="logo"><img src="img/StudentsAssistantUA.png" alt="StudentsAssistantUA logo"></a>
-                </div>
-                <nav class="menu">
-                    <ul class="menu-nav">
-                        <li class="nav-item current">
-                            <a class="nav-link" href="index.html">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="about.html">About</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="contact.html">Contact</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="exampractice.html">Exam practice</a>
-                        </li>
-                    </ul>
-                    <button class="btn clear-btn sign-in">Sign in</button>
-                    <button class="btn small-btn sign-up">Sign up</button>
-                </nav>
-
-            </div>
-        </header>
-
+        <?php 
+        require 'header.php';
+        ?>
+        
         <main>
             <div class="landing">
                 <div class="landing-text">
@@ -178,67 +115,10 @@
 
         </main>
 
+        <?php 
+        require 'footer.php';
+        ?>
 
-
-        <footer id="main-footer">
-            <hr>
-            <div class="footer-nav">
-                <div class="resources">
-                    <h6>Resources</h6>
-                    <a href="#">Compiled Study Notes</a>
-                    <a href="#">Practical Skills Preparatory Material</a>
-                    <a href="#">Research Works</a>
-                    <a href="#">Exam Practice</a>
-                    <a href="#">Medical Calculators</a>
-                    <a href="#">Pdf Text Book Library</a>
-                </div>
-
-                <div class="license">
-                    <h6>Licensing Examinations </h6>
-                    <a href="#">PLAB</a>
-                    <a href="#">KROK 1 & 2</a>
-                    <a href="#">IELTS</a>
-                    <a href="#">MDCN</a>
-                    <a href="#">MDCG</a>
-                </div>
-
-                <div class="navigation">
-                    <h6>Navigation </h6>
-                    <a href="index.html">Home</a>
-                    <a href="about.html">About Us</a>
-                    <a href="exampractic.html">Exam Practice</a>
-                    <a href="#">Fun Zone</a>
-                </div>
-
-                <div class="contact">
-                    <h6>Contact Us </h6>
-                    <a href="#">24/7chat support</a>
-                    <a href="#">+380 93 258 9266</a>
-                    <a href="#">StudentsAssistantUA@gmail.com</a>
-                </div>
-
-                <div class="legal">
-                    <h6>Legal </h6>
-                    <a href="#">Terms</a>
-                    <a href="#">Privacy</a>
-                    <a href="#">Cookies</a>
-                    <a href="#">Copyright</a>
-                </div>
-
-            </div>
-
-            <div class="Copyright">
-                <div class="social-icons">
-                    <a href=""><img src="img/instagram.png" alt="instagram icon"></a>
-                    <a href=""><img src="img/googleplus.png" alt="googleplus.png icon"></a>
-                    <a href=""><img src="img/twitter.png" alt="twitter.png icon"></a>
-                    <a href=""><img src="img/facebook.png" alt="facebook.png icon"></a>
-                </div>
-                <div class="copyright-text">
-                    <p>2019 StudentsAssistantUA Created By <a href="http://www.neniemsu.com">NeniEmsu</a></p>
-                </div>
-            </div>
-        </footer>
 
     </div>
 
@@ -246,6 +126,8 @@
     <!-- JavScript -->
 
     <script src="js/main.js"></script>
+
+
 </body>
 
 </html>

@@ -1,0 +1,153 @@
+:root {
+    --main-txt-color: rgba(255, 255, 255, 0.99);
+    --main-background-hover-color-scheme: rgba(255, 127, 80, 0.67);
+    --webkit-ms-transform: translate(-50%, -50%);
+    --webkit-transition: 0.5s ease;
+}
+
+html {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
+#notFound {
+    position: relative;
+    height: 100vh;
+}
+
+#notFound .notFoundBackground {
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    background-image: url('../img/pageNotFound.jpg');
+    background-size: cover;
+}
+
+#notFound .notFoundBackground:after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    /*        background-color: var(--main-background-hover-color-scheme);*/
+}
+
+#notFound .notFound {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: var(--webkit-ms-transform);
+    -ms-transform: var(--webkit-ms-transform);
+    transform: var(--webkit-ms-transform);
+}
+
+.notFound {
+    max-width: 65rem;
+    width: 100%;
+    line-height: 1.4;
+    text-align: center;
+}
+
+.notFound .notFound404 {
+    position: relative;
+    height: 200px;
+}
+
+.notFound .notFound404 h1 {
+    font-family: 'Staatliches', cursive;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: var(--webkit-ms-transform);
+    -ms-transform: var(--webkit-ms-transform);
+    transform: var(--webkit-ms-transform);
+    font-size: 15rem;
+    font-weight: bolder;
+    margin: 0px;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    color: var(--main-txt-color);
+
+}
+
+.notFound h2 {
+    font-family: 'Staatliches', cursive;
+    font-size: 2rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+    letter-spacing: 0.2rem;
+    color: var(--main-txt-color);
+    -webkit-text-stroke-width: .00005rem;
+    -webkit-text-stroke-color: black;
+
+}
+
+.notFound p {
+    font-family: 'Staatliches', cursive;
+    font-size: 1.3rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    letter-spacing: 0.05rem;
+    color: var(--main-txt-color);
+}
+
+
+.notFound .homeBtn,
+.notFound .contactBtn {
+    font-family: 'Staatliches', 'lobster', cursive;
+    display: inline-block;
+    font-weight: 700;
+    text-decoration: none;
+    background-color: transparent;
+    border: .2rem solid transparent;
+    text-transform: uppercase;
+    padding: 13px 25px;
+    font-size: 1.5rem;
+    letter-spacing: 0.1rem;
+    border-radius: 2.5rem;
+    margin: 0.55rem;
+    -webkit-transition: var(--webkit-transition);
+    transition: var(--webkit-transition);
+}
+
+.notFound .homeBtn:hover,
+.notFound .contactBtn:hover {
+    opacity: 0.85;
+    transform: scale(1.5);
+}
+
+
+.notFound .homeBtn,
+.notFound .contactBtn {
+    border: 2px solid var(--main-txt-color);
+    color: var(--main-txt-color);
+}
+
+.notFoundSocial {
+    margin-top: 1rem;
+}
+
+.notFoundSocial > a {
+    display: inline-block;
+    height: 2.5rem;
+    line-height: 2.5rem;
+    width: 2.5rem;
+    font-size: 1rem;
+    margin: 0px .6rem;
+    border-radius: 50%;
+    -webkit-transition: var(--webkit-transition);
+    transition: var(--webkit-transition);
+    color: var(--main-txt-color);
+}
+
+.notFoundSocial > a:hover {
+    color: var(--main-background-hover-color-scheme);
+    background-color: var(--main-txt-color);
+    border-radius: 50%;
+    transform: scale(1.5);
+}
