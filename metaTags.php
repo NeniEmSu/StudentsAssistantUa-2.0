@@ -1,10 +1,10 @@
     <!-- Meta Tags that occur on all pages and are not necessary to repeat  -->
-    
+
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="language" content="English" />
     <meta name="revisit-after" content="1 day" />
     <meta name="author" content="EMMANUEL NENI" />
-    <title>Students Assistant UA</title>
+
 
 
     <!-- Mobile -->
@@ -12,14 +12,15 @@
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black" />
     <meta content="True" name="HandheldFriendly" />
-    <meta id="viewport-tag" name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0, initial-scale=1, minimal-ui, shrink-to-fit=no" />
-
-    
-
-<!-- Favicons -->
+    <meta id="viewport-tag" name="viewport"
+        content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0, initial-scale=1, minimal-ui, shrink-to-fit=no" />
 
 
-<link rel="manifest" href="img/favicon.png" />
+
+    <!-- Favicons -->
+
+
+    <link rel="manifest" href="img/favicon.png" />
     <link rel="mask-icon" href="img/favicon.png" color="#854B5B" />
     <link rel="icon" href="../images/favicon.png" sizes="200x200" />
     <link rel="icon" type="image/png" href="img/favicon/favicon-196x196.png" sizes="196x196?2" type="image/png" />

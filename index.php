@@ -7,19 +7,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <meta name="title" content="Students Assistant UA" />
-    <meta name="description" content="Assist students with preparation for classes, practical skills, examinations and educational Work." />
-    <meta name="keywords" content="test practice, exam preparations, examinations, student assistant, students assistant , medical university, students assistant app, student assistant app, student assistant application, a student research assistant, student assistant benefits, student assistant exam, student assistant evaluation, student assistant high school, student assistant library, student assistant research, student assistant training, student assistant teacher, practice test for postal exams 473 free, practice test for nursing exams, medical assistant practice test for written exams, ukrainian medical schools ranking, best ukrainian medical school,  ukraine, education, learn, classes, exam preparation, students, assistant, studentsassistant, ternopil, kiev, test-practice, international students, medical university, study in ukraine, study smart, mcq practice, directions to school buildings, study notes, study tips, educational, tdmu, tdmuexams, tdmu exam practice" />
+    <meta name="description"
+        content="Assist students with preparation for classes, practical skills, examinations and educational Work." />
+    <meta name="keywords"
+        content="test practice, exam preparations, examinations, student assistant, students assistant , medical university, students assistant app, student assistant app, student assistant application, a student research assistant, student assistant benefits, student assistant exam, student assistant evaluation, student assistant high school, student assistant library, student assistant research, student assistant training, student assistant teacher, practice test for postal exams 473 free, practice test for nursing exams, medical assistant practice test for written exams, ukrainian medical schools ranking, best ukrainian medical school,  ukraine, education, learn, classes, exam preparation, students, assistant, studentsassistant, ternopil, kiev, test-practice, international students, medical university, study in ukraine, study smart, mcq practice, directions to school buildings, study notes, study tips, educational, tdmu, tdmuexams, tdmu exam practice" />
     <meta name="robots" content="index, follow" />
-    
-    <?php 
-    require 'metaTags.php';
-    ?>
+    <title>Students Assistant UA</title>
+
+    <?php
+require 'metaTags.php';
+?>
 
     <!-- Open Graph protocol & Sharing meta data -->
 
     <meta property="og:url" content="https://www.studentsassistantua.com/" />
     <meta property="og:title" content="Homepage / Landing Page | StudentsAssistantUa">
-    <meta property="og:description" content="Assist students with preparation for classes, practical skills, examinations and educational Work.">
+    <meta property="og:description"
+        content="Assist students with preparation for classes, practical skills, examinations and educational Work.">
     <meta property="og:type" content="website" />
     <meta property="og:image" content="https://www.studentsassistantua.com/img/mainHero.jpg " />
     <meta property="og:image:url" content="https://www.studentsassistantua.com/img/mainHero.jpg " />
@@ -30,8 +34,10 @@
     <meta name="twitter:creator" content="@studentsassistantua" />
     <meta name="twitter:creator:id" content="@studentsassistantua " />
     <meta name="twitter:url" content="https://www.studentsassistantua.com" />
-    <meta name="twitter:title" content="Assist students with preparation for classes, practical skills, examinations and educational Work | StudentsAssistantUa" />
-    <meta name="twitter:description" content="Assist students with preparation for classes, practical skills, examinations and educational Work." />
+    <meta name="twitter:title"
+        content="Assist students with preparation for classes, practical skills, examinations and educational Work | StudentsAssistantUa" />
+    <meta name="twitter:description"
+        content="Assist students with preparation for classes, practical skills, examinations and educational Work." />
     <meta name="twitter:image" content="https://www.studentsassistantua.com/img/mainHero.jpg " />
 
     <!-- Css -->
@@ -47,10 +53,10 @@
 
     <div class="wrapper">
 
-        <?php 
-        require 'header.php';
-        ?>
-        
+        <?php
+require 'header.php';
+?>
+
         <main>
             <div class="landing">
                 <div class="landing-text">
@@ -61,10 +67,10 @@
                     <button class="btn small-btn">Sign up</button>
                 </div>
                 <div class="landing-image">
-                    <img class="book-lover" src="img/undraw_book_lover_mkck.png" alt="illustration of girl siting one books while reading a book">
+                    <img class="book-lover" src="img/undraw_book_lover_mkck.png"
+                        alt="illustration of girl siting one books while reading a book">
                 </div>
             </div>
-            <button class="btn large-btn feedback">Feedback</button>
 
             <div class="cards-section">
                 <div class="card">
@@ -115,9 +121,9 @@
 
         </main>
 
-        <?php 
-        require 'footer.php';
-        ?>
+        <?php
+require 'footer.php';
+?>
 
 
     </div>

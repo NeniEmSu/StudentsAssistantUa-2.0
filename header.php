@@ -8,21 +8,21 @@
     </div>
 
     <div class="menu-branding">
-        <a href="index.html" class="logo"><img src="img/StudentsAssistantUA.png" alt="StudentsAssistantUA logo"></a>
+        <a href="index.php" class="logo"><img src="img/StudentsAssistantUA.png" alt="StudentsAssistantUA logo"></a>
     </div>
     <nav class="menu">
         <ul class="menu-nav">
             <li class="nav-item">
-                <a class="nav-link" href="index.html">Home</a>
+                <a class="nav-link" href="index.php">Home</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="about.html">About</a>
+                <a class="nav-link" href="about.php">About</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="contact.html">Contact</a>
+                <a class="nav-link" href="contact.php">Contact</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="exampractice.html">Exam practice</a>
+                <a class="nav-link" href="exampractice.php">Exam practice</a>
             </li>
         </ul>
         <button class="btn clear-btn sign-in">Sign in</button>
@@ -35,13 +35,13 @@
                     <h3>Main Navigation</h3>
                         <ul>
                             <li class="hamburger-menu-nav-item">
-                                <a class="hamburger-menu-nav-link" href="index.html">Home</a>
+                                <a class="hamburger-menu-nav-link" href="index.php">Home</a>
                             </li>
                             <li class="hamburger-menu-nav-item">
-                                <a class="hamburger-menu-nav-link" href="about.html">About</a>
+                                <a class="hamburger-menu-nav-link" href="about.php">About</a>
                             </li>
                             <li class="hamburger-menu-nav-item">
-                                <a class="hamburger-menu-nav-link" href="contact.html">Contact</a>
+                                <a class="hamburger-menu-nav-link" href="contact.php">Contact</a>
                             </li>
                         </ul>
                 </div>
@@ -73,11 +73,12 @@
                 <div class="hamburger-menu-nav-license">
                     <h3>Licensing Examinations </h3>
                         <ul> 
-                            <li class="hamburger-menu-nav-item">
-                                <a class="hamburger-menu-nav-link" href="#">PLAB</a>
+                        <li class="hamburger-menu-nav-item">
+                                <a class="hamburger-menu-nav-link" href="#">KROK 1 </a>
                             </li>
+                            
                             <li class="hamburger-menu-nav-item">
-                                <a class="hamburger-menu-nav-link" href="#">KROK 1 & 2</a>
+                                <a class="hamburger-menu-nav-link" href="#">KROK 2 </a>
                             </li>
                             <li class="hamburger-menu-nav-item">
                                 <a class="hamburger-menu-nav-link" href="#">IELTS</a>
@@ -87,6 +88,9 @@
                             </li>
                             <li class="hamburger-menu-nav-item">
                                 <a class="hamburger-menu-nav-link" href="#">MDCG</a>
+                            </li>
+                            <li class="hamburger-menu-nav-item">
+                                <a class="hamburger-menu-nav-link" href="#">PLAB</a>
                             </li>
                         </ul>
 

@@ -155,7 +155,7 @@ a {
   flex-flow: column wrap;
   align-items: center;
   justify-content: center;
-  width: auto%;
+  width: auto;
   height: 100vh;
   overflow-x: hidden;
 }
@@ -339,12 +339,6 @@ li:last-child {
   height: auto;
 }
 
-.feedback {
-  margin-left: 92.5%;
-  transform: rotate(-90deg);
-  position: static;
-}
-
 .cards-section {
   padding: 20px;
   display: inline-block;
@@ -514,16 +508,95 @@ div .Copyright {
   color: var(--main-Chartreuse-color);
 }
 
+/* About Us */
+
+body#about {
+  background-image: linear-gradient(to bottom, #854b5b, #8e5b57, #916d5b, #917f66, #918f79);
+}
+
+body#about .menu-btn .btn-line {
+  background: var(--main-Chartreuse-color);
+}
+
+body#about nav li a {
+  font-size: 18px;
+  line-height: 20px;
+  color: #D8DFE8;
+  text-transform: uppercase;
+}
+
+body#about .sign-in {
+  color: #ffffff;
+}
+
+.about-landing {
+  text-align: left;
+  display: inline-block;
+  margin-top: 5em;
+  text-align: right;
+
+}
+
+.about-landing-text {
+  width: 65%;
+  float: right;
+}
+
+.about-landing-text h1,
+.about-ending-text h1 {
+  margin-bottom: 15px;
+  color: #D8DFE8;
+}
+
+.about-landing-text p,
+.about-ending-text p {
+  margin-bottom: 15px;
+  color: #FFFFFF;
+}
+
+.about-landing-image {
+  margin-left: -2%;
+  width: 35%;
+  float: left;
+}
+
+.rocket {
+  margin-top: 5rem;
+  width: 100%;
+  height: auto;
+}
+
+.about-ending {
+  margin-top: 3rem;
+}
+
+.about-ending-image {
+  width: 20%;
+  height: auto;
+}
+
+body#about footer {
+  display: block;
+  margin-top: 5rem;
+  text-align: center;
+}
+
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
   body {
     background-image: url(../img/phonebackground.png);
-    background-repeat: no-repeat;
-    background-size: 100%;
-    background-position: top;
-    height: auto;
+  }
+
+  .about-landing-image {
+    margin-left: 0;
+    width: 35%;
+    float: none;
+  }
+
+  .rocket {
+    margin-top: 5rem;
     width: 100%;
-    overflow-x: hidden;
+    height: auto;
   }
 
   h1 {
@@ -555,6 +628,10 @@ div .Copyright {
   .wrapper {
     width: 90vw;
     margin: 0 auto;
+  }
+
+  .hamburger-menu {
+    opacity: 0.99;
   }
 
   .hamburger-menu-nav {
@@ -619,7 +696,6 @@ div .Copyright {
 
   .logo {
     position: absolute;
-    z-index: 3;
     top: 20px;
     cursor: pointer;
     transition: all 500ms ease-out;
@@ -697,10 +773,6 @@ div .Copyright {
     margin-left: 85%;
   }
 
-  .feedback {
-    display: none;
-  }
-
   .btn {
     border-radius: 1000px;
     color: #ffffff;
@@ -718,20 +790,9 @@ div .Copyright {
     margin-top: 1.5em;
     text-align: left;
     padding: 10px;
-    margin: 20px 10px;
+    margin: 20px auto;
     width: 90%;
     height: auto;
-    -ms-border-radius: 20px;
-    -o-border-radius: 20px;
-    -moz-border-radius: 20px;
-    -webkit-border-radius: 20px;
-    border-radius: 20px;
-    -ms-box-shadow: 0px 3px 5px 1px rgba(50, 50, 50, 2);
-    -o-box-shadow: 0px 3px 5px 1px rgba(50, 50, 50, 2);
-    -webkit-box-shadow: 0px 3px 5px 1px rgba(50, 50, 50, 2);
-    -moz-box-shadow: 0px 3px 5px 1px rgba(50, 50, 50, 2);
-    box-shadow: 0px 3px 5px 1px rgba(50, 50, 50, 2);
-    background: rgba(255, 255, 255, 255);
   }
 
   .card .illustration {
@@ -882,9 +943,35 @@ div .Copyright {
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) and (max-width: 767.9px) {
-  /* body {
-    background-color: purple;
-  } */
+  body {
+    background-image: url(../img/tabbackground.png);
+  }
+
+  h1 {
+    font-size: 32px;
+    line-height: 30px;
+  }
+
+  h2 {
+    font-size: 26px;
+    line-height: 24px;
+  }
+
+  h3 {
+    font-size: 22px;
+    line-height: 18.18181824px;
+  }
+
+  p {
+    font-size: 16px;
+    line-height: 20px;
+  }
+
+  a {
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 17px;
+  }
 
   .menu-nav {
     display: none;
@@ -894,16 +981,183 @@ div .Copyright {
     margin-left: 20%;
   }
 
+  .hamburger-menu {
+    opacity: 0.99;
+  }
+
+  .hamburger-menu-nav {
+    padding: 60px;
+  }
+
+  .hamburger-menu-nav-link {
+    font-size: 18px;
+  }
+
+  .hamburger-menu-nav-navigation {
+    display: inherit;
+  }
+
+
   .sign-in {
     display: none;
+  }
+
+  .cards-section {
+    padding: 10px;
+    display: block;
+  }
+
+  .card {
+    margin-top: 1.5em;
+    text-align: center;
+    padding: 30px;
+    margin: 20px auto;
+    width: 60%;
+    height: auto;
+  }
+
+  .card .illustration {
+    width: 60%;
+    height: auto;
+  }
+
+  .card:nth-child(1) {
+    float: none;
+  }
+
+  .card:nth-child(2) {
+    float: none;
+  }
+
+  .card .arrow {
+    display: none;
+  }
+
+  .card h2 {
+    text-align: left;
+    margin: 15px 0 0 0;
+  }
+
+  .card p {
+    text-align: left;
+    margin: 7px 0;
+  }
+
+  .card a {
+    color: var(--main-Chartreuse-color);
+  }
+
+  .ending {
+    margin-top: 5rem;
+  }
+
+  .ending-image .texting {
+    padding-left: -5.5rem;
+    margin-top: 3rem;
+    width: 50%;
+    float: left;
+  }
+
+  footer {
+    display: block;
+    margin-top: 25rem;
+    text-align: center;
+  }
+
+  footer a img {
+    -webkit-transition: translate(-50%, -50%);
+    transition: all ease 500ms;
+  }
+
+  footer a img:hover {
+    transform: scale(1.5);
+  }
+
+  .footer-nav .resources,
+  .footer-nav .license,
+  .footer-nav .navigation,
+  .footer-nav .contact {
+    padding-inline-end: 0rem;
+  }
+
+  .footer-nav {
+    display: block;
+    margin-top: 30px;
+    width: 100%;
+  }
+
+  .footer-nav a {
+    color: #223242;
+    font-size: 15px;
+    font-style: italic;
+    line-height: 18px;
+    display: block;
+    padding: 0.5rem 0;
+    -webkit-transition: translate(-50%, -50%);
+    transition: all ease 500ms;
+    text-align: center;
+  }
+
+  .footer-nav a:hover {
+    transform: scale(1.2);
+  }
+
+  div .Copyright {
+    height: auto;
+    background: #223242;
+    text-align: center;
+    padding: 2rem;
+    margin: 30px 0 0 0;
+  }
+
+  .social-icons a {
+    padding-right: 0rem;
+  }
+
+  .social-icons {
+    float: none;
+  }
+
+  .copyright-text {
+    float: none;
+  }
+
+  .copyright-text p a {
+    color: var(--main-Chartreuse-color);
   }
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  /* body {
-    background-color: orangered;
-  } */
+  body {
+    background-image: url(../img/tabbackground.png);
+  }
+
+  h1 {
+    font-size: 40px;
+    line-height: 32px;
+  }
+
+  h2 {
+    font-size: 32px;
+    line-height: 26px;
+  }
+
+  h3 {
+    font-size: 24px;
+    line-height: 19.18181824px;
+  }
+
+  p {
+    font-size: 16px;
+    line-height: 20px;
+  }
+
+  a {
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 17px;
+  }
 
   .logo {
     margin-left: 10%;
@@ -913,16 +1167,121 @@ div .Copyright {
     display: none;
   }
 
+  .hamburger-menu {
+    opacity: 0.99;
+  }
+
+  .hamburger-menu-nav {
+    padding: 40px;
+  }
+
+  .hamburger-menu-nav-link {
+    font-size: 20px;
+  }
+
+  .hamburger-menu-nav-navigation {
+    display: inherit;
+  }
+
+
   .sign-in {
     display: inherit;
+  }
+
+  .book-lover {
+    margin-bottom: 8rem;
+  }
+
+  .cards-section {
+    padding: 10px;
+    display: block;
+  }
+
+  .card {
+    margin-top: 5rem;
+    text-align: center;
+    padding: 30px;
+    margin: 20px auto;
+    width: 60%;
+    height: auto;
+  }
+
+  .card .illustration {
+    width: 60%;
+    height: auto;
+  }
+
+  .card:nth-child(1) {
+    float: none;
+  }
+
+  .card:nth-child(2) {
+    float: none;
+  }
+
+  .card .arrow {
+    display: none;
+  }
+
+  .ending {
+    margin-top: 5rem;
+  }
+
+  .ending-image .texting {
+    margin-top: 5rem;
+    width: 50%;
+    float: left;
   }
 }
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  /* body {
-    background-color: blue;
-  } */
+  body {
+    background-image: url(../img/bigtabbackground.png);
+  }
+
+  h1 {
+    font-size: 40px;
+    line-height: 32px;
+  }
+
+  h2 {
+    font-size: 32px;
+    line-height: 26px;
+  }
+
+  h3 {
+    font-size: 24px;
+    line-height: 19.18181824px;
+  }
+
+  p {
+    font-size: 16px;
+    line-height: 20px;
+  }
+
+  a {
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 17px;
+  }
+
+  .hamburger-menu {
+    opacity: 0.99;
+  }
+
+  .hamburger-menu-nav {
+    padding: 40px;
+  }
+
+  .hamburger-menu-nav-link {
+    font-size: 20px;
+  }
+
+  .hamburger-menu-nav-navigation {
+    display: inherit;
+  }
+
 
   .logo {
     margin-left: 30%;
@@ -931,19 +1290,30 @@ div .Copyright {
   .menu-nav {
     display: none;
   }
+
+  .book-lover {
+    margin-bottom: 6rem;
+  }
+
+  .card {
+    margin-top: 5rem;
+    text-align: center;
+    padding: 30px;
+    margin: 20px auto;
+    width: 60%;
+    height: auto;
+  }
+
+  .card:nth-child(1) {
+    float: none;
+  }
+
+  .card:nth-child(2) {
+    float: none;
+  }
+
+
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
-@media only screen and (min-width: 1200px) {
-  /* body {
-    background-color: green;
-  } */
-
-  .logo {
-    display: inherit;
-  }
-
-  .menu-nav {
-    display: inherit;
-  }
-}
+@media only screen and (min-width: 1200px) {}
