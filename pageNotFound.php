@@ -6,47 +6,46 @@
 
 <head>
 
-  <meta charset="utf-8" />
+    <meta charset="utf-8" />
 
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-
-
-
-  <title>404 Page Not Found</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
 
 
-  <!-- Google font -->
-
-  <link href="https://fonts.googleapis.com/css?family=Staatliches" rel="stylesheet" />
+    <title>404 Page Not Found</title>
 
 
 
-  <!-- Favicons -->
+    <!-- Google font -->
 
-  <?php 
-  require 'metaTags.php';
-  ?>
+    <link href="https://fonts.googleapis.com/css?family=Staatliches" rel="stylesheet" />
 
 
 
-  <!-- Main stlylesheet -->
+    <!-- Favicons -->
 
-  <link type="text/css" rel="stylesheet" href="css/main.css" />
-
-
-
-  <!-- Font Awesome Icon -->
-
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/"
-
-    crossorigin="anonymous" />
+    <?php
+require 'metaTags.php';
+?>
 
 
 
-  <!-- Custom 404 stlylesheet -->
+    <!-- Main stlylesheet -->
 
-  <link type="text/css" rel="stylesheet" href="https://studentsassistantua.com/css/pageNotFound.css" />
+    <link type="text/css" rel="stylesheet" href="css/main.css" />
+
+
+
+    <!-- Font Awesome Icon -->
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
+        integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous" />
+
+
+
+    <!-- Custom 404 stlylesheet -->
+
+    <link type="text/css" rel="stylesheet" href="https://studentsassistantua.com/css/pageNotFound.css" />
 
 </head>
 
@@ -54,47 +53,49 @@
 
 <body>
 
-  <div id="notFound">
+    <div id="notFound">
 
-    <div class="notFoundBackground"></div>
+        <div class="notFoundBackground"></div>
 
-    <div class="notFound">
+        <div class="notFound">
 
-      <div class="notFound404">
+            <div class="notFound404">
 
-        <h1>404</h1>
+                <h1>OOPS</h1>
 
-      </div>
+            </div>
 
-      <h2>we are sorry, but the page you requested was not found</h2>
+            <h2>Say Somthing Am Giving Up On You!</h2>
 
-      <p>
+            <p>
 
-        If you got here by clicking a link on our site, please notify us so we
+                If you got here by clicking a link on our site, please notify us so we
 
-        can fix this. <br />Thank You for your understanding.
+                can fix this. <br />Thank You for your understanding.
 
-      </p>
+            </p>
 
-      <a href="index.php" class="homeBtn">Go Home</a>
+            <a href="index.php" class="homeBtn">Go Home</a>
 
-      <a href="contact.php" class="contactBtn">Contact us</a>
+            <a href="contact.php" class="contactBtn">Contact us</a>
 
-      <div class="notFoundSocial">
+            <div class="notFoundSocial">
 
-        <a target="_blank" href="https://www.facebook.com/emmanuel.neni.3"><i class="fab fa-facebook"></i></a>
+                <a target="_blank" href="https://www.facebook.com/emmanuel.neni.3"><i class="fab fa-facebook"></i></a>
 
-        <a target="_blank" href="https://www.instagram.com/crypt0_doctor/?hl=en"><i class="fab fa-instagram"></i></a>
+                <a target="_blank" href="https://www.instagram.com/crypt0_doctor/?hl=en"><i
+                        class="fab fa-instagram"></i></a>
 
-        <a target="_blank" href="https://github.com/cryptodoct0r"><i class="fab fa-github"></i></a>
+                <a target="_blank" href="https://github.com/cryptodoct0r"><i class="fab fa-github"></i></a>
 
-        <a target="_blank" href="https://www.linkedin.com/in/emmanuel-neni-a67060152"><i class="fab fa-linkedin"></i></a>
+                <a target="_blank" href="https://www.linkedin.com/in/emmanuel-neni-a67060152"><i
+                        class="fab fa-linkedin"></i></a>
 
-      </div>
+            </div>
+
+        </div>
 
     </div>
-
-  </div>
 
 </body>
 
