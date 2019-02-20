@@ -62,11 +62,11 @@
 
       <div class="notFound404">
 
-        <h1>404</h1>
+        <h1>OOPS</h1>
 
       </div>
 
-      <h2>we are sorry, but the page you requested was not found</h2>
+      <h2>Say Somthing Am Giving Up On You!</h2>
 
       <p>
 
