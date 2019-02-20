@@ -61,11 +61,19 @@ require 'metaTags.php';
 
             <div class="notFound404">
 
+<<<<<<< HEAD
                 <h1>OOPS</h1>
+=======
+        <h1>OOPS</h1>
+>>>>>>> f776e947f008d2a0ae28d35cb1316efc92c24a59
 
             </div>
 
+<<<<<<< HEAD
             <h2>Say Somthing Am Giving Up On You!</h2>
+=======
+      <h2>Say Somthing Am Giving Up On You!</h2>
+>>>>>>> f776e947f008d2a0ae28d35cb1316efc92c24a59
 
             <p>
 
