@@ -44,3 +44,7 @@
     <link rel="apple-touch-icon" sizes="120x120" href="img/favicon/favicon-120x120.png?2" type="image/png" />
     <link rel="apple-touch-icon" sizes="76x76" href="img/favicon/favicon-76x76.png?2" type="image/png" />
     <link rel="apple-touch-icon" sizes="152x152" href="img/favicon/favicon-152x152.png?2" type="image/png" />
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
+        integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
