@@ -1,0 +1,29 @@
+{
+  "name": "studentsassistantua",
+  "version": "1.0.0",
+  "description": "Students Assistant Ua scss ",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cryptodoct0r/StudentsAssistantUa-2.0.git"
+  },
+  "keywords": [
+    "Student",
+    "assistant"
+  ],
+  "author": "Neni Emmanuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cryptodoct0r/StudentsAssistantUa-2.0/issues"
+  },
+  "homepage": "https://github.com/cryptodoct0r/StudentsAssistantUa-2.0#readme"
+}

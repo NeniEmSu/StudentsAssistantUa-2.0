@@ -37,6 +37,7 @@
 
 html {
   font-family: 'proxima_nova_rgregular', proxima nova, sans-serif;
+  -webkit-box-sizing: border-box;
   box-sizing: border-box;
   scroll-behavior: smooth;
   overflow-x: hidden;
@@ -620,8 +621,10 @@ body#about footer {
   background-color: white;
   max-height: 0;
   overflow: hidden;
-  transition: max-height 0.2s ease-out;
+  transition: max-height 0.2s ease-in-out;
 }
+
+/* Normal Accordions */
 
 
 /* Extra small devices (phones, 600px and down) */

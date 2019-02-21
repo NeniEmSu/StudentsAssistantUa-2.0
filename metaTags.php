@@ -26,8 +26,6 @@
     <link rel="icon" type="image/png" href="img/favicon/favicon-196x196.png" sizes="196x196?2" type="image/png" />
     <link rel="icon" type="image/png" href="img/favicon/favicon-160x160.png" sizes="160x160?2" type="image/png" />
     <link rel="icon" type="image/png" href="img/favicon/favicon-96x96.png" sizes="96x96?2" type="image/png" />
-    <link rel="icon" type="image/png" href="img/favicon/favicon-16x16.png" sizes="16x16?2" type="image/png" />
-    <link rel="icon" type="image/png" href="img/favicon/favicon-32x32.png" sizes="32x32?2" type="image/png" />
     <meta name="msapplication-TileColor" content="#854B5B" />
     <meta name="theme-color" content="#854B5B">
     <meta name="msapplication-TileImage" content="https://www.studentsassistantua.com/img/mainHero.jpg" />
@@ -36,11 +34,8 @@
     <!-- Apple Touch Icons -->
 
     <link rel="apple-touch-icon" href="img/favicon.png" sizes="200x200" />
-    <link rel="apple-touch-icon" sizes="57x57" href="img/favicon/favicon-57x57.png?2" type="image/png" />
     <link rel="apple-touch-icon" sizes="114x114" href="img/favicon/favicon-114x114.png?2" type="image/png" />
-    <link rel="apple-touch-icon" sizes="72x72" href="img/favicon/favicon-72x72.png?2" type="image/png" />
     <link rel="apple-touch-icon" sizes="144x144" href="img/favicon/favicon-144x144.png?2" type="image/png" />
-    <link rel="apple-touch-icon" sizes="60x60" href="img/favicon/favicon-60x60.png?2" type="image/png" />
     <link rel="apple-touch-icon" sizes="120x120" href="img/favicon/favicon-120x120.png?2" type="image/png" />
     <link rel="apple-touch-icon" sizes="76x76" href="img/favicon/favicon-76x76.png?2" type="image/png" />
     <link rel="apple-touch-icon" sizes="152x152" href="img/favicon/favicon-152x152.png?2" type="image/png" />
@@ -48,3 +43,5 @@
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
         integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+
+    <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>

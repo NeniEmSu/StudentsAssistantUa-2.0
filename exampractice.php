@@ -44,6 +44,10 @@ require 'metaTags.php';
 
     <link rel="stylesheet" href="css/main.css" type="text/css">
 
+    <!-- Scss compiled css -->
+
+    <link rel="stylesheet" href="css/styles.css" type="text/css">
+
     <!-- Webfonts Css -->
 
     <link rel="stylesheet" href="css/stylesheet.css" type="text/css" charset="utf-8" />
@@ -65,11 +69,28 @@ require 'header.php';
                     cracking.</p>
                 <button class="accordion buttonToHide medical">Medical</button>
                 <div class="panel">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-                        labore
-                        et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-                        ut
-                        aliquip ex ea commodo consequat.</p>
+                    <ul class="accord">
+                        <li class="accord-item">
+                            <input id="s1" class="hide" type="checkbox">
+                            <label for="s1" class="accord-label">First Course</label>
+                            <ul class="accord-child">
+                                <li><a href="#">Medical Biology</a></li>
+                                <li><a href="#">Latin Language</a></li>
+                                <li><a href="#">Medical Physics Diagnostics</a></li>
+                                <li><a href="#">Philosophy</a></li>
+                            </ul>
+                        </li>
+                        <li class="accord-item">
+                            <input id="s2" class="hide" type="checkbox" checked>
+                            <label for="s2" class="accord-label">Second Course</label>
+                            <ul class="accord-child">
+                                <li><a href="#">Medical Biology</a></li>
+                                <li><a href="#">Latin Language</a></li>
+                                <li><a href="#">Medical Physics Diagnostics</a></li>
+                                <li><a href="#">Philosophy</a></li>
+                            </ul>
+                        </li>
+                    </ul>
                 </div>
 
                 <button class="accordion buttonToHide nursing">Nursing</button>
@@ -105,8 +126,6 @@ require 'header.php';
         <?php
 require 'footer.php';
 ?>
-
-
     </div>
 
 
@@ -114,7 +133,6 @@ require 'footer.php';
 
     <script src="js/main.js"></script>
     <script src="js/accordion.js"></script>
-
 
 </body>
 

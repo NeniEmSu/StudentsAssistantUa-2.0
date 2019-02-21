@@ -1,3 +1,4 @@
+// For Accordions i wish to remove in click
 const accordion = document.getElementsByClassName("accordion");
 let i;
 
