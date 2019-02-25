@@ -69,21 +69,68 @@ require 'header.php';
                     cracking.</p>
                 <button class="accordion buttonToHide medical">Medical</button>
                 <div class="panel">
-                    <ul class="accord">
-                        <li class="accord-item">
-                            <input id="s1" class="hide" type="checkbox">
-                            <label for="s1" class="accord-label">First Course</label>
-                            <ul class="accord-child">
+                    <ul class="subjects-select">
+                        <li class="course">
+                            <h3>First Course</h3>
+                            <ul>
                                 <li><a href="#">Medical Biology</a></li>
                                 <li><a href="#">Latin Language</a></li>
                                 <li><a href="#">Medical Physics Diagnostics</a></li>
                                 <li><a href="#">Philosophy</a></li>
                             </ul>
                         </li>
-                        <li class="accord-item">
-                            <input id="s2" class="hide" type="checkbox" checked>
-                            <label for="s2" class="accord-label">Second Course</label>
-                            <ul class="accord-child">
+                        <li class="course">
+                            <h3>Second Course</h3>
+                            <ul>
+                                <li><a href="#">Biological and Bioorganic Chemistry</a></li>
+                                <li><a href="#">Nursing Practice</a></li>
+                                <li><a href="#">Physiology</a></li>
+                                <li><a href="#">Ukrainian as a Foreign Language</a></li>
+                            </ul>
+                        </li>
+                        <li class="course">
+                            <h3>Second Course Third Semester</h3>
+                            <ul>
+                                <li><a href="#">Histology Cytology and Embryology</a></li>
+                                <li><a href="#">Human Anatomy</a></li>
+                            </ul>
+                        </li>
+                        <li class="course">
+                            <h3>Third Course</h3>
+                            <ul>
+                                <li><a href="#">General Surgery</a></li>
+                                <li><a href="#">Pathomorphology</a></li>
+                                <li><a href="#">Pathophysiology</a></li>
+                                <li><a href="#">Phamacology</a></li>
+                                <li><a href="#">Propaedeutics of Internal Medicine</a></li>
+                                <li><a href="#">Propaedeutics Pediatrics</a></li>
+                                <li><a href="#">Radiology</a></li>
+                            </ul>
+                        </li>
+                        <li class="course">
+
+                            <h3>Fourth Course</h3>
+                            <ul>
+                                <li><a href="#">Medical Biology</a></li>
+                                <li><a href="#">Latin Language</a></li>
+                                <li><a href="#">Medical Physics Diagnostics</a></li>
+                                <li><a href="#">Philosophy</a></li>
+                            </ul>
+                        </li>
+                        <li class="course">
+
+                            <h3>Fifth Course</h3>
+                            <ul>
+                                <li><a href="#">Medical Biology</a></li>
+                                <li><a href="#">Latin Language</a></li>
+                                <li><a href="#">Medical Physics Diagnostics</a></li>
+                                <li><a href="#">Philosophy</a></li>
+                            </ul>
+                        </li>
+                        <li class="course">
+
+                            <h3>Sixth Course</h3>
+                            <ul>
                                 <li><a href="#">Medical Biology</a></li>
                                 <li><a href="#">Latin Language</a></li>
                                 <li><a href="#">Medical Physics Diagnostics</a></li>

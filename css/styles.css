@@ -1,58 +1,16 @@
-.hide {
-  clip: rect(0 0 0 0);
-  height: 1px;
-  margin: -1px;
-  padding: 0;
-  position: absolute;
-  width: 1px; }
+ul.subjects-select {
+  margin: 1rem; }
 
-.accord {
-  background: #fff;
-  width: 400px;
-  border: 1px solid black; }
+li.course {
+  list-style: none;
+  margin: 1rem; }
 
-.accord-item {
-  position: relative;
-  width: 100%;
-  border-bottom: 1px solid black; }
-  .accord-item:last-child {
-    border-bottom: none; }
+li.course h3 {
+  margin: 1rem 0; }
 
-.accord-label {
-  padding: 20px 0 20px 30px;
-  width: 100%;
-  display: block;
-  font-size: 18px; }
-  .accord-label:hover {
-    cursor: pointer; }
-  .accord-label:before {
-    content: '';
-    position: absolute;
-    height: 5px;
-    width: 5px;
-    top: 22px;
-    left: 12px;
-    display: inline-block;
-    border-left: 5px solid #999;
-    border-top: 5px solid transparent;
-    border-bottom: 5px solid transparent; }
-  input[type=checkbox]:checked ~ .accord-label:before {
-    transform: rotate(90deg); }
+li.course li {
+  margin: 1rem;
+  transition: ease-out 200ms; }
 
-.accord-child {
-  margin: 0;
-  overflow: hidden;
-  transition: all 0.3s ease;
-  opacity: 0;
-  height: 0;
-  transform: scale(1, 0);
-  transform-origin: center top; }
-  input[type=checkbox]:checked ~ .accord-child {
-    border: 1px solid black;
-    margin: 0 -20px 15px -20px;
-    background: #fff;
-    box-shadow: 0 3px 6px 1px rgba(0, 0, 0, 0.16);
-    padding: 30px;
-    height: auto;
-    opacity: 1;
-    transform: scale(1, 1); }
+li.course li:hover {
+  transform: scale(1.01); }
