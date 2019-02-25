@@ -56,7 +56,6 @@ require 'metaTags.php';
         <?php
 require 'header.php';
 ?>
-
         <main>
             <div class="landing">
                 <div class="landing-text">
