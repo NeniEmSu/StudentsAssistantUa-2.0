@@ -42,7 +42,11 @@ gulp.task("connect-sync", function () {
     browserSync.reload();
   });
   gulp.watch("./scss/**/*.scss", style);
+  gulp.watch("./css/**/*.css").on("change", browserSync.reload);
+  gulp.watch("./*.txt").on("change", browserSync.reload);
   gulp.watch("./js/**/*.js").on("change", browserSync.reload);
+  gulp.watch("./**/*.php").on("change", browserSync.reload);
+  gulp.watch("**/*.php").on("change", browserSync.reload);
 });
 
 exports.style = style;
