@@ -15,8 +15,8 @@
     <title>Exam Selection | Students Assistant UA</title>
 
     <?php
-require 'metaTags.php';
-?>
+    require 'metaTags.php';
+    ?>
 
     <!-- Open Graph protocol & Sharing meta data -->
 
@@ -58,8 +58,8 @@ require 'metaTags.php';
     <div class="wrapper">
 
         <?php
-require 'header.php';
-?>
+        require 'header.php';
+        ?>
 
         <main>
             <div class="landing">
@@ -107,34 +107,97 @@ require 'header.php';
                                 <li><a href="#">Radiology</a></li>
                             </ul>
                         </li>
+
+                        <li class="course">
+                            <h3>Third Course Fifth Semester</h3>
+                            <ul>
+                                <li><a href="#">Clinical Anatomy and Operative</a></li>
+                                <li><a href="#">Hygiene and Ecology</a></li>
+                                <li><a href="#">Microbiology and Immunology</a></li>
+                                <li><a href="#">Nursing Practice</a></li>
+                            </ul>
+                        </li>
+
                         <li class="course">
 
-                            <h3>Fourth Course</h3>
+                            <h3>Fourth Course First Stream</h3>
                             <ul>
-                                <li><a href="#">Medical Biology</a></li>
-                                <li><a href="#">Latin Language</a></li>
-                                <li><a href="#">Medical Physics Diagnostics</a></li>
-                                <li><a href="#">Philosophy</a></li>
+                                <li><a href="#">Dermatology and Venerology</a></li>
+                                <li><a href="#">Internal Medicine (Endocrinology)</a></li>
+                                <li><a href="#">Neurology</a></li>
+                                <li><a href="#">Ophthalmology</a></li>
+                                <li><a href="#">Pediatrics</a></li>
+                                <li><a href="#">Psyciatry, narcology</a></li>
+                                <li><a href="#">Surgery</a></li>
+                                <li><a href="#">Urology</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="course">
+
+                            <h3>Fourth Course Second Stream</h3>
+                            <ul>
+                                <li><a href="#">Internal Medicine (Endocrinology)</a></li>
+                                <li><a href="#">Neurology</a></li>
+                                <li><a href="#">Otolaryngology</a></li>
+                                <li><a href="#">Pediatrics</a></li>
+                                <li><a href="#">Phthiology</a></li>
+                                <li><a href="#">Physical rehabilitation and sports medicine</a></li>
+                                <li><a href="#">Psyciatry, narcology</a></li>
+                                <li><a href="#">Surgery</a></li>
+
+                            </ul>
+                        </li>
+
+                        <li class="course">
+
+                            <h3>Fifth Course First Stream</h3>
+                            <ul>
+                                <li><a href="#">Anesthesiology and intensive care</a></li>
+                                <li><a href="#">Epidemiology</a></li>
+                                <li><a href="#">Infectious disease</a></li>
+                                <li><a href="#">Internal Medicine</a></li>
+                                <li><a href="#">Obstetrics and Gynecology</a></li>
+                                <li><a href="#">Pediatrics & Pediatrics infectious</a></li>
+                                <li><a href="#"></a>Surgery, Pediatrics surgery </li>
+                                <li><a href="#"></a>Traumatology & Orthopedics</li>
                             </ul>
                         </li>
                         <li class="course">
 
-                            <h3>Fifth Course</h3>
+                            <h3>Fifth Course Second Stream</h3>
                             <ul>
-                                <li><a href="#">Medical Biology</a></li>
-                                <li><a href="#">Latin Language</a></li>
-                                <li><a href="#">Medical Physics Diagnostics</a></li>
-                                <li><a href="#">Philosophy</a></li>
+                                <li><a href="#">Anesthesiology and intensive care</a></li>
+                                <li><a href="#">Epidemiology</a></li>
+                                <li><a href="#">Infectious disease</a></li>
+                                <li><a href="#">Internal Medicine</a></li>
+                                <li><a href="#">Obstetrics and Gynecology</a></li>
+                                <li><a href="#">Pediatrics & Pediatrics infectious</a></li>
+                                <li><a href="#"></a>Surgery, Pediatrics surgery </li>
+                                <li><a href="#"></a>Traumatology & Orthopedics</li>
                             </ul>
                         </li>
                         <li class="course">
 
-                            <h3>Sixth Course</h3>
+                            <h3>Sixth Course First Stream</h3>
                             <ul>
-                                <li><a href="#">Medical Biology</a></li>
-                                <li><a href="#">Latin Language</a></li>
-                                <li><a href="#">Medical Physics Diagnostics</a></li>
-                                <li><a href="#">Philosophy</a></li>
+                                <li><a href="#">General Practice (Family medicine)</a></li>
+                                <li><a href="#">Hygiene and Ecology</a></li>
+                                <li><a href="#">Pediatrics with children Infectious Disease </a></li>
+                                <li><a href="#">Social Medicine or Health Economics</a></li>
+                                <li><a href="#">Surgery with pediatrics surgery and oncology</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="course">
+
+                            <h3>Sixth Course First Stream</h3>
+                            <ul>
+                                <li><a href="#">General Practice (Family medicine)</a></li>
+                                <li><a href="#">Internal Medicine </a></li>
+                                <li><a href="#">Obstetrics and Gynecology</a></li>
+                                <li><a href="#">Social Medicine or Health Economics</a></li>
+                                <li><a href="#">Surgery with pediatrics surgery and oncology</a></li>
                             </ul>
                         </li>
                     </ul>
@@ -142,11 +205,8 @@ require 'header.php';
 
                 <button class="accordion buttonToHide nursing">Nursing</button>
                 <div class="panel">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-                        labore
-                        et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-                        ut
-                        aliquip ex ea commodo consequat.</p>
+                    <p>Questions are currently not available.If you have the questions pls contact admiin via the
+                        contact form or use the contact information at the pages footer.<br>Thank You.</p>
                 </div>
 
                 <button class="accordion buttonToHide pharmacy">Pharmacy</button>
@@ -171,8 +231,8 @@ require 'header.php';
         </main>
 
         <?php
-require 'footer.php';
-?>
+        require 'footer.php';
+        ?>
     </div>
 
 
