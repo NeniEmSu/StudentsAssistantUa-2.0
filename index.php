@@ -15,8 +15,8 @@
     <title>Students Assistant UA</title>
 
     <?php
-require 'metaTags.php';
-?>
+    require 'metaTags.php';
+    ?>
 
     <!-- Open Graph protocol & Sharing meta data -->
 
@@ -54,8 +54,8 @@ require 'metaTags.php';
     <div class="wrapper">
 
         <?php
-require 'header.php';
-?>
+        require 'header.php';
+        ?>
         <main>
             <div class="landing">
                 <div class="landing-text">
@@ -121,8 +121,8 @@ require 'header.php';
         </main>
 
         <?php
-require 'footer.php';
-?>
+        require 'footer.php';
+        ?>
 
 
     </div>
@@ -131,6 +131,7 @@ require 'footer.php';
     <!-- JavScript -->
 
     <script src="js/main.js"></script>
+    <script src="js/modal.js"></script>
 
 
 </body>

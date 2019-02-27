@@ -37,3 +37,49 @@ function toggleMenu() {
         showMenu = false;
     }
 }
+
+(function () {
+
+    function showSlide(n) {
+        slides[currentSlide].classList.remove("active-slide");
+        slides[n].classList.add("active-slide");
+        currentSlide = n;
+
+        if (currentSlide === 0) {
+            previousButton.style.display = "none";
+        } else {
+            previousButton.style.display = "inline-block";
+        }
+
+        if (currentSlide === slides.length - 1) {
+            nextButton.style.display = "none";
+            submitButton.style.display = "inline-block";
+        } else {
+            nextButton.style.display = "inline-block";
+            submitButton.style.display = "none";
+        }
+    }
+
+
+    function showNextSlide() {
+        showSlide(currentSlide + 1);
+    }
+
+    function showPreviousSlide() {
+        showSlide(currentSlide - 1);
+    }
+
+    let previousButton = document.getElementById("previous");
+    let nextButton = document.getElementById("next");
+    let slides = document.querySelectorAll(".slide");
+    let checkButton = document.getElementById("check");
+    let currentSlide = 0;
+
+    showSlide(0);
+
+    // on submit, show results
+    checkButton.addEventListener("click", checkAnswer);
+    submitButton.addEventListener("click", showResults);
+    previousButton.addEventListener("click", showPreviousSlide);
+    nextButton.addEventListener("click", showNextSlide);
+})();

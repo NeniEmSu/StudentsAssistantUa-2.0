@@ -1,3 +1,21 @@
+/* Table of contents
+
+- Variables
+- Global
+- Navigation
+- Homepage Main css section
+- Footer section
+- About Us css
+- Contact Page css
+- Exam Selection Page css
+- Exam Page css
+- 
+- 
+- 
+- Media Queries
+*/
+
+
 /* Variables */
 :root {
   --main-marron-color: #854b5b;
@@ -303,7 +321,7 @@ li:last-child {
   padding: 18px 50px;
 }
 
-/* Main section */
+/* Homepage Main section */
 .landing {
   text-align: left;
   display: inline-block;
@@ -506,6 +524,83 @@ div .Copyright {
 /* End of Homepage css */
 
 
+/* Modal css */
+.modal,
+.modal2 {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.65);
+  overflow: hidden;
+}
+
+.modal-content {
+  background-color: #f4f4f4;
+  margin: 10% auto;
+  width: 60%;
+  border: none;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+  border-radius: 20px;
+  -ms-box-shadow: 0px 3px 5px 1px rgba(50, 50, 50, 2);
+  -o-box-shadow: 0px 3px 5px 1px rgba(50, 50, 50, 2);
+  -webkit-box-shadow: 0px 3px 5px 1px rgba(50, 50, 50, 2);
+  -moz-box-shadow: 0px 3px 5px 1px rgba(50, 50, 50, 2);
+  box-shadow: 0px 3px 5px 1px rgba(50, 50, 50, 2);
+  background: rgba(255, 255, 255, 255);
+  animation: modalopen 1.5s ease;
+  display: block;
+}
+
+@keyframes modalopen {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+.modal-header,
+.modal-footer {
+  background: var(--main-Chartreuse-color);
+  color: white;
+  padding: 15px;
+  border-radius: 20px;
+}
+
+.closeBtn,
+.closeBtn2 {
+  font-size: 2.5rem;
+  float: right;
+  transform: rotate(45deg);
+  transition: 0.3s linear;
+  color: white;
+  -webkit-text-stroke: 2px;
+}
+
+.closeBtn:hover,
+.closeBtn:focus,
+.closeBtn2:hover,
+.closeBtn2:focus {
+  cursor: pointer;
+  transform: scale(1.5) rotate(225deg);
+  color: grey;
+}
+
+.form-signup,
+.form-signin {
+  text-align: center;
+}
+
 
 /* About Us */
 
@@ -582,6 +677,11 @@ body#about footer {
 
 /* End of About section css */
 
+/* Contact Page css */
+
+
+/* End of Contact Page css */
+
 /* Exam Selection Page css */
 
 .accordion {
@@ -624,7 +724,78 @@ body#about footer {
   transition: max-height 0.2s ease-in-out;
 }
 
-/* Normal Accordions */
+/* Exam Page */
+
+.hideme {
+  opacity: 0;
+}
+
+.display {
+
+  position: relative;
+  z-index: 1;
+  font-size: 12px;
+  transform: translateX(-38%);
+  color: red;
+
+}
+
+/*code*/
+
+.sublist {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  cursor: pointer;
+  padding: 10px;
+
+}
+
+.sublist li {
+  margin: 10px;
+  transition: all 0.3s ease;
+  letter-spacing: 1px solid;
+  color: #333;
+}
+
+.sublist li:hover {
+  letter-spacing: 2px;
+  color: #ffa500;
+}
+
+.container-question {
+  margin-top: 2em;
+  text-align: left;
+  padding: 25px;
+  height: auto;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+  border-radius: 20px;
+  -ms-box-shadow: 0px 3px 5px 1px rgba(50, 50, 50, 2);
+  -o-box-shadow: 0px 3px 5px 1px rgba(50, 50, 50, 2);
+  -webkit-box-shadow: 0px 3px 5px 1px rgba(50, 50, 50, 2);
+  -moz-box-shadow: 0px 3px 5px 1px rgba(50, 50, 50, 2);
+  box-shadow: 0px 3px 5px 1px rgba(50, 50, 50, 2);
+  background: rgba(255, 255, 255, 255);
+
+}
+
+.question {
+  padding: 10px;
+}
+
+.question p {
+  font-weight: 600;
+  letter-spacing: 2px;
+}
+
+.option div {
+  margin: 20px;
+}
 
 
 /* Extra small devices (phones, 600px and down) */
