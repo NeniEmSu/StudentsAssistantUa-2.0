@@ -73,7 +73,7 @@
                         <li class="course">
                             <h3>First Course</h3>
                             <ul>
-                                <li><a href="#">Medical Biology</a></li>
+                                <li><a href="exam.php">Medical Biology</a></li>
                                 <li><a href="#">Latin Language</a></li>
                                 <li><a href="#">Medical Physics Diagnostics</a></li>
                                 <li><a href="#">Philosophy</a></li>
