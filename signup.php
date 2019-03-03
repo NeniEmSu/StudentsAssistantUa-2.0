@@ -12,7 +12,7 @@
     <meta name="keywords"
         content="test practice, exam preparations, examinations, student assistant, students assistant , medical university, students assistant app, student assistant app, student assistant application, a student research assistant, student assistant benefits, student assistant exam, student assistant evaluation, student assistant high school, student assistant library, student assistant research, student assistant training, student assistant teacher, practice test for postal exams 473 free, practice test for nursing exams, medical assistant practice test for written exams, ukrainian medical schools ranking, best ukrainian medical school,  ukraine, education, learn, classes, exam preparation, students, assistant, studentsassistant, ternopil, kiev, test-practice, international students, medical university, study in ukraine, study smart, mcq practice, directions to school buildings, study notes, study tips, educational, tdmu, tdmuexams, tdmu exam practice" />
     <meta name="robots" content="index, follow" />
-    <title>Students Assistant UA</title>
+    <title>Sign Up | Students Assistant UA</title>
 
     <?php
     require 'metaTags.php';
@@ -21,7 +21,7 @@
     <!-- Open Graph protocol & Sharing meta data -->
 
     <meta property="og:url" content="https://www.studentsassistantua.com/" />
-    <meta property="og:title" content="Homepage / Landing Page | StudentsAssistantUa">
+    <meta property="og:title" content="Sign Up | StudentsAssistantUa">
     <meta property="og:description"
         content="Assist students with preparation for classes, practical skills, examinations and educational Work.">
     <meta property="og:type" content="website" />
@@ -50,7 +50,7 @@
 
     <style>
     * {
-        box-sizing: border-box
+        box-sizing: border-box;
     }
 
     .sign-landing {
@@ -73,6 +73,7 @@
         margin: 5px 0 22px 0;
         display: inline-block;
         border: none;
+        border-radius: 4px;
         background: #f1f1f1;
     }
 
@@ -89,7 +90,7 @@
     }
 
     /* Set a style for all buttons */
-    button.cancelbtn,
+    button.loginbtn,
     button.signupbtn {
         background-color: #4CAF50;
         color: white;
@@ -99,29 +100,34 @@
         cursor: pointer;
         width: 50%;
         opacity: 0.9;
+        font-size: 17px;
     }
 
-    button.cancelbtn:hover,
+    button.loginbtn:hover,
     button.signupbtn:hover {
         opacity: 1;
     }
 
     /* Extra styles for the cancel button */
-    button.cancelbtn {
-        padding: 14px 20px;
-        background-color: #f44336;
+    button.loginbtn {
+        background-color: var(--main-marron-color);
+        color: white;
+        font-size: 17px;
+        border-top-left-radius: 5px;
+        border-bottom-left-radius: 5px;
+    }
+
+    button.signupbtn {
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+
     }
 
     /* Float cancel and signup buttons and add an equal width */
-    .cancelbtn,
+    .loginbtn,
     .signupbtn {
         float: left;
         width: 50%;
-    }
-
-    /* Add padding to container elements */
-    .container {
-        padding: 16px;
     }
 
     /* Clear floats */
@@ -131,67 +137,105 @@
         display: table;
     }
 
-    /* Change styles for cancel button and signup button on extra small screens */
-    @media screen and (max-width: 300px) {
+    .fb {
+        background-color: #3B5998;
+        color: white;
+        padding: 1rem;
+        margin: 1rem 0;
+    }
 
-        .cancelbtn,
+    .google {
+        background-color: #dd4b39;
+        color: white;
+        padding: 1rem;
+        margin: 1rem 0;
+    }
+
+    .btnLoginPage {
+        width: 100%;
+        padding: 12px;
+        border: none;
+        border-radius: 4px;
+        margin: 5px 0;
+        opacity: 0.85;
+        display: inline-block;
+        font-size: 17px;
+        line-height: 20px;
+        text-decoration: none;
+    }
+
+
+    /* Change styles for cancel button and signup button on extra small screens */
+    @media screen and (max-width: 600px) {
+
+        .loginbtn,
         .signupbtn {
             width: 100%;
         }
+
+
     }
     </style>
 </head>
 
 <body>
-    <div class="wrapper">
+
+
+    <?php
+    require 'header.php';
+    ?>
+
+    <div class="sign-landing contain">
+        <form action="includes/signup.inc.php" method="POST">
+
+            <h1>Sign Up</h1>
+            <p>Please fill in this form to create an account.</p>
+            <hr>
+
+            <label for="Username"><b>Username</b></label>
+            <input type="text" name="uid" id="inputUsername" placeholder="Username" required autofocus>
+
+            <label for="inputEmail"><b>Email</b></label>
+            <input type="email" name="mail" id="inputEmail" placeholder="Enter Email" required>
+
+            <label for="inputPassword"><b>Password</b></label>
+            <input type="password" name="pwd" id="inputPassword" placeholder="Enter Password" required>
+
+            <label for="inputPassword-repeat"><b>Repeat Password</b></label>
+            <input type="password" name="pwd-repeat" id="inputPasswordRepeat" placeholder="Repeat Password" required>
+
+            <label>
+                <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Remember me
+            </label>
+
+            <p>By creating an account you agree to our <a href="terms.php" style="color:dodgerblue">Terms &
+                    Privacy</a>.</p>
+
+            <div class="clearfix">
+                <a href="login.php"><button type="button" class="loginbtn">Go to Log In Instead!</button></a>
+                <button type="submit" name="signup-submit" class="signupbtn">Sign Up</button>
+            </div>
+            <div>
+                <a href="#" class="google btnLoginPage"><i class="fa fa-google fa-fw">
+                    </i> Sign Up with Google
+                </a>
+                <a href="#" class="fb btnLoginPage">
+                    <i class="fa fa-facebook fa-fw"></i> Sign Up with Facebook
+                </a>
+            </div>
+        </form>
 
         <?php
-        require 'header.php';
+        require 'footer.php';
         ?>
 
-        <div class="sign-landing contain">
-            <form action="includes/signup.inc.php" method="POST">
 
-                <h1>Sign Up</h1>
-                <p>Please fill in this form to create an account.</p>
-                <hr>
+        <!-- JavScript -->
 
-                <label for="Username"><b>Username</b></label>
-                <input type="text" name="uid" id="inputEmail" placeholder="Username" required autofocus>
-
-                <label for="inputEmail"><b>Email</b></label>
-                <input type="email" name="mail" id="inputEmail" placeholder="Enter Email" required autofocus>
-
-                <label for="inputPassword"><b>Password</b></label>
-                <input type="password" name="pwd" id="inputPassword" placeholder="Enter Password" required>
-
-                <label for="inputPassword-repeat"><b>Repeat Password</b></label>
-                <input type="password" name="pwd-repeat" id="inputPassword" placeholder="Repeat Password" required>
-
-                <label>
-                    <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Remember me
-                </label>
-
-                <p>By creating an account you agree to our <a href="terms.php" style="color:dodgerblue">Terms &
-                        Privacy</a>.</p>
-
-                <div class="clearfix">
-                    <button type="button" class="cancelbtn">Cancel</button>
-                    <button type="submit" name="signup-submit" class="signupbtn">Sign Up</button>
-                </div>
+        <script src="js/main.js"></script>
+        <script src="js/modal.js"></script>
 
 
-            </form>
-            <?php
-            require 'footer.php';
-            ?>
-
-            <!-- JavScript -->
-
-            <script src="js/main.js"></script>
-            <script src="js/modal.js"></script>
-
-        </div>
 </body>
 
 </html>

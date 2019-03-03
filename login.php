@@ -12,7 +12,7 @@
     <meta name="keywords"
         content="test practice, exam preparations, examinations, student assistant, students assistant , medical university, students assistant app, student assistant app, student assistant application, a student research assistant, student assistant benefits, student assistant exam, student assistant evaluation, student assistant high school, student assistant library, student assistant research, student assistant training, student assistant teacher, practice test for postal exams 473 free, practice test for nursing exams, medical assistant practice test for written exams, ukrainian medical schools ranking, best ukrainian medical school,  ukraine, education, learn, classes, exam preparation, students, assistant, studentsassistant, ternopil, kiev, test-practice, international students, medical university, study in ukraine, study smart, mcq practice, directions to school buildings, study notes, study tips, educational, tdmu, tdmuexams, tdmu exam practice" />
     <meta name="robots" content="index, follow" />
-    <title>Students Assistant UA</title>
+    <title>Sign In | Students Assistant UA</title>
 
     <?php
     require 'metaTags.php';
@@ -21,7 +21,7 @@
     <!-- Open Graph protocol & Sharing meta data -->
 
     <meta property="og:url" content="https://www.studentsassistantua.com/" />
-    <meta property="og:title" content="Homepage / Landing Page | StudentsAssistantUa">
+    <meta property="og:title" content="Sign In | StudentsAssistantUa">
     <meta property="og:description"
         content="Assist students with preparation for classes, practical skills, examinations and educational Work.">
     <meta property="og:type" content="website" />
@@ -65,7 +65,20 @@
     }
 
     /* style inputs and link buttons */
-    input,
+    input {
+        width: 100%;
+        padding: 12px;
+        border: none;
+        border-radius: 4px;
+        margin: 5px 0;
+        opacity: 0.85;
+        display: inline-block;
+        font-size: 17px;
+        line-height: 20px;
+        text-decoration: none;
+        background: #f1f1f1;
+    }
+
     .btnLoginPage {
         width: 100%;
         padding: 12px;
@@ -77,10 +90,13 @@
         font-size: 17px;
         line-height: 20px;
         text-decoration: none;
-        /* remove underline from anchors */
     }
 
-    input:hover,
+    input:hover {
+        opacity: 1;
+        background-color: #ddd;
+    }
+
     .btnLoginPage:hover {
         opacity: 1;
     }
@@ -148,6 +164,11 @@
         display: none;
     }
 
+    .hide-sm {
+        display: block;
+        text-align: center;
+    }
+
     /* bottom container */
     .bottom-container {
         text-align: center;
@@ -168,9 +189,14 @@
         }
 
         /* show the hidden text on small screens */
+
         .hide-md-lg {
             display: block;
             text-align: center;
+        }
+
+        .hide-sm {
+            display: none;
         }
     }
     </style>
@@ -186,7 +212,9 @@
         <div class="log-landing contain">
             <form action="includes/login.php">
                 <div class="row">
-                    <h2 style="text-align:center">Social Login or Manually You Pick!</h2>
+                    <h2 style="text-align:center;" class="hide-sm">Social Login or Manually Your Pick!</h2>
+                    <h2 style="text-align:center;" class="hide-md-lg">Social Login!</h2>
+                    <br />
                     <div class="vl">
                         <span class="vl-innertext">or</span>
                     </div>
@@ -202,15 +230,14 @@
 
                     <div class="col">
                         <div class="hide-md-lg">
-                            <p>Or sign in manually:</p>
+                            <p><br />Or sign in manually: <br /> </p>
                         </div>
 
-                        <input type="text" name="username" placeholder="Username" required>
+                        <input type="text" name="username" placeholder="Username" required autofocus>
                         <input type="password" name="password" placeholder="Password" required>
-                        <label>
-                            <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px">
-                            Remember me
+                        <label>Remember me <input type="checkbox" checked="checked" name="remember">
                         </label>
+
                         <input type="submit" value="Login">
                     </div>
 

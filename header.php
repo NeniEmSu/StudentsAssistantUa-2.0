@@ -38,6 +38,14 @@
                     <h3>Main Navigation</h3>
                     <ul>
                         <li class="hamburger-menu-nav-item">
+                            <a style="color:var(--main-Chartreuse-color);" class="hamburger-menu-nav-link"
+                                href="signup.php">Sign Up</a>
+                        </li>
+                        <li class="hamburger-menu-nav-item">
+                            <a style="color:var(--main-Chartreuse-color);" class="hamburger-menu-nav-link"
+                                href="login.php">Sign In</a>
+                        </li>
+                        <li class="hamburger-menu-nav-item">
                             <a class="hamburger-menu-nav-link" href="index.php">Home</a>
                         </li>
                         <li class="hamburger-menu-nav-item">

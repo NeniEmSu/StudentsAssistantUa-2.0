@@ -46,12 +46,12 @@
 }
 
 ::-webkit-scrollbar-thumb {
-  background: var(--main-sage-color);
+  background: var(--main-Chartreuse-color);
   border-radius: 20px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: var(--main-Chartreuse-color);
+  background: var(--main-sage-color);
 }
 
 html {
@@ -150,6 +150,7 @@ a {
 /* Menu on the top left hand corner */
 .hamburger-menu {
   position: fixed;
+  z-index: 2;
   top: 0;
   width: auto;
   opacity: 0.9;
@@ -301,11 +302,20 @@ li:last-child {
   transform: scale(1.1);
 }
 
+.btn a {
+  font-size: 24px;
+}
+
 .clear-btn {
   color: #707070;
   background: transparent;
   border: none;
   box-shadow: none;
+}
+
+.clear-btn a {
+  color: #707070;
+  font-size: 24px;
 }
 
 .small-btn {
@@ -620,7 +630,7 @@ body#about nav li a {
   text-transform: uppercase;
 }
 
-body#about .sign-in {
+body#about .clear-btn a {
   color: #ffffff;
 }
 
