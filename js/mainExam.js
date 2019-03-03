@@ -391,7 +391,7 @@ $(document).ready(function () {
 
             'color': '#76ee00'
 
-        }).html('Congrates ! You are passed.Your Score is ' + marks);
+        }).html('Congrates ! You passed.Your Score is ' + marks);
 
 
     }

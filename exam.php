@@ -3,7 +3,6 @@
 <html>
 
 <head>
-
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
@@ -77,7 +76,7 @@
                     $result = mysqli_query($conn, $sql);
                     while ($row = mysqli_fetch_assoc($result)) {
                         ?>
-                    <div class="result_question" id="<?php echo $row[' id']; ?>">
+                    <div class="result_question" id="<?php echo $row['id']; ?>">
                         <div class="question">
                             <p>
                                 <?php echo $row['question']; ?>
@@ -113,10 +112,10 @@
                 ?>
 
                     <div class="control-btn">
-                        <button id="previous" class="btn btn-small Previous">Previous</button>
-                        <button id="next" class="btn btn-small next">Next</button>
-                        <button id="check" class="btn btn-small check">Check</button>
-                        <button class="btn btn-small review">Review</button>
+                        <button class="btn btn-small prev">Previous</button>
+                        <button class="btn btn-small next">Next</button>
+                        <button class="save btn btn-small check ">Check</button>
+                        <button class="bookmark btn btn-small review">Review</button>
                     </div>
 
                     <p class="invalid_qu"></p>
@@ -146,7 +145,7 @@
                         while ($row = mysqli_fetch_assoc($result)) {
                             ?>
                         <button class="question-nav-btn"><a class="question-btn hero-back"
-                                data-id="<?php echo $row[' id']; ?>">
+                                data-id="<?php echo $row['id']; ?>">
                                 <?php echo $row['id']; ?></a></button>
                         <?php
                         ++$count;
@@ -162,10 +161,7 @@
                             <div class="square bookmarked"></div>
                             <span>Review</span>
                         </div>
-                        <div class="option-all">
-                            <div class="square invalidate"></div>
-                            <span>Answered</span>
-                        </div>
+
 
                     </div>
                 </div>
