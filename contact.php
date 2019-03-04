@@ -140,7 +140,7 @@
     <main>
         <div class="contact-landing contain">
             <h1>Contact Us</h1>
-            <form class="contact-form" action="include/contactForm.inc.php" method="POST">
+            <form class="contact-form" action="includes/contactForm.inc.php" method="POST">
                 <input type="text" name="name" placeholder="Full name" required autofocus>
                 <input type="text" name="mail" placeholder="Email...">
                 <input type="text" name="subject" placeholder="Subject of discussion.">
