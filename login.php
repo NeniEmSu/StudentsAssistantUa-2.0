@@ -212,7 +212,7 @@
         <div class="log-landing contain">
             <form action="includes/login.php">
                 <div class="row">
-                    <h2 style="text-align:center;" class="hide-sm">Social Login or Manually Your Pick!</h2>
+                    <h1 style="text-align:center;" class="hide-sm">Social Login or Manually Your Pick!</h1>
                     <h2 style="text-align:center;" class="hide-md-lg">Social Login!</h2>
                     <br />
                     <div class="vl">
