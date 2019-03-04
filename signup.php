@@ -184,56 +184,59 @@
     <?php
     require 'header.php';
     ?>
+    <main>
 
-    <div class="sign-landing contain">
-        <form action="includes/signup.inc.php" method="POST">
+        <div class="sign-landing contain">
+            <form action="includes/signup.inc.php" method="POST">
 
-            <h1>Sign Up</h1>
-            <p>Please fill in this form to create an account.</p>
-            <hr>
+                <h1>Sign Up</h1>
+                <p>Please fill in this form to create an account.</p>
+                <hr>
 
-            <label for="Username"><b>Username</b></label>
-            <input type="text" name="uid" id="inputUsername" placeholder="Username" required autofocus>
+                <label for="Username"><b>Username</b></label>
+                <input type="text" name="uid" id="inputUsername" placeholder="Username" required autofocus>
 
-            <label for="inputEmail"><b>Email</b></label>
-            <input type="email" name="mail" id="inputEmail" placeholder="Enter Email" required>
+                <label for="inputEmail"><b>Email</b></label>
+                <input type="email" name="mail" id="inputEmail" placeholder="Enter Email" required>
 
-            <label for="inputPassword"><b>Password</b></label>
-            <input type="password" name="pwd" id="inputPassword" placeholder="Enter Password" required>
+                <label for="inputPassword"><b>Password</b></label>
+                <input type="password" name="pwd" id="inputPassword" placeholder="Enter Password" required>
 
-            <label for="inputPassword-repeat"><b>Repeat Password</b></label>
-            <input type="password" name="pwd-repeat" id="inputPasswordRepeat" placeholder="Repeat Password" required>
+                <label for="inputPassword-repeat"><b>Repeat Password</b></label>
+                <input type="password" name="pwd-repeat" id="inputPasswordRepeat" placeholder="Repeat Password"
+                    required>
 
-            <label>
-                <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Remember me
-            </label>
+                <label>
+                    <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Remember me
+                </label>
 
-            <p>By creating an account you agree to our <a href="terms.php" style="color:dodgerblue">Terms &
-                    Privacy</a>.</p>
+                <p>By creating an account you agree to our <a href="terms.php" style="color:dodgerblue">Terms &
+                        Privacy</a>.</p>
 
-            <div class="clearfix">
-                <a href="login.php"><button type="button" class="loginbtn">Go to Log In Instead!</button></a>
-                <button type="submit" name="signup-submit" class="signupbtn">Sign Up</button>
-            </div>
-            <div>
-                <a href="#" class="google btnLoginPage"><i class="fa fa-google fa-fw">
-                    </i> Sign Up with Google
-                </a>
-                <a href="#" class="fb btnLoginPage">
-                    <i class="fa fa-facebook fa-fw"></i> Sign Up with Facebook
-                </a>
-            </div>
-        </form>
+                <div class="clearfix">
+                    <a href="login.php"><button type="button" class="loginbtn">Log In Instead!</button></a>
+                    <button type="submit" name="signup-submit" class="signupbtn">Sign Up</button>
+                </div>
+                <div>
+                    <a href="#" class="google btnLoginPage"><i class="fa fa-google fa-fw">
+                        </i> Sign Up with Google
+                    </a>
+                    <a href="#" class="fb btnLoginPage">
+                        <i class="fa fa-facebook fa-fw"></i> Sign Up with Facebook
+                    </a>
+                </div>
+            </form>
+    </main>
 
-        <?php
-        require 'footer.php';
-        ?>
+    <?php
+    require 'footer.php';
+    ?>
 
 
-        <!-- JavScript -->
+    <!-- JavScript -->
 
-        <script src="js/main.js"></script>
-        <script src="js/modal.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/modal.js"></script>
 
 
 </body>
