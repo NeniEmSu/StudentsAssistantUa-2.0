@@ -96,7 +96,6 @@ a {
   text-decoration: none;
   font-size: 24px;
   line-height: 29px;
-  max-width: 2800px;
 }
 
 .wrapper {}
@@ -697,7 +696,7 @@ body#about footer {
 
 .accordion {
   background-color: var(--main-Chartreuse-color);
-  color: #444;
+  color: #ffffff;
   cursor: pointer;
   padding: 18px;
   width: 100%;
@@ -717,7 +716,7 @@ body#about footer {
 
 .accordion:after {
   content: '\002B';
-  color: #000000;
+  color: #f8f0e2;
   font-weight: bold;
   float: right;
   margin-left: 5px;
@@ -733,6 +732,17 @@ body#about footer {
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-in-out;
+}
+
+div.panel ul li a {
+  text-decoration: none;
+  font-size: 24px;
+  line-height: 29px;
+  color: #657783;
+}
+
+div.panel ul li a:hover {
+  opacity: 0.8;
 }
 
 /* Exam Page */
