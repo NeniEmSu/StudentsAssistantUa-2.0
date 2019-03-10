@@ -132,29 +132,29 @@
 </head>
 
 <body>
+    <div class="wrapper">
 
+        <?php
+        require 'header.php';
+        ?>
+        <main>
+            <div class="contact-landing contain">
+                <h1>Contact Us</h1>
+                <form class="contact-form" action="includes/contactForm.inc.php" method="POST">
+                    <input type="text" name="name" placeholder="Full name" required autofocus>
+                    <input type="text" name="mail" placeholder="Email...">
+                    <input type="text" name="subject" placeholder="Subject of discussion.">
+                    <textarea name="message" placeholder="Write your message here."></textarea>
+                    <button class="send-message" type="submit" name="submit">Send Message</button>
 
-    <?php
-    require 'header.php';
-    ?>
-    <main>
-        <div class="contact-landing contain">
-            <h1>Contact Us</h1>
-            <form class="contact-form" action="includes/contactForm.inc.php" method="POST">
-                <input type="text" name="name" placeholder="Full name" required autofocus>
-                <input type="text" name="mail" placeholder="Email...">
-                <input type="text" name="subject" placeholder="Subject of discussion.">
-                <textarea name="message" placeholder="Write your message here."></textarea>
-                <button class="send-message" type="submit" name="submit">Send Message</button>
+                </form>
+            </div>
+        </main>
 
-            </form>
-        </div>
-    </main>
-
-    <?php
-    require 'footer.php';
-    ?>
-
+        <?php
+        require 'footer.php';
+        ?>
+    </div>
 
     <!-- JavScript -->
 

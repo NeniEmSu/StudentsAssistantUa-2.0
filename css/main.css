@@ -63,8 +63,9 @@ html {
 }
 
 body {
-  width: 90vw;
+  width: 100vw;
   margin: 0 auto;
+  justify-content: center;
   max-width: 2800px;
 }
 
@@ -98,7 +99,11 @@ a {
   line-height: 29px;
 }
 
-.wrapper {}
+.wrapper {
+  width: 90%;
+  margin: 0 auto;
+  justify-content: center;
+}
 
 .container {
   margin: 20px auto;
@@ -424,7 +429,8 @@ li:last-child {
 }
 
 .ending-text:last-child {
-  margin-top: 18rem;
+  margin-top: 3rem;
+  margin-bottom: 4rem;
   width: 50%;
   float: right;
 }
@@ -937,6 +943,10 @@ div.panel ul li a:hover {
     margin-left: 3rem;
   }
 
+  .logo img {
+    width: 230px;
+  }
+
   nav ul {
     margin: 0;
     padding: 0;
@@ -1309,7 +1319,7 @@ div.panel ul li a:hover {
   .ending-image .texting {
     padding-left: -5.5rem;
     margin-top: 3rem;
-    width: 50%;
+    width: 70%;
     float: left;
   }
 
@@ -1503,9 +1513,7 @@ div.panel ul li a:hover {
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  body {
-    background-image: url(../img/bigtabbackground.png);
-  }
+  body {}
 
   h1 {
     font-size: 40px;
