@@ -63,10 +63,11 @@
                             <a class="hamburger-menu-nav-link" href="#">Compiled Study Notes</a>
                         </li>
                         <li class="hamburger-menu-nav-item">
-                            <a class="hamburger-menu-nav-link" href="exampractice.php">Exam Practice</a>
+                            <a class="hamburger-menu-nav-link" href="examPractice.php">Exam Practice</a>
                         </li>
                         <li class="hamburger-menu-nav-item">
-                            <a class="hamburger-menu-nav-link" href="#">Practical Skills Preparatory Material</a>
+                            <a class="hamburger-menu-nav-link" href="practicalSkills.php">Practical Skills Preparatory
+                                Material</a>
                         </li>
                         <li class="hamburger-menu-nav-item">
                             <a class="hamburger-menu-nav-link" href="#">Research Works</a>

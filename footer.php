@@ -4,9 +4,9 @@
         <div class="resources">
             <h6>Resources</h6>
             <a href="#">Compiled Study Notes</a>
-            <a href="#">Practical Skills Preparatory Material</a>
+            <a href="practicalSkills.php">Practical Skills Preparatory Material</a>
             <a href="#">Research Works</a>
-            <a href="#">Exam Practice</a>
+            <a href="examPractice.php">Exam Practice</a>
             <a href="#">Medical Calculators</a>
             <a href="#">Pdf Text Book Library</a>
         </div>
