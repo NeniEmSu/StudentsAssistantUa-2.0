@@ -67,26 +67,23 @@
                 <p>This section allows you pick Your respective course and subjects enumerated within. pick one and lets
                     get
                     cracking.</p>
-                <button class="accordion buttonToHide">Third Course</button>
+                <button class="accordion buttonToHide">Third Course Medical</button>
                 <div class="panel">
                     <ul class="subjects-select">
                         <li class="course">
-                            <a href="#">Pediatrics</a>
+                            <a href="#">Propaedeutics Pediatrics</a>
                         </li>
                         <li class="course">
-                            <a href="#">Internal Medicine</a>
+                            <a href="#">Internal Medicine Propaedeutics</a>
                         </li>
                         <li class="course">
-                            <a href="#">Surgery</a>
-                        </li>
-                        <li class="course">
-                            <a href="#">Gynecology and Obstetrics</a>
+                            <a href="#">General Surgery</a>
                         </li>
 
                     </ul>
                 </div>
 
-                <button class="accordion buttonToHide">Fourth Course</button>
+                <button class="accordion buttonToHide">Fourth Course Medical</button>
                 <div class="panel">
                     <ul class="subjects-select">
                         <li class="course">
@@ -99,13 +96,16 @@
                             <a href="#">Surgery</a>
                         </li>
                         <li class="course">
-                            <a href="#">Gynecology and Obstetrics</a>
+                            <a href="#">Neurology</a>
+                        </li>
+                        <li class="course">
+                            <a href="#">Psychiatry</a>
                         </li>
 
                     </ul>
                 </div>
 
-                <button class="accordion buttonToHide">Fifth Course</button>
+                <button class="accordion buttonToHide">Fifth Course Medical</button>
                 <div class="panel">
                     <ul class="subjects-select">
                         <li class="course">
@@ -119,17 +119,37 @@
                         </li>
                         <li class="course">
                             <a href="#">Gynecology and Obstetrics</a>
+                        </li>
+                        <li class="course">
+                            <a href="#">Anesthesiology and Intensive Medicine</a>
+                        </li>
+                        <li class="course">
+                            <a href="#">Infectious Diseases</a>
+                        </li>
+
+                    </ul>
+                </div>
+                <button class="accordion buttonToHide">Third Course Dentistry</button>
+                <div class="panel">
+                    <ul class="subjects-select">
+                        <li class="course">
+                            <a href="#">Dental Therapy</a>
+                        </li>
+                        <li class="course">
+                            <a href="#">Orthopedic Dentistry</a>
+                        </li>
+                        <li class="course">
+                            <a href="#">Dental Surgery</a>
                         </li>
 
                     </ul>
 
                 </div>
-
-                <button class="accordion buttonToHide">Sixth Course</button>
+                <button class="accordion buttonToHide">Fourth Course Dentistry</button>
                 <div class="panel">
                     <ul class="subjects-select">
                         <li class="course">
-                            <a href="#">Pediatrics</a>
+                            <a href="#">Pediatrics Dental Therapy</a>
                         </li>
                         <li class="course">
                             <a href="#">Internal Medicine</a>
@@ -137,13 +157,14 @@
                         <li class="course">
                             <a href="#">Surgery</a>
                         </li>
-                        <li class="course">
-                            <a href="#">Gynecology and Obstetrics</a>
-                        </li>
 
                     </ul>
+
                 </div>
             </div>
+            <section>
+
+            </section>
 
         </main>
 
