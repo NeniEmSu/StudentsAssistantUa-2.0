@@ -1,2 +1,8 @@
-ErrorDocument 404 /pageNotFound.php
+#mod_rewrite
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php [NC,L]
 
+#mod_404 redirect
+ErrorDocument 404 /pageNotFound

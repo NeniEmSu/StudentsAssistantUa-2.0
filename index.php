@@ -94,7 +94,7 @@
 
             <div class="ending">
                 <div class="ending-text">
-                    <h2>The right way to pass your Matricles, OSKE & OSPE</h2>
+                    <h2>The right way to pass your Matricles, OSCE & OSPE</h2>
                     <p>Practical Examinations are meant to test your practical skills in some of the main disciplines
                         as a
                         student, lets help ease the learning curve with a specific and streamlined guide.
