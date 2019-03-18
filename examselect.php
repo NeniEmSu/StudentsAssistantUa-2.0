@@ -28,11 +28,9 @@ if (isset($_SESSION['username'])) {
     <header>
     </header>
 
-    <span
-        data-msg="<?php if (isset($_SESSION[' username'])) {
+    <span data-msg="<?php if (isset($_SESSION[' username'])) {
     echo $_SESSION['username'];
-} ?>"
-        id="sessionvar"></span>
+} ?>" id="sessionvar"></span>
 
     <main>
 
@@ -62,7 +60,7 @@ if (isset($_SESSION['username'])) {
                         </ul>
 
                         <div class="text-center">
-                            <button class="hero-btn start_attempt" href="exam.php?sub=">Start Attempt <i
+                            <button class="hero-btn start_attempt" href="exam?sub=">Start Attempt <i
                                     class="fa fa-chevron-right icon-hide"></i></button>
                         </div>
                     </div>

@@ -248,10 +248,10 @@
         <div class="bottom-container">
             <div class="row">
                 <div class="col">
-                    <a href="signup.php" style="color:white" class="btnLoginPage">Sign up</a>
+                    <a href="signup" style="color:white" class="btnLoginPage">Sign up</a>
                 </div>
                 <div class="col">
-                    <a href="forgotPassword.php" style="color:white" class="btnLoginPage">Forgot password?</a>
+                    <a href="forgotPassword" style="color:white" class="btnLoginPage">Forgot password?</a>
                 </div>
             </div>
         </div>

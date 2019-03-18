@@ -4,9 +4,9 @@
         <div class="resources">
             <h6>Resources</h6>
             <a href="#">Compiled Study Notes</a>
-            <a href="practicalSkills.php">Practical Skills Preparatory Material</a>
+            <a href="practicalSkills">Practical Skills Preparatory Material</a>
             <a href="#">Research Works</a>
-            <a href="examPractice.php">Exam Practice</a>
+            <a href="examPractice">Exam Practice</a>
             <a href="#">Medical Calculators</a>
             <a href="#">Pdf Text Book Library</a>
         </div>
@@ -22,9 +22,9 @@
 
         <div class="navigation">
             <h6>Navigation </h6>
-            <a href="index.html">Home</a>
-            <a href="about.html">About Us</a>
-            <a href="exampractic.html">Exam Practice</a>
+            <a href="index">Home</a>
+            <a href="about">About Us</a>
+            <a href="exampractic">Exam Practice</a>
             <a href="#">Fun Zone</a>
         </div>
 
@@ -37,7 +37,7 @@
 
         <div class="legal">
             <h6>Legal </h6>
-            <a href="terms.php">Terms</a>
+            <a href="terms">Terms</a>
             <a href="#">Privacy</a>
             <a href="#">Cookies</a>
             <a href="#">Copyright</a>

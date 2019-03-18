@@ -25,8 +25,8 @@
     <!-- Favicons -->
 
     <?php
-require 'metaTags.php';
-?>
+    require 'metaTags';
+    ?>
 
 
 
@@ -75,9 +75,9 @@ require 'metaTags.php';
 
             </p>
 
-            <a href="index.php" class="homeBtn">Go Home</a>
+            <a href="index" class="homeBtn">Go Home</a>
 
-            <a href="contact.php" class="contactBtn">Contact us</a>
+            <a href="contact" class="contactBtn">Contact us</a>
 
             <div class="notFoundSocial">
 

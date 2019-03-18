@@ -8,25 +8,25 @@
         </div>
 
         <div class="menu-branding">
-            <a href="index.php" class="logo"><img src="img/StudentsAssistantUA.png" alt="StudentsAssistantUA logo"></a>
+            <a href="index" class="logo"><img src="img/StudentsAssistantUA.png" alt="StudentsAssistantUA logo"></a>
         </div>
         <nav class="menu">
             <ul class="menu-nav">
                 <li class="nav-item">
-                    <a class="nav-link" href="index.php">Home</a>
+                    <a class="nav-link" href="index">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="about.php">About</a>
+                    <a class="nav-link" href="about">About</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="contact.php">Contact</a>
+                    <a class="nav-link" href="contact">Contact</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="exampractice.php">Exam practice</a>
+                    <a class="nav-link" href="exampractice">Exam practice</a>
                 </li>
             </ul>
-            <button class="btn clear-btn sign-in"><a href="login.php">Sign in</a></button>
-            <button class="btn small-btn sign-up"><a href="signup.php" style="color:white;">Sign
+            <button class="btn clear-btn sign-in"><a href="login">Sign in</a></button>
+            <button class="btn small-btn sign-up"><a href="signup" style="color:white;">Sign
                     up</a></button>
 
 
@@ -39,20 +39,20 @@
                     <ul>
                         <li class="hamburger-menu-nav-item">
                             <a style="color:var(--main-Chartreuse-color);" class="hamburger-menu-nav-link"
-                                href="signup.php">Sign Up</a>
+                                href="signup">Sign Up</a>
                         </li>
                         <li class="hamburger-menu-nav-item">
                             <a style="color:var(--main-Chartreuse-color);" class="hamburger-menu-nav-link"
-                                href="login.php">Sign In</a>
+                                href="login">Sign In</a>
                         </li>
                         <li class="hamburger-menu-nav-item">
-                            <a class="hamburger-menu-nav-link" href="index.php">Home</a>
+                            <a class="hamburger-menu-nav-link" href="index">Home</a>
                         </li>
                         <li class="hamburger-menu-nav-item">
-                            <a class="hamburger-menu-nav-link" href="about.php">About</a>
+                            <a class="hamburger-menu-nav-link" href="about">About</a>
                         </li>
                         <li class="hamburger-menu-nav-item">
-                            <a class="hamburger-menu-nav-link" href="contact.php">Contact</a>
+                            <a class="hamburger-menu-nav-link" href="contact">Contact</a>
                         </li>
                     </ul>
                 </div>
@@ -63,10 +63,10 @@
                             <a class="hamburger-menu-nav-link" href="#">Compiled Study Notes</a>
                         </li>
                         <li class="hamburger-menu-nav-item">
-                            <a class="hamburger-menu-nav-link" href="examPractice.php">Exam Practice</a>
+                            <a class="hamburger-menu-nav-link" href="examPractice">Exam Practice</a>
                         </li>
                         <li class="hamburger-menu-nav-item">
-                            <a class="hamburger-menu-nav-link" href="practicalSkills.php">Practical Skills Preparatory
+                            <a class="hamburger-menu-nav-link" href="practicalSkills">Practical Skills Preparatory
                                 Material</a>
                         </li>
                         <li class="hamburger-menu-nav-item">

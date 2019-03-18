@@ -210,11 +210,11 @@
                         <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Remember me
                     </label>
 
-                    <p>By creating an account you agree to our <a href="terms.php" style="color:dodgerblue">Terms &
+                    <p>By creating an account you agree to our <a href="terms" style="color:dodgerblue">Terms &
                             Privacy</a>.</p>
 
                     <div class="clearfix">
-                        <a href="login.php"><button type="button" class="loginbtn">Log In Instead!</button></a>
+                        <a href="login"><button type="button" class="loginbtn">Log In Instead!</button></a>
                         <button type="submit" name="signup-submit" class="signupbtn">Sign Up</button>
                     </div>
                     <div>
