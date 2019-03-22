@@ -368,13 +368,16 @@
                 <div class="panel">
                     <ul class="subjects-select">
                         <li class="course">
-                            <a href="#">Propaedeutics Pediatrics</a>
+                            <a href="propPedThirdYr">Propaedeutics Pediatrics</a>
                         </li>
                         <li class="course">
-                            <a href="#">Internal Medicine Propaedeutics</a>
+                            <a href="propInterMedThirdYr">Internal Medicine Propaedeutics</a>
                         </li>
                         <li class="course">
-                            <a href="#">General Surgery</a>
+                            <a href="genSurgeryThirdYr">General Surgery</a>
+                        </li>
+                        <li class="course">
+                            <a href="pathAnatThirdYr">Pathological Anatomy</a>
                         </li>
 
                     </ul>

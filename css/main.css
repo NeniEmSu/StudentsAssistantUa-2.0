@@ -69,6 +69,13 @@ body {
   max-width: 2800px;
 }
 
+.offset:before {
+  height: 2rem;
+  margin-top: -2rem;
+  content: "";
+  display: block;
+}
+
 h1 {
   font-size: 48px;
   line-height: 58px;
@@ -79,12 +86,14 @@ h2 {
   font-size: 36px;
   line-height: 43px;
   color: #223242;
+  margin: 0.5rem;
 }
 
 h3 {
   font-size: 28px;
   line-height: 20px;
-  color: var(--main-sage-color);
+  color: #223242;
+  margin: 0.5rem;
 }
 
 p {
