@@ -409,22 +409,22 @@
                 <div class="panel">
                     <ul class="subjects-select">
                         <li class="course">
-                            <a href="#">Pediatrics</a>
+                            <a href="pedFifthYr">Pediatrics</a>
                         </li>
                         <li class="course">
-                            <a href="#">Internal Medicine</a>
+                            <a href="interMedFifthYr">Internal Medicine</a>
                         </li>
                         <li class="course">
-                            <a href="#">Surgery</a>
+                            <a href="surgFifthYr">Surgery</a>
                         </li>
                         <li class="course">
-                            <a href="#">Gynecology and Obstetrics</a>
+                            <a href="ob&GFifthYr">Gynecology and Obstetrics</a>
                         </li>
                         <li class="course">
-                            <a href="#">Anesthesiology and Intensive Medicine</a>
+                            <a href="anas&IntensCareFifthYr">Anesthesiology and Intensive Medicine</a>
                         </li>
                         <li class="course">
-                            <a href="#">Infectious Diseases</a>
+                            <a href="infecDisFifthYr">Infectious Diseases</a>
                         </li>
 
                     </ul>

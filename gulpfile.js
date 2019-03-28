@@ -28,7 +28,7 @@ function watch() {
     }
   });
   gulp.watch("./scss/**/*.scss", style);
-  gulp.watch("./*.html").on("change", browserSync.reload);
+  gulp.watch("./*.php").on("change", browserSync.reload);
   gulp.watch("./js/**/*.js").on("change", browserSync.reload);
 }
 
@@ -47,6 +47,7 @@ gulp.task("connect-sync", function () {
   gulp.watch("./js/**/*.js").on("change", browserSync.reload);
   gulp.watch("./**/*.php").on("change", browserSync.reload);
   gulp.watch("**/*.php").on("change", browserSync.reload);
+  gulp.watch("*.php").on("change", browserSync.reload);
 });
 
 exports.style = style;
