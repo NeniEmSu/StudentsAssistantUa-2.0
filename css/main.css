@@ -99,7 +99,7 @@ h3 {
 p {
   font-size: 24px;
   line-height: 27px;
-  color: #657783;
+  color: #010101;
 }
 
 a {
@@ -864,6 +864,7 @@ div.panel ul li a:hover {
   p {
     font-size: 16px;
     line-height: 20px;
+    color: #010101;
   }
 
   a {
@@ -1542,6 +1543,7 @@ div.panel ul li a:hover {
   p {
     font-size: 16px;
     line-height: 20px;
+    color: #000000;
   }
 
   a {
