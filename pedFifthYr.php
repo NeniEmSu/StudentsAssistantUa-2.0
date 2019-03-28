@@ -121,26 +121,6 @@
     <script src="js/main.js"></script>
     <script src="js/accordion.js"></script>
 
-    <script src='js/pdfobject.js'></script>
-    <script>
-    //Be sure your document contains an element with the CSS selector "embed"
-    var options = {
-        pdfOpenParams: {
-            page: '1',
-            zoom: '100',
-            scrollbar: '0',
-            toolbar: '0',
-            statusbar: '1',
-            messages: '1',
-            navpanes: '1'
-        },
-        fallbackLink: '<p>This browser does not support inline PDFs. Please download the PDF to view it: <a href="[oski/oski-3/Oski-propedevtic-pediatric-1.pdf]">Download PDF</a></p>'
-    };
-
-    PDFObject.embed("https://www.tdmu.edu.ua/en/wp-content/uploads/2017/05/Oski-propedevtic-pediatric-1.pdf", "embed",
-        options);
-    </script>
-
 </body>
 
 </html>
