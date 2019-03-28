@@ -11,7 +11,7 @@
     <meta name="keywords"
         content="osce, oski, practical examination, exam preparations, examinations, student assistant, students assistant , medical university,  students, assistant, studentsassistant, ternopil, kiev, test-practice, international students, medical university, study in ukraine, study smart, mcq practice, directions to school buildings, study notes, educational, tdmu, tdmuexams, tdmu exam practice" />
     <meta name="robots" content="index, follow" />
-    <title>Pediatrics OSCE 5th Year | Students Assistant UA</title>
+    <title>Infectious Disease OSCE 5th Year | Students Assistant UA</title>
 
     <?php
     require 'metaTags.php';
@@ -68,7 +68,7 @@
         <main>
             <div class="landing" style="width: 100%">
 
-                <h1>Pediatrics OSCE 5th Year</h1>
+                <h1>Infectious Disease OSCE 5th Year</h1>
                 <p>This page consists of:
                     <ul>
                         <li><a href="#embeded-pdf">Embeded pdf</a></li>
