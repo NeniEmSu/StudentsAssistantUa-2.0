@@ -76,9 +76,9 @@
                     </ul>
                 </p>
                 <br><br>
-                <h3 id="embeded-pdf" class="offset">The Pdf provided by the school.</h3>
-                <h4>Algorithm for the student Physical examination of a patient with vascular disease of the lower
-                    extremities (laboratory-instrumental examination)</h4>
+                <h3 id="embeded-pdf" class="offset">The Pdf provided by the school.</h3><br /><br />
+                <h3>Algorithm for the student Physical examination of a patient with vascular disease of the lower
+                    extremities (laboratory-instrumental examination)</h3>
 
                 <p> 1. The student is acquainted with the task</p>
 
@@ -96,8 +96,8 @@
 
                 <p> </p>
 
-                <h4> Algorithm for the student Physical examination of a patient with vascular disease of the lower
-                    extremities (clinical examination)</h4>
+                <h3> Algorithm for the student Physical examination of a patient with vascular disease of the lower
+                    extremities (clinical examination)</h3>
 
                 <p> 1.The student is acquainted with the task</p>
 
@@ -113,8 +113,8 @@
 
                 <p>5.Answer the questions in the form</p>
 
-                <h4> Algorithm for the student Physical examination of a patient with vascular disease of the lower
-                    extremities (varicose diseases, clinical examination)</h4>
+                <h3> Algorithm for the student Physical examination of a patient with vascular disease of the lower
+                    extremities (varicose diseases, clinical examination)</h3>
 
                 <p> 1.The student is acquainted with the task</p>
 
@@ -131,8 +131,8 @@
 
                 <p>4.Answer the questions in the form</p>
 
-                <h4> Algorithm for the student Physical examination of a patient with vascular disease of the lower
-                    extremities (varicose diseases, instrumental examination)</h4>
+                <h3> Algorithm for the student Physical examination of a patient with vascular disease of the lower
+                    extremities (varicose diseases, instrumental examination)</h3>
 
                 <p> 1.The student is acquainted with the task</p>
 
@@ -142,11 +142,7 @@
                     seconds is reflux.</p>
 
                 <p>3.Answer the questions in the form</p>
-
-                <p></p>
-
-
-            </div>
+            </div><br /><br />
 
             <section id="answers" class="offset">
                 <h3>Answers to Questions and other materials</h3>

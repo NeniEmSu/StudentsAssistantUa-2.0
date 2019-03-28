@@ -80,26 +80,28 @@ h1 {
   font-size: 48px;
   line-height: 58px;
   color: #223242;
+  margin-bottom: 0.5rem;
 }
 
 h2 {
   font-size: 36px;
   line-height: 43px;
   color: #223242;
-  margin: 0.5rem;
+  margin-bottom: 0.5rem;
 }
 
 h3 {
   font-size: 28px;
-  line-height: 20px;
+  line-height: 30px;
   color: #223242;
-  margin: 0.5rem;
+  margin-bottom: 0.5rem;
 }
 
 p {
   font-size: 24px;
-  line-height: 27px;
+  line-height: 28px;
   color: #010101;
+  margin-bottom: 0.25rem;
 }
 
 a {
