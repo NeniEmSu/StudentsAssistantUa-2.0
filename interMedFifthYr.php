@@ -189,6 +189,24 @@
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/2NvBk61ngDY" frameborder="0"
                     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                     allowfullscreen></iframe>
+                <h4>Ecg leads placement</h4>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/1k4B_fIX_t0" frameborder="0"
+                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/--TZxs58j24" frameborder="0"
+                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+                <h4>Ecg interpretations</h4>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/Vjac_SoVeMg" frameborder="0"
+                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/FThXJUFWUrw?start=26"
+                    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+                <h4>Rheumatological Examination</h4>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/nNLfa9d5aEs" frameborder="0"
+                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
             </section>
 
         </main>
@@ -220,7 +238,8 @@
         fallbackLink: '<p>This browser does not support inline PDFs. Please download the PDF to view it: <a href="[oski/oski-3/Oski-propedevtic-pediatric-1.pdf]">Download PDF</a></p>'
     };
 
-    PDFObject.embed("https://www.tdmu.edu.ua/en/wp-content/uploads/2017/05/Oski-propedevtic-pediatric-1.pdf", "embed",
+    PDFObject.embed("https://www.tdmu.edu.ua/en/wp-content/uploads/2017/05/Oski-propedevtic-pediatric-1.pdf",
+        "embed",
         options);
     </script>
 

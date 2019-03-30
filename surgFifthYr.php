@@ -146,6 +146,52 @@
 
             <section id="answers" class="offset">
                 <h3>Answers to Questions and other materials</h3>
+                <h4>Peripherial Vascular Examination</h4>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/6beOTEKx1ek?start=26"
+                    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+                <h4>Trendelinburg test</h4>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/RM0u0s0D_p4?start=26"
+                    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/0rcczDEWDqU?start=26"
+                    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+                <h4>Ultrasound of lower extremities</h4>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/ZH_fy1XVkgw?start=3" frameborder="0"
+                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+                <h4>Abdominal Examination</h4>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/_zlZj_f_XNk?start=26"
+                    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/PYAnF6GJY2I?start=26"
+                    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+                <h4>laboratory-instrumental examination</h4>
+                <p>Lipogram</p>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/ZleQ6zCm1n4?start=26"
+                    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+                <P>Ankle Bracial Index</P>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/0_0VlLSTAAE?start=26"
+                    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/oFVnsR1XNBk?start=26"
+                    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+                <p>CBC Interpretation</p>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/Cn11_bdmi-I?start=26"
+                    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+                <p>Urinalysis</p>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/uxBCLb5cQpc?start=26"
+                    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+                <p>Aterial Blood Gas</p>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/0BSv4iN8T2E?start=26"
+                    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
             </section>
 
         </main>

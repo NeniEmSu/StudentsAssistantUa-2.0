@@ -184,6 +184,32 @@
 
             <section id="answers" class="offset">
                 <h3>Answers to Questions and other materials</h3>
+                <p>The bellow are a compilations of some materials that may be helpfull in the preparation for jthe OSCE
+                    exam.<</p> <h4>Active Management of third stage of labour</h4>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/_TXv2jGnzhU" frameborder="0"
+                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen></iframe>
+                        <h4>Breast examination</h4>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/76g_tNWMhCE" frameborder="0"
+                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen></iframe>
+                        <h4>Mechanism and management of labour</h4>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/ruIa1bC4tsw" frameborder="0"
+                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen></iframe>
+                        <h4>Pelvic examination</h4>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/AyS0ZIlWwUI" frameborder="0"
+                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen></iframe>
+                        <h4>Vaginal examination</h4>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/Z-O_JYtyQqE" frameborder="0"
+                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen></iframe>
+                        <h4>speculum examination</h4>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/T5N8mt9CXS4" frameborder="0"
+                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen></iframe>
+
             </section>
 
         </main>
