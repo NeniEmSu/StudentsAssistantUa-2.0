@@ -106,6 +106,8 @@
 
             <section id="answers" class="offset">
                 <h3>Answers to Questions and other materials</h3>
+
+
             </section>
 
         </main>
@@ -114,8 +116,6 @@
         require 'footer.php';
         ?>
     </div>
-
-
     <!-- JavScript -->
 
     <script src="js/main.js"></script>

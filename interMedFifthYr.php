@@ -174,6 +174,21 @@
 
             <section id="answers" class="offset">
                 <h3>Answers to Questions and other materials</h3>
+                <p>The bellow are a compilations of some materials that may be helpfull in the preparation for jthe OSCE
+                    exam.</p>
+
+                <h4>Cardiovascular examination</h4>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/XU_xeUMJ3Zc" frameborder="0"
+                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+                <h4>Heart Sounds</h4>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/Q5-0mSydRR4" frameborder="0"
+                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+                <h4>Lung sound Examination</h4>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/2NvBk61ngDY" frameborder="0"
+                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
             </section>
 
         </main>
