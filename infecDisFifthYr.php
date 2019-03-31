@@ -69,7 +69,7 @@
             <div class="landing" style="width: 100%">
 
                 <h1>Infectious Disease OSCE 5th Year</h1>
-                <p>This page consists of:
+                <p>Go to Specific section:
                     <ul>
                         <li><a href="#embeded-pdf">Embeded pdf</a></li>
                         <ol>
@@ -94,6 +94,10 @@
 
             <section id="answers" class="offset">
                 <h3>Answers to Questions and other materials</h3>
+                <h4>Viral Hepatitis</h4>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/eocRM7MhF68?start=3" frameborder="0"
+                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
             </section>
 
         </main>
@@ -105,30 +109,9 @@
 
 
     <!-- JavScript -->
-
     <script src="js/main.js"></script>
     <script src="js/accordion.js"></script>
-
     <script src='js/pdfobject.js'></script>
-    <script>
-    //Be sure your document contains an element with the CSS selector "embed"
-    var options = {
-        pdfOpenParams: {
-            page: '1',
-            zoom: '100',
-            scrollbar: '0',
-            toolbar: '0',
-            statusbar: '1',
-            messages: '1',
-            navpanes: '1'
-        },
-        fallbackLink: '<p>This browser does not support inline PDFs. Please download the PDF to view it: <a href="[oski/oski-3/Oski-propedevtic-pediatric-1.pdf]">Download PDF</a></p>'
-    };
-
-    PDFObject.embed("https://www.tdmu.edu.ua/en/wp-content/uploads/2017/05/Oski-propedevtic-pediatric-1.pdf", "embed",
-        options);
-    </script>
-
 </body>
 
 </html>
