@@ -106,6 +106,8 @@
 
             <section id="answers" class="offset">
                 <h3>Answers to Questions and other materials</h3>
+                <p>The bellow are a compilations of some materials that may be helpfull in the preparation for the OSCE
+                    exam.</p>
                 <div class="video-container"></div>
 
             </section>

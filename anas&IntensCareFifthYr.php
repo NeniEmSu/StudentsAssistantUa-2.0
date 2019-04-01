@@ -151,7 +151,8 @@
 
             <section id="answers" class="offset">
                 <h3>Answers to Questions and other materials</h3>
-
+                <p>The bellow are a compilations of some materials that may be helpfull in the preparation for the OSCE
+                    exam.</p>
                 <h4>Artificial Ventilation</h4>
                 <div class="video-container">
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/O3vR8DQW1U0?start=17"
@@ -159,8 +160,7 @@
                         allowfullscreen></iframe>
                 </div>
                 <h4>Intubation and endotrachial lung ventilation</h4>
-                <p>The bellow are a compilations of some materials that may be helpfull in the preparation for jthe OSCE
-                    exam.</p>
+
                 <div class="video-container"><iframe width="560" height="315"
                         src="https://www.youtube.com/embed/FtJr7i7ENMY?start=17" frameborder="0"
                         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
