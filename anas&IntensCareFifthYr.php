@@ -151,6 +151,44 @@
 
             <section id="answers" class="offset">
                 <h3>Answers to Questions and other materials</h3>
+
+                <h4>Artificial Ventilation</h4>
+                <div class="video-container">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/O3vR8DQW1U0?start=17"
+                        frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe>
+                </div>
+                <h4>Intubation and endotrachial lung ventilation</h4>
+                <p>The bellow are a compilations of some materials that may be helpfull in the preparation for jthe OSCE
+                    exam.</p>
+                <div class="video-container"><iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/FtJr7i7ENMY?start=17" frameborder="0"
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe></div>
+                <h4>How to Intubate</h4>
+                <div class="video-container"><iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/Fe0czlHiRFc?start=17" frameborder="0"
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe></div>
+                <h4>Manual Defibrilation</h4>
+                <div class="video-container"><iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/rRGz3zGBwrk?start=17" frameborder="0"
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe></div>
+                <h4>How to use a defibrilator</h4>
+                <div class="video-container"><iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/UFvL7wTFzl0?start=17" frameborder="0"
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe></div>
+                <h4>Indirect cardiac Massage</h4>
+                <div class="video-container"><iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/qSsHcdy4GnA?start=17" frameborder="0"
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe></div>
+                <div class="video-container"><iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/TbyV6Z_WQJQ?start=17" frameborder="0"
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe></div>
             </section>
 
         </main>

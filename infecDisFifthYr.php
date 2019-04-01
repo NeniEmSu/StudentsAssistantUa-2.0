@@ -94,6 +94,8 @@
 
             <section id="answers" class="offset">
                 <h3>Answers to Questions and other materials</h3>
+                <p>The bellow are a compilations of some materials that may be helpfull in the preparation for jthe OSCE
+                    exam.</p>
                 <h4>Viral Hepatitis</h4>
                 <div class="video-container"><iframe width="560" height="315"
                         src="https://www.youtube.com/embed/eocRM7MhF68?start=3" frameborder="0"
