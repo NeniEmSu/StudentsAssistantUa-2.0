@@ -69,7 +69,7 @@
             <div class="landing" style="width: 100%">
 
                 <h1>Internal Medicine OSCE 5th Year</h1>
-                <p>This page consists of:
+                <p>Click to go to Specific section:
                     <ul>
                         <li><a href="#embeded-pdf">Embeded pdf</a></li>
                         <ol>
@@ -178,35 +178,43 @@
                     exam.</p>
 
                 <h4>Cardiovascular examination</h4>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/XU_xeUMJ3Zc" frameborder="0"
-                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                    allowfullscreen></iframe>
+                <div class="video-container"><iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/XU_xeUMJ3Zc" frameborder="0"
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe></div>
                 <h4>Heart Sounds</h4>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/Q5-0mSydRR4" frameborder="0"
-                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                    allowfullscreen></iframe>
+                <div class="video-container"><iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/Q5-0mSydRR4" frameborder="0"
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe></div>
                 <h4>Lung sound Examination</h4>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/2NvBk61ngDY" frameborder="0"
-                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                    allowfullscreen></iframe>
+                <div class="video-container"><iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/2NvBk61ngDY" frameborder="0"
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe></div>
                 <h4>Ecg leads placement</h4>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/1k4B_fIX_t0" frameborder="0"
-                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                    allowfullscreen></iframe>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/--TZxs58j24" frameborder="0"
-                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                    allowfullscreen></iframe>
+                <div class="video-container"><iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/1k4B_fIX_t0" frameborder="0"
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe></div>
+                <div class="video-container"><iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/--TZxs58j24" frameborder="0"
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe></div>
                 <h4>Ecg interpretations</h4>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/Vjac_SoVeMg" frameborder="0"
-                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                    allowfullscreen></iframe>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/FThXJUFWUrw?start=26"
-                    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                    allowfullscreen></iframe>
+                <div class="video-container"><iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/Vjac_SoVeMg" frameborder="0"
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe></div>
+                <div class="video-container"><iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/FThXJUFWUrw?start=26" frameborder="0"
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe></div>
                 <h4>Rheumatological Examination</h4>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/nNLfa9d5aEs" frameborder="0"
-                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                    allowfullscreen></iframe>
+                <div class="video-container"><iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/nNLfa9d5aEs" frameborder="0"
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe></div>
             </section>
 
         </main>

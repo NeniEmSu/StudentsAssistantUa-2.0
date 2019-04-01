@@ -69,7 +69,7 @@
             <div class="landing" style="width: 100%">
 
                 <h1>Infectious Disease OSCE 5th Year</h1>
-                <p>Go to Specific section:
+                <p>Click to go to Specific section:
                     <ul>
                         <li><a href="#embeded-pdf">Embeded pdf</a></li>
                         <ol>
@@ -95,9 +95,10 @@
             <section id="answers" class="offset">
                 <h3>Answers to Questions and other materials</h3>
                 <h4>Viral Hepatitis</h4>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/eocRM7MhF68?start=3" frameborder="0"
-                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                    allowfullscreen></iframe>
+                <div class="video-container"><iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/eocRM7MhF68?start=3" frameborder="0"
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe></div>
             </section>
 
         </main>

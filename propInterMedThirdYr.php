@@ -73,7 +73,7 @@
             <div class="landing" style="width: 100%">
 
                 <h1>Propaedeutics Internal Medicine 3rd Year</h1>
-                <p>This page consists of:
+                <p>Click to go to Specific section:
                     <ul>
                         <li><a href="#embeded-pdf">Embeded pdf</a></li>
                         <li><a href="#answers">Material provided by SA</a></li>

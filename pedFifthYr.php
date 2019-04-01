@@ -69,7 +69,7 @@
             <div class="landing" style="width: 100%">
 
                 <h1>Pediatrics OSCE 5th Year</h1>
-                <p>This page consists of:
+                <p>Click to go to Specific section:
                     <ul>
                         <li><a href="#embeded-pdf">Embeded pdf</a></li>
                         <ol>
@@ -106,7 +106,7 @@
 
             <section id="answers" class="offset">
                 <h3>Answers to Questions and other materials</h3>
-
+                <div class="video-container"></div>
 
             </section>
 

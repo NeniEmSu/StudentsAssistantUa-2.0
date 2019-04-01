@@ -69,7 +69,7 @@
             <div class="landing" style="width: 100%">
 
                 <h1>Obstetrics and Gynecology OSCE 5th Year</h1>
-                <p>This page consists of:
+                <p>Click to go to Specific section:
                     <ul>
                         <li><a href="#embeded-pdf">Embeded pdf</a></li>
                         <ol>
@@ -186,29 +186,35 @@
                 <h3>Answers to Questions and other materials</h3>
                 <p>The bellow are a compilations of some materials that may be helpfull in the preparation for jthe OSCE
                     exam.<</p> <h4>Active Management of third stage of labour</h4>
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/_TXv2jGnzhU" frameborder="0"
-                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen></iframe>
+                        <div class="video-container"><iframe width="560" height="315"
+                                src="https://www.youtube.com/embed/_TXv2jGnzhU" frameborder="0"
+                                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe></div>
                         <h4>Breast examination</h4>
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/76g_tNWMhCE" frameborder="0"
-                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen></iframe>
+                        <div class="video-container"><iframe width="560" height="315"
+                                src="https://www.youtube.com/embed/76g_tNWMhCE" frameborder="0"
+                                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe></div>
                         <h4>Mechanism and management of labour</h4>
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/ruIa1bC4tsw" frameborder="0"
-                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen></iframe>
+                        <div class="video-container"><iframe width="560" height="315"
+                                src="https://www.youtube.com/embed/ruIa1bC4tsw" frameborder="0"
+                                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe></div>
                         <h4>Pelvic examination</h4>
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/AyS0ZIlWwUI" frameborder="0"
-                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen></iframe>
+                        <div class="video-container"><iframe width="560" height="315"
+                                src="https://www.youtube.com/embed/AyS0ZIlWwUI" frameborder="0"
+                                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe></div>
                         <h4>Vaginal examination</h4>
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/Z-O_JYtyQqE" frameborder="0"
-                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen></iframe>
+                        <div class="video-container"><iframe width="560" height="315"
+                                src="https://www.youtube.com/embed/Z-O_JYtyQqE" frameborder="0"
+                                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe></div>
                         <h4>speculum examination</h4>
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/T5N8mt9CXS4" frameborder="0"
-                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen></iframe>
+                        <div class="video-container"><iframe width="560" height="315"
+                                src="https://www.youtube.com/embed/T5N8mt9CXS4" frameborder="0"
+                                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe></div>
 
             </section>
 
