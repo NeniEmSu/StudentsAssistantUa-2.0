@@ -101,6 +101,64 @@
                         src="https://www.youtube.com/embed/eocRM7MhF68?start=3" frameborder="0"
                         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                         allowfullscreen></iframe></div>
+                <h4>Intestinal infection</h4>
+                <div class="video-container"><iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/l7DNQsPlrdc?start=17" frameborder="0"
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe></div>
+                <h4>Herpes</h4>
+                <div class="video-container"><iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/IOUnXeqNyMs?start=17" frameborder="0"
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe></div>
+                <h4>Epidemic Typhus</h4>
+                <div class="video-container"><iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/wyq0_afSFAM?start=17" frameborder="0"
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe></div>
+                <h4>Typhoid fever</h4>
+                <div class="video-container"><iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/_B2X-5vGexI?start=17" frameborder="0"
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe></div>
+                <h4>paratyphus A and B</h4>
+                <div class="video-container"><iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/1T-1FeTbr3c?start=17" frameborder="0"
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe></div>
+
+                <h4>leptospirosis</h4>
+                <div class="video-container"><iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/9o-2vSuZRro?start=17" frameborder="0"
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe></div>
+                <h4>Malaria</h4>
+                <div class="video-container"><iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/2O3YrdUZQ5U?start=17" frameborder="0"
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe></div>
+                <h4>Acute tonsillitis</h4>
+                <div class="video-container"><iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/naJQthkq4sg?start=17" frameborder="0"
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe></div>
+                <h4>Diphtheria</h4>
+                <div class="video-container"><iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/sWl5TJoQB3g?start=17" frameborder="0"
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe></div>
+                <h4>Infectious mononucleosis</h4>
+                <div class="video-container"><iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/oaiRhNAkHJ8?start=17" frameborder="0"
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe></div>
+                <h4>Acute respiratory viral infections</h4>
+                <div class="video-container"><iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/wMybHZw0d7U?start=17" frameborder="0"
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe></div>
+
+
             </section>
 
         </main>
