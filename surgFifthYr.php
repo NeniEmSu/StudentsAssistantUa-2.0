@@ -146,6 +146,8 @@
 
             <section id="answers" class="offset">
                 <h3>Answers to Questions and other materials</h3>
+                <p>The below are a compilations of some materials that may be helpfull in the preparation for the OSCE
+                    exam.</p>
                 <h4>Peripherial Vascular Examination</h4>
                 <div class="video-container"><iframe width="560" height="315"
                         src="https://www.youtube.com/embed/6beOTEKx1ek?start=26" frameborder="0"
