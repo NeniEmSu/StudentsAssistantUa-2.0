@@ -75,7 +75,7 @@
                         <ol>
                             <li><a href="#first-pdf">Infect Diseases Algorithm 2018.pdf</a></li>
                         </ol>
-                        <li><a href="#answers">Material provided by SA</a></li>
+                        <li><a href="#answers">Videos and Additional materials for preparation.</a></li>
                     </ul>
                 </p>
                 <br><br>

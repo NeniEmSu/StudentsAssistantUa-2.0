@@ -82,7 +82,7 @@
                             <li><a href="#fourth-pdf">Ensuring the passage of the respiratory tract at the hospital
                                     stage using a laryngeal mask.</a></li>
                         </ol>
-                        <li><a href="#answers">Material provided by SA</a></li>
+                        <li><a href="#answers">Videos and Additional materials for preparation.</a></li>
                     </ul>
                 </p>
                 <br><br>

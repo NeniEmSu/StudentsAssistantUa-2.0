@@ -76,7 +76,7 @@
                 <p>Click to go to Specific section:
                     <ul>
                         <li><a href="#embeded-pdf">Embeded pdf</a></li>
-                        <li><a href="#answers">Material provided by SA</a></li>
+                        <li><a href="#answers">Videos and Additional materials for preparation.</a></li>
                     </ul>
                 </p>
                 <br><br>

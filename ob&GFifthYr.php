@@ -83,7 +83,7 @@
                             <li><a href="#eight-pdf">Algorithm_Speculum_STD.</a></li>
                             <li><a href="#ninth-pdf">Pdf from Intranet</a></li>
                         </ol>
-                        <li><a href="#answers">Material provided by SA</a></li>
+                        <li><a href="#answers">Videos and Additional materials for preparation.</a></li>
                     </ul>
                 </p>
                 <br><br>

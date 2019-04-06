@@ -76,7 +76,7 @@
                             <li><a href="#first-pdf">Pdf from module</a></li>
                             <li><a href="#second-pdf">Pdf from Intranet</a></li>
                         </ol>
-                        <li><a href="#answers">Material provided by SA</a></li>
+                        <li><a href="#answers">Videos and Additional materials for preparation.</a></li>
                     </ul>
                 </p>
                 <br><br>

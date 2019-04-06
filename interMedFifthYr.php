@@ -82,7 +82,7 @@
                             <li><a href="#seventh-pdf">OSCE 5_Rheumo_RA_Algorytm</a></li>
                             <li><a href="#eight-pdf">Pdf from Intranet</a></li>
                         </ol>
-                        <li><a href="#answers">Material provided by SA</a></li>
+                        <li><a href="#answers">Videos and Additional materials for preparation.</a></li>
                     </ul>
                 </p>
                 <br><br>
