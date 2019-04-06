@@ -186,6 +186,19 @@
                 <h3>Answers to Questions and other materials</h3>
                 <p>The below are a compilations of some materials that may be helpfull in the preparation for the OSCE
                     exam.</p>
+                <h4>Manual removal of the Placenta</h4>
+                <div class="video-container"> <video class="video" id="video-style" width="560" height="315" controls>
+                        <source src="vid/ob01.mp4" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video> </div>
+
+                <h4>Placenta detachment</h4>
+                <div class="video-container"> <video class="video" id="video-style" width="560" height="315" controls>
+                        <source src="vid/ob02.mp4" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video> </div>
+
+                <h4>Breast examination</h4>
                 <h4>Active Management of third stage of labour</h4>
                 <div class="video-container"><iframe width="560" height="315"
                         src="https://www.youtube.com/embed/_TXv2jGnzhU" frameborder="0"
