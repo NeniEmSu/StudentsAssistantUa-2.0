@@ -88,7 +88,7 @@
 
         <main>
             <div class="landing">
-                <h1>OSCE (Objective Structured Clinical Examination) Examination</h1>
+                <h1>OSCE (Objective Structured Clinical Examination)</h1>
                 <h2>Practical Skills Preparatory Page</h2>
                 <p>This section allows you pick Your respective course and subjects enumerated within. pick one and lets
                     get

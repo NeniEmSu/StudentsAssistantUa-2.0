@@ -167,6 +167,11 @@
                         src="https://www.youtube.com/embed/ZH_fy1XVkgw?start=3" frameborder="0"
                         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                         allowfullscreen></iframe></div>
+                <h4>Intercostal nerve block</h4>
+                <div class="video-container"><iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/YIFmbgoSbAA" frameborder="0"
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe></div>
                 <h4>Abdominal Examination</h4>
                 <div class="video-container"><iframe width="560" height="315"
                         src="https://www.youtube.com/embed/_zlZj_f_XNk?start=26" frameborder="0"
