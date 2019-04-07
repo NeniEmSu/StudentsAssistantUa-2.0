@@ -110,7 +110,8 @@ a {
   line-height: 29px;
 }
 
-ul {
+ul,
+ol {
   margin: 0 0 0 30px;
   padding: 0;
 }
