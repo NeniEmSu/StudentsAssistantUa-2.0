@@ -75,6 +75,31 @@
         font-size: 18px;
         margin-bottom: 1rem;
     }
+
+    .image-container {
+        padding: 10px;
+        margin: 0 auto !important;
+    }
+
+    .image-container img {
+
+        top: 20px;
+        left: 0;
+        width: 48%;
+        height: 48%;
+
+    }
+
+    @media only screen and (max-width: 990px) {
+
+        .image-container img {
+
+            top: 20px;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+    }
     </style>
 </head>
 
@@ -364,6 +389,73 @@
                     </p>
 
                 </div>
+
+                <button class="accordion buttonToHide">OSCE Marking scheme and questions from Nigerian exam</button>
+                <div class="panel">
+                    <div class="image-container">
+                        <img src="oski/images/New Doc 2019-04-03 13.50.50_1.jpg"
+                            alt="osce marking scheme nigerian exam">
+                        <img src="oski/images/New Doc 2019-04-03 13.50.50_2.jpg"
+                            alt="osce marking scheme nigerian exam">
+                        <img src="oski/images/New Doc 2019-04-03 13.50.50_3.jpg"
+                            alt="osce marking scheme nigerian exam">
+                        <img src="oski/images/New Doc 2019-04-03 13.50.50_4.jpg"
+                            alt="osce marking scheme nigerian exam">
+                        <img src="oski/images/New Doc 2019-04-03 13.50.50_5.jpg"
+                            alt="osce marking scheme nigerian exam">
+                        <img src="oski/images/New Doc 2019-04-03 13.50.50_6.jpg"
+                            alt="osce marking scheme nigerian exam">
+                        <img src="oski/images/New Doc 2019-04-03 13.50.50_7.jpg"
+                            alt="osce marking scheme nigerian exam">
+                        <img src="oski/images/New Doc 2019-04-03 13.50.50_8.jpg"
+                            alt="osce marking scheme nigerian exam">
+                        <img src="oski/images/New Doc 2019-04-03 13.50.50_9.jpg"
+                            alt="osce marking scheme nigerian exam">
+                        <img src="oski/images/New Doc 2019-04-03 13.50.50_10.jpg"
+                            alt="osce marking scheme nigerian exam">
+                        <img src="oski/images/New Doc 2019-04-03 13.50.50_11.jpg"
+                            alt="osce marking scheme nigerian exam">
+                        <img src="oski/images/New Doc 2019-04-03 13.50.50_12.jpg"
+                            alt="osce marking scheme nigerian exam">
+                        <img src="oski/images/New Doc 2019-04-03 13.50.50_13.jpg"
+                            alt="osce marking scheme nigerian exam">
+                        <img src="oski/images/New Doc 2019-04-03 13.50.50_14.jpg"
+                            alt="osce marking scheme nigerian exam">
+                        <img src="oski/images/New Doc 2019-04-03 13.50.50_15.jpg"
+                            alt="osce marking scheme nigerian exam">
+                        <img src="oski/images/New Doc 2019-04-03 13.50.50_16.jpg"
+                            alt="osce marking scheme nigerian exam">
+                        <img src="oski/images/New Doc 2019-04-03 13.50.50_17.jpg"
+                            alt="osce marking scheme nigerian exam">
+                        <img src="oski/images/New Doc 2019-04-03 13.50.50_18.jpg"
+                            alt="osce marking scheme nigerian exam">
+                        <img src="oski/images/New Doc 2019-04-03 13.50.50_19.jpg"
+                            alt="osce marking scheme nigerian exam">
+                        <img src="oski/images/New Doc 2019-04-03 13.50.50_20.jpg"
+                            alt="osce marking scheme nigerian exam">
+                        <img src="oski/images/New Doc 2019-04-03 13.50.50_21.jpg"
+                            alt="osce marking scheme nigerian exam">
+                        <img src="oski/images/New Doc 2019-04-03 13.50.50_22.jpg"
+                            alt="osce marking scheme nigerian exam">
+                        <img src="oski/images/New Doc 2019-04-03 13.50.50_23.jpg"
+                            alt="osce marking scheme nigerian exam">
+                        <img src="oski/images/New Doc 2019-04-03 13.50.50_24.jpg"
+                            alt="osce marking scheme nigerian exam">
+                        <img src="oski/images/New Doc 2019-04-03 13.50.50_25.jpg"
+                            alt="osce marking scheme nigerian exam">
+                        <img src="oski/images/New Doc 2019-04-03 13.50.50_26.jpg"
+                            alt="osce marking scheme nigerian exam">
+                        <img src="oski/images/New Doc 2019-04-03 13.50.50_27.jpg"
+                            alt="osce marking scheme nigerian exam">
+                        <img src="oski/images/New Doc 2019-04-03 13.50.50_28.jpg"
+                            alt="osce marking scheme nigerian exam">
+                        <img src="oski/images/New Doc 2019-04-03 13.50.50_29.jpg"
+                            alt="osce marking scheme nigerian exam">
+                        <img src="oski/images/New Doc 2019-04-03 13.50.50_30.jpg"
+                            alt="osce marking scheme nigerian exam">
+                    </div>
+                </div>
+
                 <button class="accordion buttonToHide">Third Course Medical</button>
                 <div class="panel">
                     <ul class="subjects-select">
@@ -429,6 +521,7 @@
 
                     </ul>
                 </div>
+
                 <button class="accordion buttonToHide">Third Course Dentistry</button>
                 <div class="panel">
                     <ul class="subjects-select">
@@ -445,6 +538,7 @@
                     </ul>
 
                 </div>
+
                 <button class="accordion buttonToHide">Fourth Course Dentistry</button>
                 <div class="panel">
                     <ul class="subjects-select">

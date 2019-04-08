@@ -108,6 +108,24 @@
                 <h3>Answers to Questions and other materials</h3>
                 <p>The below are a compilations of some materials that may be helpfull in the preparation for the OSCE
                     exam.</p>
+
+                <h3>Explanation of terms</h3>
+                <p>
+                    <b>Gravida</b> indicates the number of times a woman is or has been pregnant, regardless of the
+                    pregnancy
+                    outcome. ... <br>
+                    <b>Parity, or "para"</b> indicates the number of pregnancies reaching viable gestational age (20
+                    weeks)
+                    (including live births and stillbirths). The number of fetuses does not determine the parity.<br>
+                    <b>Abortion</b> indicates the total number of induced abortions, miscarriages or ectopic pregnancies
+                    before 20 weeks gestation.
+
+                </p>
+                <h4>Birth trauma</h4>
+
+                <p>Brachial plexus injury is the most common neurologic birth injury. Approximately 21% of these
+                    injuries are associated with a shoulder dystocia at birth. Erb palsy (C3 to C5) is the most common
+                    of the brachial plexus injuries and usually resolves spontaneously, with little residual effect.</p>
                 <h4>Complete Neonatal Examinations</h4>
                 <div class="video-container">
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/cracmPo3iYo" frameborder="0"

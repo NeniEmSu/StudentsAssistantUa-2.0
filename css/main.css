@@ -98,8 +98,8 @@ h3 {
 }
 
 p {
-  font-size: 24px;
-  line-height: 28px;
+  font-size: 18px;
+  line-height: 22px;
   color: #010101;
   margin-bottom: 0.25rem;
 }
@@ -1631,6 +1631,7 @@ div.panel ul li a:hover {
   .video-container iframe,
   .video-container object,
   .video-container video,
+  .video-container img,
   .video-container embed {
     position: absolute;
     top: 20px;
