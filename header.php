@@ -22,7 +22,7 @@
                     <a class="nav-link" href="contact">Contact</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="exampractice">Exam practice</a>
+                    <a class="nav-link" href="examPractice">Exam practice</a>
                 </li>
             </ul>
             <button class="btn clear-btn sign-in"><a href="login">Sign in</a></button>
