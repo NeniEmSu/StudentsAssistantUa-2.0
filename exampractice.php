@@ -206,7 +206,8 @@
                 <button class="accordion buttonToHide nursing">Nursing</button>
                 <div class="panel">
                     <h3>BSN 1st Course</h3>
-                    <p><b>After Clicking On Link, Download and Extract Folder onto Device </b></p>
+                    <p><b>After Clicking On Link, Download and Extract Folder onto Device </b> <br />
+                        This folder contains practice for Anatomy, Physiology, Phsycology and Medical Biology.</p>
 
                     <li><a href="https://drive.google.com/open?id=16LhMJmaV9IuZ9sOvUVK6xpcQIDn3nO8z" target="_blank">
                             Download Practice App</a></li>
