@@ -205,8 +205,11 @@
 
                 <button class="accordion buttonToHide nursing">Nursing</button>
                 <div class="panel">
-                    <p>Questions are currently not available.If you have the questions pls contact admiin via the
-                        contact form or use the contact information at the pages footer.<br>Thank You.</p>
+                    <h3>BSN 1st Course</h3>
+                    <p><b>After Clicking On Link, Download and Extract Folder onto Device </b></p>
+
+                    <li><a href="https://drive.google.com/open?id=16LhMJmaV9IuZ9sOvUVK6xpcQIDn3nO8z" target="_blank">
+                            Download Practice App</a></li>
                 </div>
 
                 <button class="accordion buttonToHide pharmacy">Pharmacy</button>

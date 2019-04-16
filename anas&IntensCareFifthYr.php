@@ -103,6 +103,11 @@
                             PDF</a>
                     </iframe>
                 </object>
+                <a href="oski/oski-5/Artificial lungs ventilation with the face mask and an AMBU bag at the hospital stage.pdf"
+                    download>Download
+                    PDF</a><br><a
+                    href="oski/oski-5/Artificial lungs ventilation with the face mask and an AMBU bag at the hospital stage.pdf"
+                    target="_blank">View in new page PDF</a>
 
                 <h5 id="second-pdf" class="offset">Carrying out of electric impulse defibrillation at the hospital
                     stage.</h5>
