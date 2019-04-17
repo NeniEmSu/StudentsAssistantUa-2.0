@@ -794,6 +794,11 @@ body#about footer {
   transition: max-height 0.2s ease-in-out;
 }
 
+.panel ul,
+.panel ol {
+  margin: 0;
+}
+
 div.panel ul li a {
   text-decoration: none;
   font-size: 24px;
