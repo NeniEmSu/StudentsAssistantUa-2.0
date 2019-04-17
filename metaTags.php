@@ -19,8 +19,6 @@
 
 <!-- Favicons -->
 
-
-<link rel="manifest" type="image/png" href="img/favicon/favicon.png" />
 <link rel="mask-icon" type="image/png" href="img/favicon/favicon.png" color="#854B5B" />
 <link rel="icon" type="image/png" href="img/favicon/favicon.png" sizes="200x200" />
 <link rel="icon" type="image/png" href="img/favicon/favicon-196x196.png" sizes="196x196?2" type="image/png" />

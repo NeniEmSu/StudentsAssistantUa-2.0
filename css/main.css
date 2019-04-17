@@ -744,7 +744,42 @@ body#about footer {
   color: #f8f0e2;
   font-weight: bold;
   float: right;
-  margin-left: 5px;
+
+}
+
+.medical:after {
+  content: '\f0f0';
+  font-family: "Font Awesome 5 Free";
+
+  color: #f8f0e2;
+  font-weight: bold;
+  float: right;
+
+}
+
+.nursing:after {
+  content: '\f82f';
+  font-family: "Font Awesome 5 Free";
+  color: #f8f0e2;
+  font-weight: bold;
+  float: right;
+
+}
+
+.pharmacy:after {
+  content: '\f5b1';
+  font-family: "Font Awesome 5 Free";
+  color: #f8f0e2;
+  font-weight: bold;
+  float: right;
+}
+
+.dentistry:after {
+  content: '\f5c9';
+  font-family: "Font Awesome 5 Free";
+  color: #f8f0e2;
+  font-weight: bold;
+  float: right;
 }
 
 .active:after {
