@@ -1,0 +1,3611 @@
+?
+What types of distribution of phenomena do you know?
++Alternative, variant
+-Relative, absolute
+-Direct, indirect
+-Statistical, alternative
+-Intensive, extensive
+
+
+?
+The alternative type of distribution of the phenomena is:
++When the attribute either is or is not present in an observation unit
+-When the attribute is present at each observation unit, and has identical values
+-When the phenomenon characterizes each observation unit
+-When the attribute is present in each statistical population
+-When the attribute is present at each observation unit, and has different values
+
+
+?
+The variant type of distribution of the phenomena is:
++When the attribute is present at each observation unit, and has different values
+-When the attribute is present at each observation unit, and has identical values
+-When the attribute either is or is not present in an observation unit
+-When the phenomenon characterizes each observation unit
+-When the attribute is present in each statistical population
+
+
+?
+What formula is used to calculate intensive index?
++absolute value of a phenomenon / absolute value of the environment producing the phenomenon * 1000
+-absolute value of a phenomenon / absolute value of the environment not producing the phenomenon
+-absolute value of a share of the phenomenon / absolute value of the whole phenomenon
+-absolute value of a phenomenon / initial value of the phenomenon taken as 100% * 100
+-absolute value of the environment / absolute value of a phenomenon * 1000
+
+
+?
+What formula is used to calculate extensive index?
++absolute value of a share of the phenomenon / absolute value of the whole phenomenon * 100
+-absolute value of a phenomenon / absolute value of the environment producing the phenomenon * 1000
+-absolute value of a phenomenon / absolute value of the environment not producing the phenomenon * 1000
+-absolute value of a phenomenon / initial value of the phenomenon taken as 100% * 100
+-absolute value of the environment / absolute value of a phenomenon * 1000
+
+
+?
+What formula is used calculate correlation index?
++absolute value of a phenomenon / absolute value of the environment not producing the phenomenon * 10,000
+-absolute value of a phenomenon / absolute value of the environment producing the phenomenon * 1000
+-absolute value of a share of the phenomenon / absolute value of the whole phenomenon * 100
+-absolute value of a phenomenon / initial value of the phenomenon taken as 100% * 100
+-absolute value of the environment / absolute value of a phenomenon * 1000
+
+
+?
+What formula is used calculate visualization index?
++absolute value of a phenomenon / initial value of the phenomenon taken as 100% * 100
+-absolute value of a phenomenon / absolute value of the environment producing the phenomenon * 1000
+-absolute value of a phenomenon / absolute value of the environment not producing the phenomenon * 1000
+-absolute value of a share of the phenomenon / absolute value of the whole phenomenon * 100
+-absolute value of the environment / absolute value of a phenomenon * 1000
+
+
+?
+In the annual report, data about availability of beds to district's population is cited. What index is used in this case?
++Correlation
+-Intensive
+-Extensive
+-Visualization
+-Standardized
+
+
+?
+carrying out medical-statistical study it is often necessary to use methods of statistical analysis of the data presented in semiquantitative, semiqualitative and qualitative ways. How are these methods of statistical analysis called?
++Nonparametric methods
+-Parametrical methods
+-Methods of reliability of results of statistical study
+-Qualitative methods
+-Descriptive methods
+
+
+?
+what degree of reliability will the results of medicobiological research be considered reliable?
++Not less than 95.0% of degree of reliability
+-Not less than 68.3% of degree of reliability
+-Not less than 76.8% of degree of reliability
+-Not less than 99.0% of degree of reliability
+-Not less than 99.9% of degree of reliability
+
+
+?
+For reliability estimation, parametrical and nonparametrical criteria (coefficients) are used. Which of the below criteria is parametrical?
++Student's coefficient
+-Criterion of signs
+-Conformity coefficient
+-Ratio coefficient
+-Calculation of arithmetic mean
+
+
+?
+Parametrical criteria of estimation of reliability of results of statistical study include:
++Student's coefficient
+-Kolmogorov-Smirnov criterion
+-Wilcoxon's T-criterion
+-Criterion of signs
+-Conformity coefficient
+
+
+?
+In town K, prevalence of malignant neoplasms is studied. Result received: Р±1.96%. Define degree of probability of faultless prognosis for the result received:
++95.5%
+-68.0%
+-78.6%
+-99.7%
+-99.9%
+
+
+?
+Average duration of treatment for idiopathic hypertension in hospital N 1 made 17.0±1.0 days, in hospital N 2 – 15.0±0.5 days. Is the difference between indicators reliable, if Students' criterion is 1.79?
++No
+-Yes
+-It is necessary to calculate conformity criterion
+-It is necessary to reduce number of observations
+-It is necessary to define variation coefficient
+
+
+?
+For an estimation of reliability of statistical study results one calculates average errors. What does average error of mean and relative value specify?
++To what degree the results of selective research differ from general population
+-Possible reliability of average value
+-Possible reliability of relative indicator
+-Methodical error
+-Necessity of increase of number of observations
+
+
+?
+Clinical-statistical study of action of new pharmacological preparation on patients with ischemic disease of the heart is carried out. What parametrical criterion (coefficient) can be used for estimation of reliability of results?
++Student's coefficient
+-Conformity coefficient
+-Criterion of signs
+-Wilcoxon's T-criterion
+-Kolmogorov-Smirnov criterion
+
+
+?
+The fourth property of statistical population characterizes:
++Representativeness
+-Distribution
+-Average level
+-Correlation
+-Variety
+
+
+?
+For estimation of reliability of results of statistical study it is necessary to define:
++Error
+-mode
+-Median
+-Arithmetic mean
+-Variation coefficient
+
+
+?
+What is error of selective research?
++Difference between result of selective and continuous research.
+-Difference between the greatest and the least value variants.
+-Difference between indicators in examined and control groups.
+-Average value of a sign which is studied.
+-Average square deviation.
+
+
+?
+Select the definition of "representativeness" of a sign.
++Typicalness, revisualization.
+-Average level.
+-Probability of the faultless prognosis.
+-Reliability of difference between two indicators.
+-Remoteness of sign from its average value.
+
+
+?
+What are criteria of reliability?
++Representativeness error, confidential limits, Student's coefficient
+-Variation coefficient, correlation coefficient, Student's coefficient
+-Representativeness error, correlation coefficient, Student's coefficient
+-Representativeness error, variation coefficient, Student's coefficient
+-Representativeness error, Student's coefficient
+
+
+?
+What t value answers probability of the faultless prognosis (р) 95.5%?
++2
+-1
+-3
+-5
+-0.5
+
+
+?
+What property of statistical population characterizes representativeness (typicalness, revisualization) of a sign?
++IV
+-I
+-II
+-III
+-V
+
+
+?
+For estimation of reliability of average values it is necessary to define:
++Error
+-Mode
+-Median
+-Arithmetic mean.
+-Variation coefficient
+
+
+?
+Data series consists of variants – numerical value of signs studied. Define the second component of data series.
++Frequency of occurrence of every variant
+-Population of qualitative signs
+-Amplitude of a row
+-Deviation of every variant from arithmetic mean
+-Average square deviation
+
+
+?
+For defining arithmetic means data seriess are made. How each numerical value of attribute studied is called?
++Variant
+-Mode
+-Frequency
+-Average value
+-Median
+
+
+?
+On the basis of data series its different parameters are calculated. Which of the below is parameter of data series.
++Average value
+-Number of observations
+-Frequency variants
+-Deviation of variant from average value
+-Ratio between variants and frequency
+
+
+?
+On the basis of data series its different parameters are calculated. Which of the below is parameter of data series.
++Average square deviation
+-Number of observations
+-Frequency of variant
+-Deviation of variant from average value
+-Ratio between variants and frequency
+
+
+?
+Data series in which every variant occurs only once is called:
++Simple
+-Standard
+-Grouped (weighed)
+-Interval
+-Absolute
+
+
+?
+Data seriess in which variants can be presented only as integers and are not subject to "division" are called:
++Discrete
+-Simple
+-Complex
+-Nondiscrete
+-Describable
+
+
+?
+Data seriess in which variants can be presented in integers and fractions, are called:
++Nondiscrete
+-Simple
+-Discrete
+-Complex
+-Combined
+
+
+?
+For calculating physical development of students average values of growth and body weight were calculated. What demands should primary statistical material for calculation of average values answer?
++Qualitatively homogeneous population
+-Presence of null hypothesis
+-Absence of fluctuation of a attribute studied
+-Grouping of signs
+-Least number of observations
+
+
+?
+What arithmetic mean can be calculated from data series where frequency of every variant equals 1?
++Simple arithmetic mean
+-Weighed arithmetic mean
+-Median
+-Amplitude
+-Limit
+
+
+?
+What arithmetic mean can be calculated from data series where every variant meets certain frequency?
++Weighed arithmetic mean
+-Simple arithmetic mean
+-Average harmonic
+-Average geometrical
+-All the above answers are correct
+
+
+?
+How is variant called which occupies average position in data series.
++Median
+-Arithmetic mean
+-Simple arithmetic mean
+-Weighed arithmetic mean
+-Mode
+
+
+?
+For estimation of medicobiological data received at carrying out of statistical study, different types of average values are used. What of the below characterizes the data most fully?
++Arithmetic average
+-Mode
+-Median
+-Limit
+-Amplitude
+
+
+?
+Criteria of what group property of statistical population are average values?
++II
+-І
+-III
+-IV
+-V
+
+
+?
+What is data series?
++Number of homogeneous statistical values characterizing any phenomenon differ in size and placed in rank order.
+-Number of homogeneous statistical values characterizing change of any phenomenon for certain time intervals.
+-Number characterizing normal type of distribution of a attribute.
+-Number of numerical value of signs changing qualitatively for certain time intervals.
+-Absolute numerical value of certain parameter during certain periods of time.
+
+
+?
+What is variant?
++Quantitative attribute
+-Total of observations
+-Qualitative attribute
+-Random selection
+-Value occurring most often
+
+
+?
+Select types of data seriess.
++Simple, grouped.
+-Momentary, interval.
+-Simple, momentary.
+-Simple, interval.
+-Stationary, rank.
+
+
+?
+Select elements of data series.
++Variant, frequency.
+-Mode, median, arithmetic mean.
+-Limit, amplitude, average square deviation, variation factor.
+-Limit, amplitude, arithmetic mean.
+-Mode, median, average square deviation.
+
+
+?
+Annual report gives the information about providing the population by doctors for a few years. Which graphic illustration should be used in this case?
++Linear diagram
+-Column diagram
+-Sector diagram
+-Cartogram
+-Map diagram
+
+
+?
+Which type of graphical visualization should be used for illustration of human temperature change during a day?
++Radial diagram
+-Column diagram
+-Linear diagram
+-Cartogram
+-Sector diagram
+
+
+?
+What is frequency?
++Absolute number of separate variants
+-Total of observations
+-Quantitative attribute
+-Random selection
+-Value occurring most often
+
+
+?
+Data of general morbidity for the last 5 years is presented. Which type of visualization should be used in this case?
++Linear diagram
+-Cartogram
+-Sector diagram
+-Column diagram
+-Internal column diagram
+
+
+?
+What type of distribution is characterized by average values?
++Alternative
+-Alternative
+-Dynamic
+-Statistical
+-Physical
+
+
+?
+The data of morbidity structure is presented. Which type of visualization should be used in this case?
++Internal column diagram
+-Cartogram
+-Radial diagram
+-Column diagram
+-Linear diagram
+
+
+?
+Define average value.
++Generalizing value characterizing in one number a phenomenon which can have population of individual implications.
+-Value of attribute occurring most often in data series.
+-Value of attribute which occupies average position in data series and divides it in two equal parts.
+-Ratio between extreme values of variants.
+-Difference between extreme variants.
+
+
+?
+For illustration of general mortality levels dynamics should use next graphical visualization:
+
++Linear diagram
+-Column diagram
+-Internal column diagram
+-Cartogram
+-Sector diagram
+
+
+?
+The level of primary morbidity is presented for the last five years. Which type of visualization should be used in this case?
+-Sector diagram
+-Column diagram
+-Radial diagram
++ Linear diagram
+-Figured diagram
+
+
+?
+Select the types of average values.
++Mode, median, arithmetic mean.
+-Limit, amplitude, average square deviation, variation factor.
+-Variant, frequency.
+-Limit, amplitude, arithmetic mean.
+-Mode, median, average square deviation.
+
+
+?
+Among the causes of death according to the list of general physician the first place take the cardio-vascular diseases (65%), the second place belongs to the neoplasmatic processes and the third place belongs to the trauma and so on. Which type of visualization should be used in this case?
++Sector diagram
+-Column diagram
+-Cartogram
+-Linear diagram
+-Radial diagram
+
+
+?
+Select criteria of 3 properties of statistical population
++Limit, amplitude, average square deviation, variation factor.
+-Mode, median, arithmetic mean.
+-Variant, frequency.
+-Limit, amplitude, arithmetic mean.
+-Mode, median, average square deviation.
+
+
+?
+The second property of statistical population is characterized by:
++Mode, median, arithmetic mean.
+-Limit, amplitude, average square deviation, variation factor.
+-Variant, frequency.
+-Limit, amplitude, arithmetic mean.
+-Mode, median, average square deviation.
+
+
+?
+According to visits of patients to the regional outpatients' clinic, the quantity of visits was: in January – 257 cases of influenza, February – 222, March – 210, April – 81, May – 26, June – 5, July – 3, August – 8, September – 19, October – 29, November – 49, December – 152 cases. Seasonal fluctuation should be showed. Which type of visualization should be used in this case?
++Radial diagram
+-Cartogram
+-Sector diagram
+-Histogram
+-Column diagram
+
+
+?
+What is "mode"?
++Value of attribute occurring most often in data series.
+-Generalizing value characterizing in one number a phenomenon which can have population of individual implications.
+-Value of attribute which occupies average position in data series and divides it in two equal parts.
+-Ratio between extreme values of variants.
+-Difference between extreme variants.
+
+
+?
+Choose the correct type of graphical visualization for the monthly data of acute intestinal diseases in comparing with their average month quantity (data of last 5 years):
++Linear diagram
+-Radial diagram
+-Sector diagram
+-Histogram
+-Column diagram
+
+
+?
+What is "median"?
++Value of attribute which occupies average position in data series and divides it in two equal parts.
+-Generalizing value characterizing in one number a phenomenon which can have population of individual implications.
+-Value of attribute occurring most often in data series.
+-Ratio between extreme values of variants.
+-Difference between extreme variants.
+
+
+?
+The level of newborn mortality of the last year was 9.7‰ and in this year-9.5‰. Which type of visualization should be used in this case?
++Histogram
+-Sector diagram
+-Figured diagram
+-Radial diagram
+-Column diagram
+
+
+?
+What is "arithmetic mean"?
++Generalizing value characterizing in one number a phenomenon which can have population of individual implications.
+-Value of attribute occurring most often in data series.
+-Value of attribute which occupies average position in data series and divides it in two equal parts.
+-Ratio between extreme values of variants.
+-Difference between extreme variants.
+
+
+?
+In practice of general physician different diagrams are widely used. The bar diagram reflects:
++Dynamic of the phenomena, which is being studied
+-The structure of the phenomena
+-The correlation between phenomena
+-Size of the phenomena, which is being studied
+-Phenomena, which have cyclic appropriateness
+
+
+?
+For the graphical visualization of the phenomena, which are being studied, different diagrams are used. In which case should internal bar diagram be used?
++To illustrate the structure of the phenomena
+-To illustrate the dynamic of the phenomena
+-To illustrate the relations of the phenomena
+-To illustrate the diversity of the phenomena
+-To illustrate the average values
+
+
+?
+The level of general mortality in Ukraine was 14.4‰ in 2004, 14.2‰ in 2005, 15.3‰ in 2006, 16.0‰ in 2007. What type of diagram should be used to illustrate this information?
++Column diagram
+-Internal column diagram
+-Cartogram
+-Sector diagram
+-Radial diagram
+
+
+?
+Give an example of average value.
++Duration of stay of 10 acute pneumonia patients in a hospital.
+-Doctors per 10,000 people
+-Aggregate number of people who died in a hospital during the year.
+-Number of born in A town within a month.
+-Number of people subject to prophylactic medical examination on rural medical site.
+
+
+?
+Select numerical value of median for the following data series: 24, 25, 25, 26, 26, 28, 28, 28, 29, 29.
++27
+-25
+-26
+-28
+-29
+
+
+?
+What are the graphical visualization used in statistics for?
++To visual illustration of the statistical values and their deep analysis
+-To evaluate the reliability of the statistical study’s’ results
+-To study the correlation between phenomena
+-To standardize indices
+-To calculate the error of the relative and average values
+
+
+?
+What types of diagrams are mostly used for illustration of the intensive indices?
++Column and linear diagrams, cartograms, map diagrams
+-Sector and internal column diagram
+-Radial (polar) diagrams
+-Figured and internal column diagram
+-Cartograms, map diagrams
+
+
+?
+Select numerical value of median in a following data series: 11, 12, 13, 13, 14, 14, 15, 16.
++13.5
+-15
+-14.5
+-14
+-13
+
+
+?
+What type of diagram will illustrate the dynamic of the phenomena during a closed cycle of time?
++Radial (polar) diagrams
+-Column and linear diagrams, cartograms, map diagrams
+-Sector and internal column diagram
+-Figured and internal column diagram
+-Cartograms, map diagrams
+
+
+?
+What criterion of degree of heterogeneity of signs is defined by extreme values of variants in data series?
++Limit
+-Median
+-Mode
+-Average square deviation
+-Variation factor
+
+
+?
+What diagrams illustrate the static of the phenomena?
++Column diagram
+-Cartograms
+-Map diagrams
+-Internal column diagram
+-Linear diagrams
+
+
+?
+What diagram should be drawn to illustrate the dynamic of the birth rate during a certain period of time?
++Linear diagram
+-Cartogram
+-Radial diagram
+-Sector diagram
+-Map diagram
+
+
+?
+What criterion of estimation of degree of heterogeneity of signs is defined by difference of extreme value variant?
++Amplitude
+-Limit
+-Pure gain
+-Average square deviation
+-Variation factor
+
+
+?
+What diagram should be drawn to illustrate the structure of the death causes?
++Sector diagram
+-Linear diagram
+-Cartogram
+-Radial diagram
+-Map diagram
+
+
+?
+Select the criterion of variety.
++Variation coefficient
+-Limit
+-Relative value
+-Amplitude
+-Average square deviation
+
+
+?
+What diagram should be drawn to illustrate the frequency of the ambulance callings to the patients with cardio-vascular diseases according to the months of the year?
++Radial diagram
+-Linear diagram
+-Cartogram
+-Sector diagram
+-Map diagram
+
+
+?
+What is the correlation between 1% and degrees of the circle during creation of the sector diagram?
++3.6
+-1.6
+-3.0
+-10.6
+-18.0
+
+
+?
+What is the correlation between 3% and degrees of the circle during creation of the sector diagram?
++10.8
+-1.6
+-3.0
+-3.6
+-18.0
+
+
+?
+What is the correlation between 10% and degrees of the circle during creation of the sector diagram?
++36.0
+-10.8
+-3.0
+-3.6
+-18.0
+
+
+?
+In practical public health service it is often necessary to calculate standardized parameters. What is practical value of standardization method?
++Allows to find out influence of heterogeneity of studied groups on the studied phenomenon
+-Allows to estimate dynamic parameters
+-Allows to compare extensive parameters
+-Allows to define heterogeneity of studied groups
+-Allows to compare ratio parameters in heterogeneous groups
+
+
+?
+On the system of polar coordinates creates next diagram:
++Radial diagram
+-Linear diagram
+-Column diagram
+-Internal column diagram
+-Sector diagram
+
+
+?
+cstimation of degree of heterogeneity of average growth of schoolchildren it has been stated that variation factor was 28%. Estimate degree of variation of an attribute:
++High
+-Very low
+-Low
+-Average
+-Very high
+
+
+?
+What types of the graphical illustrations do you know?
++Diagrams, cartograms, map diagrams
+-Graphs, diagrams
+-Cartograms, diagrams, graphs
+-Linear, sector, radial diagrams
+-Flat diagrams, map diagrams
+
+
+?
+What types of diagrams are mostly used for illustration of the extensive indices?
++Sector and internal column diagram
+-Column and linear diagrams, cartograms, map diagrams
+-Radial (polar) diagrams
+-Figured and internal column diagram
+-Cartograms, map diagrams
+
+
+?
+What types of diagrams are used to illustrate regional changes of statistical values?
++Cartograms, map diagrams
+-Column and linear diagrams, cartograms, map diagrams
+-Sector and internal column diagram
+-Radial (polar) diagrams
+-Figured and internal column diagram
+
+
+?
+cortality study in two regions having different sex and age structure of population, the following data has been obtained: in district A mortality was 14.0‰, in district B 16.0‰. What statistical method has to be applied to compare these parameters?
++Standardization
+-Time series
+-Relative parameters
+-Average values
+-Correlation
+
+
+?
+What diagrams illustrate the dynamic of the phenomena?
++Linear diagrams
+-Cartograms
+-Map diagrams
+-Internal column diagram
+-Column diagram
+
+
+?
+What diagram should be drawn to illustrate the dynamic of the mortality level for a few years?
++Linear diagram
+-Cartogram
+-Radial diagram
+-Sector diagram
+-Map diagram
+
+
+?
+case rate study in the N town it has been established that the population of different administrative districts differs on the age structures. What allows to exclude influence of this factor on case rate parameters from statistical methods?
++Standardization method
+-Wilcoxon's T-criterion
+-Correlation-regressive analysis
+-Analysis of time series
+-Calculation of average values
+
+
+?
+What diagram should be drawn to illustrate the structure of the morbidity?
++Sector diagram
+-Linear diagram
+-Cartogram
+-Radial diagram
+-Map diagram
+
+
+?
+What diagram should be drawn to illustrate the frequency of the district pediatricians callings to the patients with acute respiratory diseases according to the months of the year?
++Radial diagram
+-Linear diagram
+-Cartogram
+-Sector diagram
+-Map diagram
+
+
+?
+calculation of standardized parameter, different derivative values are calculated. Which of them can display the valid frequency of the phenomenon in the environment?
++Intensive parameters
+-"Expected" numbers in groups
+-Standardized
+-Sum of "expected" numbers in aggregate studied
+-Extensive parameters
+
+
+?
+What is the correlation between 2% and degrees of the circle during creation of the sector diagram?
++7.2
+-1.6
+-3.0
+-3.6
+-10.6
+
+
+?
+What type of the graphical illustration may be used for the analysis of the birth rate dynamic?
++Linear diagram
+-Sector diagram
+-Radial diagram
+-Internal column diagram
+-Cartogram
+
+
+?
+What type of the graphical illustration may be used for the analysis of the population size dynamic?
++Linear diagram
+-Sector diagram
+-Radial diagram
+-Internal column diagram
+-Cartogram
+
+
+?
+Graphic visualizations have wide application for visual display of different statistical values. On what charts is it possible to display the levels of birth-rate in towns A., B., C. in 2008?
++Column diagram
+-Sector charts
+-Inline charts
+-Radial charts
+-It is possible to use all charts
+
+
+?
+What type of the graphical illustration may be used for the analysis of the birth rate in different aeries?
++Cartogram
+-Linear diagram
+-Sector diagram
+-Radial diagram
+-Internal column diagram
+
+
+?
+What type of the graphical illustration may be used for the analysis of the seasonal violations of acute respiratory diseases morbidity level?
++Radial diagram
+-Linear diagram
+-Sector diagram
+-Internal column diagram
+-Cartogram
+
+
+?
+For visual revisualization of different statistical values, and also for their analysis graphic visualizations are widely used. On what charts is it possible to display valid and standardized parameters in dynamics?
++Linear
+-Cartograms
+-Column
+-Inline
+-Radial
+
+
+?
+What type of the graphical illustration should be used for the analysis of the morbidity structure according to the classes of diseases?
++Sector diagram
+-Cartogram
+-Radial diagram
+-Column diagram
+-Linear diagram
+
+
+?
+Define “time series”:
++Series of homogeneous statistical quantities, which characterizes the changing of one phenomenon during a certain time period
+-Normal type of indication distribution
+-Series of numerical value, which characterize a certain index, differ in value and are placed in rang order
+-Series of numerical value of indices, which change in qualitative aspect during a certain time period
+-Series, which show the distribution of population in order of the variation index value
+
+
+?
+In what values are the levels of simple time series expressed?
++Absolute numbers
+-Relative numbers
+-Average numbers
+-Relative and absolute numbers
+-Relative and average numbers
+
+
+?
+In many cases comparison of parameters of case rate, mortality etc is impossible through heterogeneity of population in which these parameters are calculated. Application of what statistical method makes it possible to compare these parameters?
++Standardization method
+-Correlation method
+-Wilcoxon's T-criterion
+-Estimations of reliability of relative values
+-Estimations of reliability of average values
+
+
+?
+What is an “absolute growth”?
++Difference between the data of given and previous levels of the series
+-Ratio of the absolute growth to the previous level * 100%
+-Ratio of the present level to the previous * 100%
+-Ratio of the absolute growth to the speed of increase
+-Difference between the previous and next levels of the series
+
+
+?
+What is the “level” of time series?
++Numbers, which form the time series
+-An average number of series indices
+-The largest number of series indices
+-The difference between the largest and the smallest indices of the series
+-The value of the time interval of the series indices
+
+
+?
+What method is recommended to be used, if it is necessary to find out influence of heterogeneity of structure working in shops on case rate (according to sex, age, experience etc.)?
++Standardization
+-Nonparametric criteria
+-Intensive parameters
+-Average values
+-Extensive parameters
+
+
+?
+What is the rate of growth?
++Ratio of the present level to the previous 100%
+-The difference between present and previous levels of the series
+-Ratio of absolute growth and previous level * 100%
+-Ratio of the absolute growth to the pace of growth
+-Difference between the previous and present levels of the series
+
+
+?
+What is the rate of gain?
++The ratio of the absolute growth to the previous levels of the series 100%
+-The difference between the next and present levels of the series
+-The ratio of the present level to previous*100%
+-The ratio of the absolute growth to the pace of the growth
+-The difference between the previous and the next levels of the series
+
+
+?
+Calculation of standardized parameter by direct method includes some stages. What of the below positions belongs to the first stage.
++Calculation of total and group parameters
+-Calculation of average level of parameters
+-Comparison of standardized and extensive parameters
+-Calculation of deviation of "expected" values from intensive parameters
+-Calculation of phenomenon in percentage
+
+
+?
+What is the index of the visualization?
++The ratio of every compared value to the baseline, which is considered a total or 100%
+-The difference between the next and the previous levels of the series
+-The ratio of the absolute growth to the previous levels of the series *100%
+-The ratio of the present level to previous*100%
+-The ratio of the absolute growth to the pace of the growth
+
+
+?
+What is the absolute value of 1% growth?
++The ratio of the absolute growth to the pace of the growth
+-The difference between present and previous levels of the series
+-The ratio of the absolute growth to the previous levels of the series *100%
+-The ratio of the present level to previous*100%
+-The difference between the previous and the next levels of the series
+
+
+?
+Which of the indices listed below is used for the analysis of the time series?
++Absolute growth, pace of growth, pace of enlarging
+-The largest and the smallest indices of the series
+-The level of the series and interval of the series
+-Mode, median, arithmetical mean
+-Limit, amplitude, mean square deviation, coefficient of variation
+
+
+?
+Calculation of standardized parameter by direct method includes some stages. What of the below positions belongs to one of these stages.
++Choice and calculation of a standard
+-Calculation of average level of parameters
+-Comparison of standardized and extensive parameters
+-Calculation of deviation of "expected" values from intensive parameters
+-Calculation of phenomenon in percentage
+
+
+?
+What time series characterize the number of hospital bed at the end of the year.
++Instantaneous
+-Stationary
+-Non-stationary
+-Compound
+-Interval
+
+
+?
+Calculation of standardized parameter by direct method includes some stages. Which of the below belongs to one of these stages.
++Calculation of standardized parameters
+-Calculation of average level of parameters
+-Comparison of standardized and extensive parameters
+-Calculation of phenomenon in percentage
+-Calculation of deviation of "expected" values from intensive parameters
+
+
+?
+Select the type of time series which characterizes the number of first-care calls during a day.
++Interval
+-Stationary
+-Non-stationary
+-Compound
+-Instantaneous
+
+
+?
+A number of doctors in a district for 5 years (on 1.01 every year) was 120; 122; 125; 121; 118. What time series is produced?
++Instantaneous
+-Compound
+-Rank
+-Equalized
+-Interval
+
+
+?
+The number of births cases in a district for past 5 years was: 427; 430; 418; 405; 398. What time series is produced?
++Interval
+-Simple
+-Rank
+-Stationary
+-Instantaneous
+
+
+?
+Calculation of standardized parameter by direct method includes some stages. Which of the below belongs to one of these stages.
++Calculation of "expected" number according to standard
+-Calculation of average level of parameters
+-Calculation of phenomenon in percentage
+-Comparison of standardized and extensive parameters
+-Calculation of deviation of "expected" values from intensive parameters
+
+
+?
+What time series characterizes average employment of hospital bed for a few years.
++Interval
+-Simple
+-Rank
+-Equalized
+-Instantaneous
+
+
+?
+What values are express the levels of difficult time series?
++Relative and average
+-Relative
+-Average
+-Absolute
+-Relative and absolute
+
+
+?
+The standardized parameter can be calculated by different methods. Which of the below belongs to one of methods of calculation of this parameter?
++Direct
+-Simple
+-Group
+-Mixed
+-Selective
+
+
+?
+What purpose of the time series use?
++For the analysis of indices dynamics and progress of the phenomenon trend
+-For the construction of statistical tables
+-For the estimation of absolute growth
+-For the estimation of certain factors influence on the dynamics of the studied process
+-For the study of correlation between the phenomena
+
+
+?
+Give an example of the absolute growth index (time series: 10, 15, 5).
++15-10=+5
+-15/10 x 100=150%
+-15-5=+10
+-10/5 x 100=200%
+-5/10 x 100=50%
+
+
+?
+Standardized parameter can be calculated by different methods. Which of the below belongs to method of calculation of this parameter?
++Indirect
+-Simple
+-Group
+-Mixed
+-Selective
+
+
+?
+Give an example of rate of gain index (time series: 10, 15, 5).
++5/10*100=50%
+-10/15*100=66.7%
+-15-10=+5
+-15-5=+10
+-10/5*100=200%
+
+
+?
+Give an example of the rate of growth (time series: 10, 15, 5).
++15/10 x 100=150%
+-15-10=+5
+-15-5=+10
+-10/5 x 100=200%
+-5/10 x 100=50%
+
+
+?
+calculation of standardized parameters different methods are used. Which of the below belongs to method of calculation of this parameter?
++Reverse
+-Simple
+-Group
+-Selective
+-Mixed
+
+
+?
+Give an example of the visualization index (time series: 10, 15, 5).
++5/10*100=50%
+-5/15*100=33%
+-15-10=+5
+-15-5=+10
+-10/5*100=200%
+
+
+?
+Types of time series:
++Instantaneous, interval, simple, difficult
+-Instantaneous, current, simple, difficult
+-Interval, increate, discrete, difficult
+-Typological, variation, instantaneous, interval
+-Standardized, intensive, extensive, grouped
+
+
+?
+For what purpose is standardization of parameters done?
++Elimination of parameters calculated in qualitatively heterogeneous population.
+-Elimination of influence of heterogeneity as a share of population studied.
+-Elimination of parameters calculated in quantitatively heterogeneous population.
+-Study and analysis of dynamics of parameters.
+-Estimation of correlation between the phenomena.
+
+
+?
+What is the simple time series from the below?
++Number of in-patient death cases for 6 years: 	18	20	22	23	30	31
+-Level of in-patient lethality for 6 years (%): 	0.6	0.5	0.7	0.75	1.2	1,3
+-Average duration of the in-patients' stay (days): 	14.5	14.8	13.6	16.1	16.6	16.9
+-Level of birth-rate for 6 years in a maternity hospital (‰): 	8.1	7.4	7.2	7.3	6.0	6.1
+-Level of morbidity for chronic bronchitis for 6 years (‰): 	6.0	8.5	7.6	9.0	8.2	10.5
+
+
+?
+Select methods of standardization of parameters.
++Direct, indirect, reverse
+-Direct, indirect
+-Full, incomplete
+-Direct, reverse, full
+-Direct, indirect, partial
+
+
+?
+What is the difficult time series from the below?
++Level of morbidity for chronic bronchitis for 6 years (‰) 	6.0	8.5	7.6	9.0	8.2	10.5
+-Number of in-patient death cases for 6 years: 	18	20	22	23	30	31
+-Number of doctors on a district for 5 years (on 1.01 every year): 	56	58	60	65	57	63
+-Number of incapacity cases per 100 working in a workshop for 6 years: 	68.2	76.0	66.3	77.4	72.0	78.0
+-Number of labors for 6 years in a maternity hospital: 	32	30	29	26	28	30
+
+
+?
+How many stages does direct standardization method have?
++5
+-2
+-3
+-4
+-6
+
+
+?
+Choose correct definition of the concept “Instantaneous line”:
++The levels of the series characterize the phenomenon on the certain moment of time
+-Size of the phenomenon on the certain moment of time
+-Size of sentinel interval of time series
+-Structure of the phenomenon for separate periods of time, on territories
+-The levels of the series are determined for certain period of time
+
+
+?
+Choose correct definition of the concept “Interval line”:
++The levels of the series are determined for certain period of time
+-Size of the phenomenon on the certain moment of time
+-Size of sentinel interval of time series
+-Structure of the phenomenon for separate periods of time, on territories
+-The levels of the series characterize the phenomenon on the certain moment of time
+
+
+?
+What is the first stage of direct standardization method?
++Calculation of intensive parameters.
+-Choice and calculation of a standard.
+-Comparison of simple intensive and standardized parameters.
+-Calculation of expected values.
+-Calculation of standardized parameters.
+
+
+?
+For the last 5 years (on 1.01 every year) the number of doctors on a district was: 56; 58; 60; 65; 57. What time series is produced?
++Instantaneous
+-Increate
+-Interval
+-Discrete
+-Rank
+
+
+?
+What is the second stage of direct standardization method?
++Choice and calculation of a standard.
+-Calculation of intensive parameters.
+-Comparison of simple intensive and standardized parameters.
+-Calculation of expected values.
+-Calculation of standardized parameters.
+
+
+?
+Give an example of the absolute growth index (time series: 24, 12, 4).
++12-24=-12
+-12/24*100=50%
+-24-12=+12
+-4/12*100=33.3%
+-4/24*100=16.7%
+
+
+?
+Give an example of the rate of gain index (time series: 24, 12, 4).
++-12/24 x 100 = -50%
+-24/12 x 100 = 200%
+-12/24 x 100 = 50%
+-4/12 x 100 = 33.3%
+-12/-12 x 100 = -100%
+
+
+?
+Give an example of the rate of growth index (time series: 24, 12, 4).
++12/24*100 = 50%
+-12-24 = -12
+-24-12 = +12
+-4/-12*100 = -33.3%
+-4/24*100 = 16.7%
+
+
+?
+What is the third stage of direct standardization method?
++Calculation of expected values.
+-Choice and calculation of a standard.
+-Calculation of intensive parameters.
+-Comparison of simple intensive and standardized parameters.
+-Calculation of standardized parameters.
+
+
+?
+What is the fourth stage of direct standardization method?
++Calculation of standardized parameters.
+-Choice and calculation of a standard.
+-Calculation of intensive parameters.
+-Comparison of simple intensive and standardized parameters.
+-Calculation of expected values.
+
+
+?
+Give an example of parameter of visualization (time series: 24, 12, 4).
++4/24 100=16.7%
+--12/24 100=50%
+-12-24=-12
+-24-12=+12
+-4/12 100=33.3%
+
+
+?
+Taking of time series to one basis at its smoothing is conducted by a calculation:
++Indices of visualization
+-Absolute growth
+-Rate of gain
+-Indices of correlation
+-Rate of growth
+
+
+?
+What is the fifth stage of direct standardization method?
++Comparison of simple intensive and standardized parameters.
+-Choice and calculation of a standard.
+-Calculation of intensive parameters.
+-Calculation of expected values.
+-Calculation of standardized parameters.
+
+
+?
+Which of the below time series is momentary?
++Beds at the end of calendar year
+-Number of hospitalization cases in hospital
+-Number of lethal cases during the year
+-Number of first-care calls during a day
+-Dynamics of death rate of babies in Ukraine for past 5 years
+
+
+?
+Which of the below time series is interval?
++Number of first-care calls during a day
+-Staff of central district hospital at the end of quarter
+-Cases discovered during physical examination
+-Beds on the end of calendar year
+-Number of population of Ukraine from census data
+
+
+?
+What is most often taken as a standard?
++Half-sum of quantitative structure of groups.
+-Sum of quantitative structure of groups.
+-Maximum parameter.
+-Minimum parameter.
+-Difference between two parameters.
+
+
+?
+Birth-rate in one of the regions of Ukraine for the last 5 years: 8.3‰, 7.8‰, 7.8‰, 8.5‰, 9.0‰. What type of time series is this?
++Interval
+-Instantaneous
+-Grouped
+-Discrete
+-Opened
+
+
+?
+what stage of direct standardization method is calculation of intensive parameters carried out?
++І
+-II
+-ІІІ
+-IV
+-V
+
+
+?
+A time series is characterized by certain indices. Define absolute growth of time series.
++Difference between current and previous level
+-Difference between every level of the series and arithmetic mean
+-Difference between every level of the series and mode of the series
+-Difference between the first and last level of the series
+-Difference between current level of the series and the level taken as base
+
+
+?
+Define clinical epidemiology as a science:
++Science that studies the laws of disease distribution, carries out prognostication for every individual patient on the basis of study of clinical flow of illness in similar cases
+-Science that studies social laws of public health and grounds the ways of its improvement through the rational organization of public health
+-Science that studies the operating of market laws in the system of healthcare and influence of healthcare on the basic factor of production – labor force
+-Science that studies the quantitative side of the mass phenomena in indissoluble connection with their quality side
+-Science that studies the laws of distribution of diseases among the different social stratums of population and discovering reasons of this distribution
+
+
+?
+what stage of direct standardization method is choice and calculation of a standard carried out?
++II
+-І
+-III
+-IV
+-V
+
+
+?
+Which objects does clinical epidemiology use to solve its problems?
++People
+-Tissue cultures
+-Animals
+-Cellular membranes
+-Elements of the human body
+
+
+?
+What is the application of standardization of parameters?
++Comparative estimation of demographic parameters in different age-sex groups.
+-Analysis of demographic parameters.
+-Analysis of parameters of case rate.
+-Analysis of parameters of hospital's activity.
+-Analysis of parameters of activity of out-patient clinic.
+
+
+?
+What is the main purpose of epidemiology?
++Active introduction of the clinical observation and data analysis methods, which provide correct decision-making in treatment of patients and in economics
+-Active dynamic observation of the level of people’s health
+-Development and implementation of measures, connected with the prophylactic of diseases and prevention of complications
+-Active timely conduction of the prophylactic medical inspections, promotion of the sanitary and hygienic knowledge
+-Studying of the diseases distribution laws (among different social groups) and identification of the reasons of such distribution
+
+
+?
+What types of clinical studies exist from the organizational point of view?
++Experimental and observational
+-Simple and complex
+-Primary and secondary
+-Statistical and mathematical
+-Parametric and nonparametric
+
+
+?
+What method of standardization is used most often?
++Direct
+-Indirect
+-Reverse
+-Full
+-Partial
+
+
+?
+What types of clinical studies exist from the organizational point of view?
++Controlled and observational
+-Simple and complex
+-Primary and secondary
+-Parametric and nonparametric
+-Statistical and mathematical
+
+
+?
+It is necessary to consider the standardized parameters as:
++Conditional
+-Full
+-Official
+-True
+-Relative
+
+
+?
+If a researcher may control and change the factor which influences the outcome of the disease and is being studied, what type of research will it be?
++Experimental
+-Parametric
+-Observational
+-Statistical
+-Nonparametric
+
+
+?
+what stage of direct standardization method is comparison of simple intensive and standardized parameters carried out?
++V
+-І
+-II
+-III
+-IV
+
+
+?
+If a researcher may not control and change the factor which influences the outcome of the disease and is being studied, what type of research will it be?
++Observational
+-Parametric
+-Experimental
+-Statistical
+-Nonparametric
+
+
+?
+What types of the observational research do you know?
++Prospective and retrospective
+-Simple and complex
+-Parametric and nonparametric
+-Statistical and mathematical
+-Controlled and uncontrolled
+
+
+?
+Define statistics as a science
++Science which studies the quantitative share of mass phenomena in close relation with their qualitative part
+-Science which studies social patterns of health of people and proves ways of its improvement through rational organization of public health services
+-Science which studies activity of treatment-and-prophylactic facilities
+-Science which studies action of market laws in the system of medical care and influence of public health services on labor, the major factor of manufacture
+-Science which studies laws of distribution of diseases among different social layers of population and tries to discover the reasons of this distribution
+
+
+?
+According to its organization, observational research is divided into:
+-Transversal and longitudinal
+-Simple and complex
++Prospective and retrospective
+-Parametric and nonparametric
+-Statistical and mathematical
+
+
+?
+What is biostatistics?
++Statistical information and methods that use special recommendations concerning public health services and social problems
+-Statistical information on action of market laws in the system of medical care and influence of public health services on labor, the major factor of manufacture
+-A set of methods providing collection, storage and analysis of medical information
+-Statistical information on the public phenomena studied, taking into account various descriptive registration signs
+-Medical and statistical information on laws of distribution of diseases among different social layers of the population
+
+
+?
+Observational research conducted during a certain time period is called:
++Longitudinal
+-Retrospective
+-Parametric
+-Statistical
+-Transversal
+
+
+?
+What is meta-analysis?
++Quantitative analysis of the jointed results of few clinical studies of the same interference
+-Qualitative analysis of the jointed results of few clinical studies of the same interference
+-Statistical analysis of the certain results of one clinical studies
+-Quantitative and qualitative analysis of the variety of statistical values
+-Qualitative analysis of certain results of one clinical studies
+
+
+?
+When did statistics begin to emerge as an independent science?
++17th century
+-16th century
+-18th century
+-19th century
+-20th century
+
+
+?
+Criteria of treatment effectiveness studied during clinical studies are:
++Direct and indirect
+-Simple and complex
+-Prospective and retrospective
+-Parametric and nonparametric
+-Controlled and uncontrolled
+
+
+?
+Who is the father of the science of biostatistics (biometrics)?
++F.Galton
+-G.Achenwall
+-D.Ground
+-W.Petty
+-J.Bernoulli
+
+
+?
+What is the main purpose of randomization method in clinical studies?
++Random selection of the observation groups
+-Increasing of the number of observation units
+-Evaluating of the reliability of the research
+-Calculation of the main statistical values
+-Reduction of the number of observation units
+
+
+?
+Which method helps to select participants that are practically identical in quantitative and qualitative indices during clinical studies?
++Random
+-Typological
+-Statistical
+-Group
+-Anamnestic
+
+
+?
+During historical development of general statistics, different types of statistics have formed in its structure. To what statistics does medical statistics belong?
++Social
+-Economic
+-Political
+-Statistics of science
+-Statistics of education
+
+
+?
+Statistical study which foresees dividing patients into nonrandom groups in case of impossibility of random division according to the technical or ethical reasons is called:
++Nonrandom
+-Random
+-Cohort
+-Controlled
+-Nonparametric
+
+
+?
+What method may be used to determine correlation power between sex of population and myocardial infarction mortality?
++Rank correlation method (Spearman)
+-Correlation ratio
+-Chi-squared method (Pearson)
+-Indirect method (Student)
+-Method of stepped correlation (Ermler)
+
+
+?
+Basic requirements to statistical information:
++Qualitative uniformity, reliability and completeness of data
+-Collecting information by questionnaires
+-Current data recording
+-Collecting information only by censuses
+-Course of entering of materials
+
+
+?
+There are two types of quantitative relations between the phenomena and processes: functional and correlative. Which processes are connected with functional relation?
++Physical and chemical
+-Medical
+-Biological
+-Political
+-Social
+
+
+?
+In 2007, 50,000 people lived in town K, 415 babies (including 198 girls, 217 boys) were born. 623 people died. Calculate birth rate.
+-
+-
+-
+-
++
+
+
+?
+In 2007, 50,000 people lived in town K, 415 babies (including 198 girls, 217 boys) were born. 623 people died. Calculate extensive index.
++
+-
+-
+-
+-
+
+
+?
+In 2007, 50,000 people lived in town K, 415 babies were born. 623 people died. There were 175 doctors. Calculate correlation.
+-
+-
+-
++
+-
+
+
+?
+Select the formula for error of average values at small number of observations.
+-
+-
+-
++
+-
+
+
+?
+Select the formula for error of relative values at n> 30.
++
+-
+-
+-
+-
+
+
+-what formula is reliability of difference between relative values calculated?
+-
+-
++
+-
+-
+
+
+?
+Select the formula for error of average value at large number of observations.
+-
+-
++
+-
+-
+
+
+?
+Select the formula for error of relative values at n > 30.
+-
++
+-
+-
+-
+
+
+-what formula is reliability of difference between average values calculated?
++
+-
+-
+-
+-
+
+
+?
+Select the formula for simple arithmetic mean.
++
+-
+-
+-
+-
+
+
+-what formula is arithmetic mean of the following data series calculated: 10, 11, 12, 13, 14, 15, 16?
++
+-
+-
+-
+-
+
+
+?
+Select the formula for weighed arithmetic mean.
+-
++
+-
+-
+-
+
+
+?
+Select the formula for arithmetic mean by the method of moments.
+-
+-
++
+-
+-
+
+
+-what formula is arithmetic mean for the following data series calculated: 10, 10, 11, 11, 11, 12, 12?
+-
++
+-
+-
+-
+
+
+?
+Basic ways of forming a research object by ways of data collection:
++Immediate observation, data extraction, questionnaires
+-Developing a research plan and program, definition of the purpose and tasks
+-Developing a research plan and program
+-Current and single-step, continuous and selective
+-Continuous and selective, combined
+
+
+?
+To characterize the relations between different signs, correlation coefficient is calculated using different methods. Which of the below methods is used for this purpose?
++Rank method
+-Marks method
+-Method of variable average
+-Method of least squares
+-Standardization method
+
+
+?
+What method of statistical data processing is used for evaluation of influence of environment factors on health of people?
++Correlation analysis
+-Analysis of the time series
+-Calculation of the relative and average values
+-Estimation methods of the distinctions’ confidence
+-Standardization method
+
+
+?
+Define general statistical population
++Population which includes all observation units
+-Each special case of the phenomenon studied
+-Criterion which characterizes an observation unit
+-Population which includes a certain share of observation units provided that this part is able to display or represent all general population
+-Total number of observation units.
+
+
+?
+Age and blood pressure of 200 hypertonic disease patients were studied. Which statistical value should be used to determine the power of correlation between those signs?
++Coefficient of correlation
+-Sigma deviation
+-Coefficient of variation
+-Student's coefficient
+-Error of revisualization
+
+
+?
+Define selective statistical population
++Population which includes a certain share of observation units provided that this part is able to display or represent all general population
+-Population which includes all observation units
+-Each special case of the phenomenon studied
+-Criterion which characterizes an observation unit
+-Total number of observation units
+
+
+?
+Which method of statistical data processing is used to determine correlation between morbidity and temperature conditions of the environment?
++Correlation
+-Relative values
+-Standardization
+-Average values
+-Time series
+
+
+?
+What is statistical population?
++Big group of homogeneous elements, actions, phenomena taken together within certain limits of time and space
+-Total number of observation units
+-Public phenomena studied taking into account various descriptive registration signs
+-Each specific case of the phenomenon studied
+-Population of all signs which are subject to study
+
+
+?
+According to information about morbidity for acute respiratory diseases and average monthly air temperature, correlation coefficient was calculated at -0.67. Define direction of correlation between those signs.
++Indirect correlation
+-Direct correlation
+-Strong correlation
+-Average correlation
+-Weak correlation
+
+
+?
+What is a component of statistical population?
++Unit of observation
+-Registration attribute
+-Share of statistical population
+-Statistical attribute
+-Signs which are subject to study
+
+
+?
+Research was conducted on the representative population of pneumonia patients: correlation between body temperature and pulse was studied. Correlation coefficient was +0.7. Define direction and power of correlation between those sings:
++Direct strong correlation
+-Direct weak correlation
+-Direct average correlation
+-Complete association
+-Weak correlation
+
+
+?
+Define an observation unit
++Each special case of the phenomenon studied
+-Population which includes all observation units
+-Criterion which characterizes an observation unit
+-Population which includes a certain share of observation units provided that this part is able to display or represent all general population
+-Total number of observation units
+
+
+?
+According to information about influenza morbidity and average monthly air temperature, correlation coefficient is -0.58. Define direction of correlation between those signs.
++Reverse correlation
+-Direct correlation
+-Strong correlation
+-Average correlation
+-Weak correlation
+
+
+?
+Specific research conducted on young people found direct strong correlation between the frequencies of hypertensive disease and craniocerebral trauma. What should correlation coefficient be?
++Between +0.70 to +0.99
+-Between -0.70 to +0.99
+-Between -0.30 to -0.99
+-Between +0.30 to +0.99
+-Between -0.70 to +0.70
+
+
+?
+Population phenomena are studied taking into account a considerable quantity of various registration signs which characterize an observation unit. How are signs with only two values called?
++Alternative
+-Momentary
+-Attributive
+-Quantitative
+-Discrete
+
+
+?
+Estimate correlation between signs, if rхy = +0.31:
++Direct, medium
+-Direct, weak
+-Direct, strong
+-Reverse, weak
+-Reverse, medium
+
+
+?
+cstimation of correlation between age of idiopathic hypertension patients and level of arterial pressure, correlation factor is +0.8. Estimate direction and force of correlation in this case:
++Direct, strong
+-Direct, weak
+-Direct, full
+-Reverse, weak
+-Reverse, medium
+
+
+?
+Estimate correlation between signs, if rхy = – 0.8:
++Reverse, strong
+-Reverse, medium
+-Direct, medium
+-Direct, weak
+-Reverse, rectilinear
+
+
+?
+Each observation unit has a considerable quantity of various registration signs. How are registration signs characterizing object of research studied for a certain moment called?
++Momentary
+-Attributive
+-Quantitative
+-Discrete
+-Alternative
+
+
+?
+How is correlation called according to its direction, if signs studied change in relation to each other proportionally?
++Rectilinear
+-Direct
+-Curvilinear
+-Reverse
+-Unidirectional
+
+
+?
+What are the types of statistical study based on the way of receiving information?
++Immediate, anamnestic
+-Continuous and selective
+-Current and single-step
+-Combined
+-Official and special
+
+
+?
+How is correlation called according to direction, if signs studied change in relation to each other unproportionally?
++Curvilinear
+-Direct
+-Reverse
+-Rectilinear
+-Unidirectional
+
+
+?
+ctudy of dependence of typhoid case rate from inoculations scale in population it was learned that between these signs there exists reverse correlation of medium force. Which of the digital ranks has this correlation factor?
++From -0.30 to -0.69
+-From -0.70 to -0.99
+-From +0.01 to +0.29
+-From +0.30 to +0.69
+-From +0.70 to +0.99
+
+
+?
+What are basic functions of the program of statistical study?
++Defining strategic direction of research
+-Defining research tactics (what, where, when, by whom)
+-Defining observation unit
+-Defining statistical population
+-Defining stages of statistical study
+
+
+?
+Dependence between external respiratory impairment and duration of disease at surveyed myasthenia patients is displayed by:
++Index of correlation
+-Relative index of interdependence
+-Index of reliability of difference of two medium value
+-Visualization index
+-Standardization index
+
+
+?
+What does the plan of statistical study provide?
++Organizational elements of work
+-Defining a technique of collecting of material
+-Basic directions and research problems
+-Drawing up of models of tables
+-Drawing up of a card with the list of signs which are subject to the account in the course of research
+
+
+?
+Method of rank correlation is one of methods to establish correlation between phenomena. What is the basis of this method?
++Ranging compared signs
+-Defining variation of signs
+-Defining medium values of signs studied
+-Defining rate of growth of size of signs compared
+-Defining "null" hypothesis
+
+
+?
+Method of linear correlation is applied to correlation estimation if results are presented by:
++Exact numerical characteristics
+-Form of difference between actual and "expected" values
+-Visualization indices
+-Semiquantitative type
+-Descriptively
+
+
+?
+What does the program of statistical study provide?
++Basic directions and research problems
+-Defining a technique of the collecting of a material
+-Organizational elements of work
+-Drawing up of models of tables
+-Drawing up of a card with the list of signs which are subject to the account in the course of research
+
+
+?
+Data on diphtheria case rates and quantity of inoculations is shown. What criteria can be used for calculating correlation in this case?
++Correlation factor
+-Variation factor
+-Correlation factor
+-Criterion of signs
+-Visualization index
+
+
+?
+Select the types of programs of statistical study.
++Programs of collecting, processing and analysis
+-Simple, compound, combined
+-Programs of collecting and material working out
+-Programs of logic and technical control
+-Select, branch
+
+
+?
+One of methods of estimation of linear correlation factor is estimation by means of average error. What of the below confirms reliability of correlation factor?
++Correlation factor exceeds the error no less than 3 times
+-Correlation factor exceeds the error no less than 2 times
+-Correlation factor exceeds the error no less than 1 time
+-Average error exceeds correlation factor
+-Correlation factor and average error are equal
+
+
+?
+How is correlation factor called if it establishes correlation between 3 or more of the studied signs?
++Multiple correlation
+-Paired correlation
+-Simple correlation
+-Partial correlation
+-Multibound correlation
+
+
+?
+What should be the minimum number of tasks?
++3
+-1
+-2
+-4
+-5
+
+
+?
+How is correlation factor called if it establishes correlation only between two studied signs?
++Pair correlation
+-Multiple correlation
+-Simple correlation
+-Two-dependent correlation
+-One-related correlation
+
+
+?
+Select the first stage of statistical study
++Developing a research plan and program
+-Collecting material
+-Analysis of research results
+-Working out statistical data and material report
+-Conclusions, suggestions and introduction into practice
+
+.
+?
+the analysis of results of clinical, social-hygienic and other research it is often necessary to carry out statistical analysis of relations between different signs. Define the type of statistical correlation between signs.
++Correlational
+-Indicative
+-Discrete
+-Simple
+-Mixed
+
+
+?
+Select the second stage of statistical study
++Collecting material
+-Analysis of research results
+-Working out statistical data and material report
+-Conclusions, suggestions and introduction into practice
+-Developing a research plan and program
+
+
+?
+the analysis of results of clinical, social-hygienic and other research it is often necessary to carry out statistical analysis of relations between different qualitative signs. Define the method of statistical analysis.
++Correlation
+-Parallel
+-Discrete
+-Simple
+-Mixed
+
+
+?
+Select the third stage of statistical study
++Working out statistical data and material report
+-Collecting material
+-Analysis of research results
+-Conclusions, suggestions and introduction into practice
+-Developing a research plan and program
+
+
+?
+Correlation factor is calculated by different methods. What is the basis of its calculation by linear correlation method?
++Defining average
+-Ordering of compared rows
+-Definitions of relative values and their deviations
+-Defining factor of variation
+-Ranging of rows
+
+
+?
+Estimation of reliability of correlation between signs is done by different methods. What of the below criteria is applied to estimation of factor of the linear correlation?
++By means of its error
+-By formula
+-By limiting signs
+-In comparison with factor of the linear correlation
+-In comparison with factor of rank correlation
+
+
+?
+Select the fourth stage of statistical study
++Analysis of research results
+-Collecting material
+-Working out statistical data and material report
+-Conclusions, suggestions and introduction into practice
+-Developing a research plan and program
+
+
+?
+Select the fifth stage of statistical study
++Introduction into practice
+-Collecting material
+-Analysis of research results
+-Working out statistical data and material report
+-Developing a research plan and program
+
+
+?
+According to the results of a five-year monitoring, influence of environment factors on indices of population's health has been estimated. What statistical method needs to be selected for correlation estimation between the specified signs?
++Calculation of correlation factor
+-Calculation of factor of reliability of differences
+-Calculation of factor of conformity
+-Calculation of standardized factor
+-Calculation of indices of a dynamic row
+
+
+?
+Select the method of calculation of correlation factor
++Rank method
+-Method of the least squares
+-Student's method
+-Direct
+-Reverse
+
+
+?
+Developing a research plan and program is:
++1st stage of statistical study
+-2nd stage of statistical study
+-3rd stage of statistical study
+-4th stage of statistical study
+-5th stage of statistical study
+
+
+?
+Select the method of calculation of correlation factor
++Spearman's method
+-Method of the least squares
+-Method of complex estimations
+-Direct
+-Reverse
+
+
+?
+The factor of rank correlation is -0.8. What is correlation between signs?
++Strong reverse
+-Strong direct
+-Weak direct
+-Weak reverse
+-Medium direct
+
+
+?
+Collecting material is:
++2nd stage of statistical study
+-1st stage of statistical study
+-3rd stage of statistical study
+-4th stage of statistical study
+-5th stage of statistical study
+
+
+?
+The factor of rank correlation is +0.31. What is correlation between signs?
++Medium direct
+-Strong direct
+-Strong reverse
+-Weak direct
+-Weak reverse
+
+
+?
+Working out statistical data and material report is:
++3rd stage of statistical study
+-1st stage of statistical study
+-2nd stage of statistical study
+-4th stage of statistical study
+-5th stage of statistical study
+
+
+?
+The factor of rank correlation is +0.69. What is correlation between signs?
++Medium direct
+-Strong direct
+-Strong reverse
+-Weak direct
+-Weak reverse
+
+
+?
+The factor of rank correlation is +0.9. What is correlation between signs?
++Strong direct
+-Strong reverse
+-Weak direct
+-Weak reverse
+-Medium direct
+
+
+?
+Analysis of research results is:
++4th stage of statistical study
+-1st stage of statistical study
+-2nd stage of statistical study
+-3rd stage of statistical study
+-5th stage of statistical study
+
+
+?
+The factor of rank correlation is +0.59. What is correlation between signs?
++Medium direct
+-Strong direct
+-Strong reverse
+-Weak direct
+-Weak reverse
+
+
+?
+In the statistical study the factor of rank correlation is -0.12. What is correlation between signs?
++Weak reverse
+-Strong direct
+-Strong reverse
+-Weak direct
+-Medium direct
+
+
+?
+Introduction into practice is:
++5th stage of statistical study
+-1st stage of statistical study
+-2nd stage of statistical study
+-3rd stage of statistical study
+-4th stage of statistical study
+
+
+?
+What is initial data for calculation of correlation factor of ranks?
++Difference of ranks and number of observations
+-Deviation of every variant from average in x and y rows
+-Value of correlation factor and number of observations
+-Value of correlation factor and its error
+-Difference of ranks and error
+
+
+?
+Select the main types of tables used in statistical study
++Simple, compound, combined
+-Group, compound, combined
+-Official, special, group
+-Tables of collecting, working out and analysis
+-Select, branch, combined
+
+
+?
+What is initial data for calculation of factor of paired correlation?
++Deviation of every variant from average in x and y rows
+-Difference of ranks and number of observations
+-Value of correlation factor and number of observations
+-Value of correlation factor and its error
+-Difference of ranks and error
+
+
+?
+What is initial data for calculation of correlation factor by Spearman's method.
++Difference of ranks and number of observations
+-Deviation of every variant from average in x and y rows
+-Value of correlation factor and number of observations
+-Value of correlation factor and its error
+-Difference of ranks and error
+
+
+?
+what minimum value of Student's criterion of reliability (t) will the difference between statistics be reliable, at number of observations of more than 30?
++t ≥ 1.96
+-t ≥ 1.06
+-t ≥ 1.56
+-t ≥ 2.58
+-t ≤ 2.58
+
+
+?
+Give an example of single-step statistical observation:
++Data about results of medical examination during the year
+-Data about case rate in annual report
+-Data about visitation in annual report
+-Data about results of prophylactic medical examination
+-Data about appealability of medical facility
+
+
+?
+Select target data for calculation of correlation factor by Pearson's method
++Deviation of every variant from average in x and y rows
+-Difference of ranks and number of observations
+-Value of correlation factor and number of observations
+-Value of correlation factor and its error
+-Difference of ranks and error
+
+
+?
+Select the types of the statistical values:
++Relative, average, absolute
+-Average, intensive, extensive
+-Relative, intensive, extensive
+-Absolute, index of standardization, correlation
+-Absolute, relative, index of obviousness
+
+
+?
+What of the listed observations is current?
++Birth rate
+-Results of routine observation
+-Results of population census
+-Mortality during the year
+-Study of growth of 15 year-old boys for 12.01.2007
+
+
+?
+Select an example of environment for the calculation of the intensive index:
++Average annual population
+-Quantity of the death cases
+-Quantity of the beds
+-Quantity of the doctors
+-Total of the lungs diseases
+
+
+?
+Select the first property of statistical population.
++Distribution
+-Correlation
+-Representativeness
+-Variety
+-Average level
+
+
+?
+Select an example of environment for the calculation of the extensive index:
++Total of disease cases
+-Quantity of the death cases
+-Average annual population
+-Total of the lungs diseases
+-Quantity of the doctors
+
+
+?
+Select the second property of statistical population.
++Average level
+-Correlation
+-Representativeness
+-Variety
+-Distribution
+
+
+?
+The environment for the calculation of the correlation index is:
++Average annual population
+-Quantity of the death cases
+-Quantity of the beds
+-Quantity of the doctors
+-Total of the lungs diseases
+
+
+?
+Select an example of phenomena for the calculation of the intensive index:
++Quantity of the death cases
+-Total of paramedical personnel
+-Average annual population
+-Quantity of the beds
+-Quantity of the doctors
+
+
+?
+what value of Student's criterion of reliability (t) will the difference between statistics be reliable with reliability of the faultless prognosis in 99.0%, at number of observations of more than 30?
++t ≥ 2.58
+-t ≥ 1.06
+-t ≥ 1.56
+-t ≥ 1.96
+-t ≥ 3.26
+
+
+?
+Select the third property of statistical population.
++Variety
+-Correlation
+-Representativeness
+-Average level
+-Distribution
+
+
+?
+Select an example of phenomena for the calculation of the extensive index:
++Total of the lungs diseases
+-Quantity of the death cases
+-Average annual population
+-Total of all diseases
+-Quantity of the doctors
+
+
+?
+The fourth property of statistical population is:
++Representativeness
+-Correlation
+-Variety
+-Average level
+-Distribution
+
+
+?
+Select an example of phenomena for the calculation of the correlation index:
++Quantity of the beds
+-Quantity of the death cases
+-Average annual population
+-Total of all diseases
+-Total of the lungs diseases
+
+
+?
+Intensive indices characterize:
++Quantity, level, distribution of the phenomena
+-Dynamic of the index for a few years
+-Ratio between two independent totalities
+-Structure, distribution, specific weight of the phenomena
+-Ratio of the compared series to the basic level, which is considered 100%
+
+
+?
+Select the fifth property of statistical population.
++Correlation
+-Representativeness
+-Variety
+-Average level
+-Distribution
+
+
+?
+What values in medical statistics provide summarized quantitative characteristics of the phenomena?
++Average
+-Relative, average
+-Relative
+-Absolute
+-Absolute, relative
+
+
+?
+Select criteria of the second property of statistical population.
++Mode, median, arithmetic mean
+-Limit, amplitude, average square deviation, variation factor
+-Relative values
+-Correlation factor
+-Errors of average and relative values
+
+
+?
+To which values do indices of availability of doctors and beds belong?
++Correlation
+-Intensive general
+-Intensive specific
+-Extensive
+-Visualization
+
+
+?
+Select criteria of the third property of statistical population.
++Limit, amplitude, average square deviation, variation factor
+-Mode, median, arithmetic mean
+-Relative values
+-Correlation factor
+-Errors of average and relative values
+
+
+?
+Give an example of intensive index.
++Primary case rate
+-Average life expectancy
+-Availability to population of paramedical staff
+-Bed circulation
+-Share of preventive visits
+
+
+?
+What of the specified indices are intensive?
++Death rate of children from traumas
+-Mortality decrease on 10%
+-Specific gravity of traumas in the structure of general mortality
+-Distribution of diseases on classes of diseases
+-Case rate structure
+
+
+?
+Give an example of an index of correlation
++Availability to population of paramedical staff
+-Average life expectancy
+-Bed circulation
+-Share of preventive visits
+-Primary case rate
+
+
+?
+Extensive indices characterize:
++Structure, distribution, specific gravity of the phenomenon
+-Frequency, level, prevalence of the phenomenon
+-Dynamics of an index for some years
+-Correlation between two independent sets
+-Correlation of some compared values to the base level accepted for 100%
+
+
+?
+What values in the medical statistics generally characterize a phenomenon by quality?
++Relative
+-Average
+-Relative, average
+-Absolute
+-Standardized
+
+
+?
+what value of Student's criterion of reliability (t) will the difference between statistics be reliable with reliability of the faultless prognosis not less than 99.9%, at number of observations of more than 30?
++t ≥ 3.26
+-t ≥ 1.06
+-t ≥ 1.56
+-t ≥ 1.96
+-t ≥ 2.58
+
+
+?
+How to correctly record reliability of statistical results with reliability of the faultless prognosis of no less than 95%?
+-p ≥ 5.0
++p ≥ 0.05
+-p ≥ 0.5
+-p ≥ 0,005
+-p ≥ 0,0005
+
+
+?
+Select types of intensive indices.
++General, special
+-Relative, medium
+-Absolute, relative, medium
+-Simple, complex, combinational
+-Indices of frequency and structure of phenomenon
+
+
+?
+How to correctly record reliability of the received statistical results with reliability of the faultless prognosis not less than 99.0%?
++p ≥ 0.01
+-p ≥ 1.0
+-p ≥ 0.1
+-p ≥ 0.01
+-p ≥ 0.1
+
+
+?
+Give an example of extensive value.
++Share of preventive visits
+-Average life expectancy
+-Availability to population of paramedical staff
+-Bed circulation
+-Primary case rate
+
+
+?
+Which of the below indices are extensive?
++Structure of hospitalized case rate
+-5% decrease of the hospitalized case rate
+-Death rate of children from traumas
+-Level of children traumatism
+-Bed circulation
+
+
+?
+How to correctly record reliability of the received statistical results with reliability of the faultless prognosis of not less than 99.9%?
++p ≥ 0,001
+-p ≥ 1.00
+-p ≥ 0.01
+-p ≥ 0,001
+-p ≥ 0.01
+
+
+?
+Types of relative values:
++Intensity, extensiveness, correlation, visualization
+-Intensity, extensiveness, disability, mortality
+-Case rate, birth rate, mortality, visualization
+-Relative intensity, extensiveness, birth rate, mortality
+-Case rates, physical inabilities, correlation, visualization
+
+
+?
+what value of Student's criterion (t) is it possible to consider the difference between relative values as significant?
++≥2.00
+-0.05
+-≥1.00
+-<1.05
+-≥1.55
+
+
+?
+what value of Student's criterion (t) is it possible to consider the difference between average values as significant?
++≥2.00
+-0.05
+-≥1.00
+-<1.05
+-≥1.55
+
+
+?
+For calculation of the general intensive index the following data is necessary:
++Environment, phenomenon
+-Environment, share of the phenomenon
+-Share of the phenomenon, share of the phenomenon
+-Share of the phenomenonicle, environment
+-Phenomenon, share of environment
+
+
+?
+What number of observations is considered large in statistics?
++> 30
+-10
+-20
+-< 30
+-> 100
+
+
+?
+Visualization index characterizes:
++Relation of each of compared values to the initial level accepted for the whole or 100 percent
+-Distribution of set to its components
+-Frequency of the phenomenon in the environment in which it occurs
+-correlation between diverse values
+-correlation between homogeneous values
+
+
+?
+What number of observations is considered small in statistics?
++≥ 30
+-< 30
+-> 30
+-40
+-> 100
+
+
+?
+What indices and values can be used for calculation of indices of visualization?
++Absolute, medium, intensive, correlation
+-Relative, medium, standardized
+-Intensive, extensive, correlation
+-Relative intensity, correlation, extensive
+-Parametrical, nonparametric, extensive, absolute
+
+
+?
+Which of the below are correlation indices?
++Availability of doctors to population
+-Population coverage by preventive inoculations
+-Frequency of postoperative complications
+-Level of hospitalization of the population
+-Frequency of diseases on classes of diseases
+
+
+?
+Compared to last year, flu case rate grew by 130%. What index is used for illustration?
++Visualization index
+-Intensive
+-Extensive
+-Relative intensity
+-Correlation index
+
+
+?
+Standardized index can be calculated by different methods. What of the below belongs to one of methods of calculation of this index?
++Straight line
+-Simple
+-Group
+-Mixed
+-Selective
+
+
+?
+Standardized index can be calculated by different methods. What of the below belongs to method of calculation of this index?
++Mediated (indirect)
+-Simple
+-Group
+-Mixed
+-Selective
+
+
+?
+calculation of the standardized indices different methods are used. What of the below belongs to method of calculation of this index?
++Return
+-Simple
+-Group
+-Selective
+-Mixed
+
+
+?
+One of stages of calculation of the standardized indices direct method is the choice of type of the standard. Which of the below can be taken for the standard?
++Sum of compared groups
+-Phenomenon, uncharacteristic for the compared phenomena
+-Average level of the phenomenon studied
+-Average geometrical size
+-Average sum of the phenomena in percentage
+
+
+?
+Social medicine and public health organization as a subject includes number of sections. What of the below positions is one of subject sections?
++Public health services system
+-Primary prevention of diseases
+-Secondary prevention of diseases
+-Environment parametres
+-Studying of influence of the industrial environment on population health
+
+
+?
+During historical development of general statistics, different types of statistics started to be formed in its structure. What type of statistics does medical statistics belong to?
++Social
+-Economic
+-Political
+-Statistics of science
+-Statistics of formation
+
+
+?
+In public health services system, structural divisions which provide gathering, storage and analysis of medical information have great value. How is the subsection responsible for this type of work in treatment-and-prophylactic facilities called?
++Information-analytical department
+-Statistics office
+-Office of gathering, storage and the information analysis
+-Statistics department
+-Statistics centre
+
+
+?
+Statistical population is a big group of homogeneous elements, actions, phenomena taken together within certain limits of time and space. What is a component of statistical population?
++Observation unit
+-Registration sign
+-Share of statistical population
+-Statistical sign
+-Signs which are subject to study
+
+
+?
+Public phenomena are studied taking into account various descriptive registration signs which characterize observation unit. How are these signs called?
++Attributive
+-Momentary
+-Quantitative
+-Discrete
+-Increate
+
+
+?
+Population phenomena are studied taking into account considerable quantity of the various registration signs characterising observation unit. How are signs which have only two values called?
++Alternative
+-Momentary
+-Attributive
+-Quantitative
+-Discrete
+
+
+?
+Each observation unit has considerable quantity of various registration signs. How are registration signs which characterize the object of research studied for the certain moment of time called?
++Momentary
+-Attributive
+-Quantitative
+-Discrete
+-Alternative
+
+
+?
+Statistical population consists of observation units, they are characterized by registration signs. How are quantitative signs which can take for of only certain values called?
++Discrete
+-Momentary
+-Interval
+-Alternative
+-Increate
+
+
+?
+the study of disease and death rate of the population it is often necessary to see influence of factors of environment on the phenomenon studied. How are registration signs which make their dependent signs change called?
++Factorial
+-Productive
+-Alternative
+-Discrete
+-Increate
+
+
+?
+To develop a complex of preventive actions for preservation and strengthening of health of the population, different factors are studied. How are registration signs which change under the influence of their interconnected signs called?
++Productive
+-Factorial
+-Alternative
+-Discrete
+-Increate
+
+
+?
+statistical study, the share of statistical population selected by special selective method is often used and intended to characterize general statistical population. How is this share called?
++Selective statistical population
+-Selective file
+-Monographic description
+-General statistical population
+-Base file
+
+
+?
+Selective statistical population is a share of general statistical population selected by special selective method and is intended to characterize general statistical population. What is a feature of the sample?
++Revisualization
+-Directed selection
+-Heterogeneity of set
+-Small quantity of observation
+-Sensitivity
+
+
+?
+Statistical population is a group which consists of considerable quantity of homogeneous observation units taken together in certain limits of time and space. What of the below can be an observation unit?
++Separate person, separate phenomenon
+-Certain subjects, phenomena
+-Certain contingents of people
+-Separate method of research
+-Set of people or the phenomena which are studied
+
+
+?
+the study of hospitalized disease cases, official statistical registration documents were used: card of the discharged, case record etc. Define the observation unit in this case.
++Case of hospitalization of a patient treated in hospital
+-Referral for hospitalization from a family doctor
+-Referral for hospitalization
+-Call of the first care which hospitalized the patient
+-Self-reference in hospital
+
+
+?
+Disease with temporary incapacity is one of types of disease cases of population. What should be taken for observation unit at studying this type of disease cases?
++Incapacity case due to disease of the worker or the worker who has received incapacity card
+-Worker of factory
+-Worker of factory hospitalized
+-Incapacity case due to quarantine
+-Incapacity case due to ARD
+
+
+?
+Death rate of babies is one of the indices characterising population's health. What may be taken for observation unit at studying this death rate?
++Child who died before one year of life
+-Case of death of a child in postnatal period
+-Case of death of a child in perinatal period
+-Death case in antenatal period
+-Case of death of a child on the first month of life
+
+
+?
+Statistical method has wide use in social medicine and public health services. What is one of the basic tasks of this method?
++Defining laws of level of health of the population
+-Medical care cost estimation
+-Estimation of cost of the out-patient care
+-Processing biological methods of prevention of diseases
+-Processing parametres of environment
+
+
+?
+Medical statistics studies the questions connected with medicine, hygiene and public health services. Select one of the sections of medical statistics.
++Statistics of health of the population
+-Analysis of dynamics of the phenomena which are studied
+-Defining derivative values
+-Sanitary examination of projects
+-Medical-social examination
+
+
+?
+Medical statistics includes a number of sections. What of the below is one of its sections?
++Statistics of system of public health services
+-Analysis of dynamics of the phenomena which are studied
+-Defining derivative values
+-Sanitary examination of projects
+-Medical-social examination
+
+
+?
+Statistical information received during research should meet certain requirements. Choose one of these requirements.
++Qualitative uniformity of the data
+-Current registration of events
+-Data gathering only by censuses
+-Data gathering by questionnaires
+-Data gathering by correspondent method
+
+
+?
+Statistical information should meet certain requirements. What of the below is one of requirements to this information?
++Completeness of the data
+-Current registration of events
+-Gathering only by censuses
+-Gathering by questionnaires
+-Gathering by correspondent method
+
+
+?
+Statistical study in medicine and public health is done mainly based on samples. What requirements should the samples meet?
++Sufficient number of observations
+-Presence of null hypothesis
+-Absence of fluctuation of sign studied
+-Presence of grouping of sign
+-Qualitatively non-uniform set
+
+
+?
+clinical-statistical, social-hygienic, sociological and other research it is necessary to adhere to certain sequence (stages) of work. How many stages does statistical study have?
++Four
+-One
+-Two
+-Three
+-Five
+
+
+?
+clinical-statistical, social-hygienic, sociological and other research it is necessary to adhere to certain sequence (stages) of work. How is the first stage of statistical study called?
++Choice of method of research
+-Regular analysis
+-Defining the purpose and research tasks. Scheduling and programs of statistical study
+-Registration and gathering statistical material
+-Working out and report of the data, the statistical analysis
+
+
+?
+the first stage of statistical study, program of gathering material, work and report program, analysis program are made. What does the program of gathering material provide?
++List of the signs characterising each observation unit
+-List of the developed tables
+-List of analytical tables
+-List of code numbers of registration signs
+-List of derivative values
+
+?
+the first stage of statistical study, program of gathering material, work and report program, analysis program are made. What does the work and report program provide?
++Processing table models
+-List of derivative values
+-List of codes according to grouping
+-List of signs which are subject to study
+-All answers are correct
+
+
+?
+Statistics is the analysis device that allows to make substantiated conclusions about the phenomenon studied. At what stage of statistical study are breadboard models of statistical tables produced?
++First
+-Third
+-Second
+-Fourth
+-Stage of setting problems of statistical study
+
+
+?
+Signs studied can be quantitative (variation) and qualitative (attributive). What of the below belongs to quantitative signs?
++Age of the person
+-Trade
+-Results of treatment
+-Sex
+-Diagnosis
+
+
+?
+Signs studied can be quantitative (variation) and qualitative (attributive). What of the below belongs to qualitative signs?
++Diagnosis
+-Pulse rate
+-Age of the person
+-Blood pressure level
+-Weight (weight) of children
+
+
+?
+In Ukraine, population census is conducted every 10 years. What type of statistical observation on degree spread is used?
++Continuous
+-Individual
+-Cohort
+-Non-continuous
+-Regular
+
+
+?
+clinical-statistical, social-hygienic, sociological and other research it is necessary to adhere to certain sequence (stages) of work to obtain objective data. How is the second stage of statistical study called?
++Registration and gathering statistical material
+-Object and observation unit choice
+-Material encryption
+-Choice of method of research
+-Calculation of derivative values
+
+
+?
+clinical-statistical, social-hygienic, sociological and other research it is necessary to adhere to certain sequence (stages) of work to obtain objective data. How is the third stage of statistical study called?
++Processing and reporting of data
+-Drawing up of table models
+-Statistical analysis
+-Calculation of derivative values
+-Choice of signs that registration are subject
+
+
+?
+clinical-statistical, social-hygienic, sociological and other research it is necessary to adhere to certain sequence (stages) of work to obtain objective data. How is the fourth stage of statistical study called?
++Analysis, conclusions, proposals
+-Scheduling of actions
+-Working out and report of the data
+-Calculation of derivative values
+-Choice of method of research
+
+
+?
+Program of processing material includes drawing up of table models. At what quantity of signs is a simple table drawn?
++One
+-Two
+-Three
+-Four
+-Five and more
+
+
+?
+Program of processing material includes drawing up of table models. At what quantity of signs is a group table drawn?
++Two and more signs that are not interconnected
+-One sign
+-Two and more interconnected signs
+-Combined signs
+-Grouped signs
+
+
+?
+ccheduling of statistical study, it is necessary to define the object of research, i.e. the environment in which it will be done. What can the object of research be at studying general case rate in a city?
++Quantity of people who were sick
+-Quantity of people who were sick at productive age
+-Quantity of children who were sick at the age of 0–18 years
+-Quantity of people with diseases of respiratory organs
+-Quantity of people with diseases of digestive organs
+
+
+?
+Death rate is a demographic index that shows the number of people who died per 1,000 people. What may be taken as object of observation at studying general death rate in a region?
++Quantity of people who died
+-Quantity of people who died before 18 years of age
+-Quantity of people who died among the productive population
+-Quantity of people who died at the age of 18 years and older
+-All answers are correct
+
+
+?
+Types of tables are simple, group, combinational. What quantity of signs studied is contained in a simple table?
++One sign
+-Two signs
+-Three signs
+-Four signs
+-More than five signs
+
+
+?
+Types of tables are simple, group, combinational. What quantity of signs studied is contained in a group table?
++Two and more signs that are not interconnected
+-Two and more interconnected signs
+-Combined signs
+-One sign
+-Grouped signs
+
+
+?
+For calculation of indices of health of the population, relative indices are used. What does intensive index characterize?
++Prevalence of the phenomenon
+-Relative density of index
+-Distribution of the phenomena into parts
+-Phenomenon structure
+-Phenomenon as a whole
+
+
+?
+Family doctor has applied intensive index to characterize health of the population of a site. What does this index characterize?
++Frequency of the phenomenon in the environment
+-Relative density of the phenomenon
+-Ratio between the interconnected phenomena
+-Visually displays changes of the phenomenon in dynamics
+-Heterogeneity of the phenomenon studied
+
+
+?
+the disease analysis, apart from indices for frequency of diseases, extensive indices are also used. What do these indices characterize?
++Relative density, structure of the phenomenon studied
+-Visually display changes of the phenomenon in dynamics
+-Prevalence of the phenomenon in the environment
+-Ratio between the studied phenomena
+-Heterogeneity of the phenomenon studied
+
+
+?
+To estimate activity of facilities of public health services of Ukraine, ratio indices are used. What do these indices characterize?
++Ratio between the diverse phenomena
+-Relative density of the phenomenon
+-Frequency of the phenomenon in the environment
+-Visually display changes of the phenomenon in dynamics
+-Relation of share of the phenomenon to the whole
+
+
+?
+To characterize work of public health bodies and facilities, visualization index is often applied. What does this index characterize?
++Visually represents changes of the studied phenomenon in dynamics
+-Relative density of the phenomenon
+-Frequency of the phenomenon in the environment
+-Ratio between the studied phenomena
+-Relation of share of the phenomenon to the whole
+
+
+?
+In public health practice, intensive indices are used to characterize disease, death rate. Apart from the environment in which these phenomena occur, what is necessary for calculation of intensive indices?
++Absolute numbers of the studied phenomena
+-Object of research
+-Size of statistical population
+-Distribution of the phenomenon into parts
+-Ratio between the phenomenon and the base
+
+
+?
+What, apart from the phenomenon as a whole, is it necessary to know for calculation of extensive index?
++Distribution of the phenomenon into parts
+-Object of research
+-Size of statistical population
+-Ratio between the phenomenon and the base
+-Phenomena studied for last year
+
+
+?
+Ratio index is often used to characterize work of facilities of public health services. What data is necessary to have for calculation of this index?
++Phenomena independent from each other
+-Object of research
+-Whole phenomenon and its components
+-Phenomena studied for last year
+-Ratio between the phenomenon and the base
+
+
+?
+What does extensive index characterize?
++Phenomenon structure
+-Frequency of the phenomenon
+-Prevalence of the phenomenon
+-Phenomenon level
+-Dynamics of the phenomena
+
+
+?
+To characterize the phenomena studied, different types of relative indices are used. Characterize the essence of ratio index.
++Correlation between diverse values
+-Distribution of the phenomenon into parts
+-Relation of each of compared values to the initial level accepted for 100%
+-Frequency of the phenomenon in the environment in which it occurs
+-Relation of change of the phenomenon in dynamics
+
+
+?
+What does visualization index characterize?
++Relation of each of compared values to the level accepted for 100%
+-Distribution of set to its components
+-correlation between diverse values
+-Prevalence of the phenomenon studied
+-Phenomenon standardization
+
+
+?
+To what type of indices does the index of prevalence of traumatism in children belong?
++Intensive
+-Extensive
+-Ratio
+-Visualization
+-Standardized
+
+
+?
+To what type of indices does the index of distribution of death rate by its causes belong?
++Extensive
+-Intensive
+-Ratio
+-Visualization
+-Standardized
+
+
+?
+To characterize the phenomena which are studied, different types of relative indices are used. What of the below indices is extensive?
++Structure of stomach ulcer among all hospitalized in therapeutic department
+-Decrease in stomach ulcer by 13 cases
+-Availability to population of beds of gastroenterologic profile
+-Frequency of stomach ulcer in men aged 30-50 years
+-Prevalence of stomach ulcer depending on hospitalization term
+
+
+?
+Patient's age belongs to the concept of:
++Alternative sign
+-Attributive sign
+-Observation unit
+-Statistical population
+-Relative value
+
+
+?
+Sex of a patient belongs to the concept of:
++Attributive sign
+-Alternative sign
+-Observation unit
+-Statistical population
+-Relative value
+
+
+?
+Trade of a sick driver belongs to the concept of:
++Attributive sign
+-Alternative sign
+-Observation unit
+-Statistical population
+-Relative value
+
+
+?
+Number of days of patient's stay in hospital belongs to the concept of:
++Alternative sign
+-Attributive sign
+-Observation unit
+-Statistical population
+-Relative value
+
+
+?
+Average level of glomerular filtration belongs to the concept of:
++Alternative sign
+-Attributive sign
+-Observation unit
+-Statistical population
+-Relative value
+
+
+?
+Habitat of a patient belongs to the concept of:
++Attributive sign
+-Alternative sign
+-Observation unit
+-Statistical population
+-Relative value
+
+
+?
+Card of the discharged belongs to:
++Official program of gathering material
+-Program of processing material
+-Special program of gathering material
+-Program of analysis of material
+-Introduction of the program into practice
+
+
+?
+Out-patient card belongs to:
++Official program of gathering material
+-Program of processing material
+-Special program of gathering material
+-Program of analysis of material
+-Introduction of the program into practice
+
+
+?
+Medical certificate of death belongs to:
++Official program of gathering material
+-Program of processing material
+-Special program of gathering material
+-Program of analysis of material
+-Introduction of the program into practice
+
+
+?
+Medical certificate belongs to:
++Official program of gathering material
+-Program of processing material
+-Special program of gathering material
+-Program of analysis of material
+-Introduction of the program into practice
+
+
+?
+Statistical card for registration of the final (detailed) diagnoses belongs to:
++Official program of gathering material
+-Program of processing material
+-Special program of gathering material
+-Program of analysis of material
+-Introduction of the program into practice
+
+
+?
+Interpretation of the received intensive indices in comparison with standards belongs to:
++Program of analysis of material
+-Program of processing material
+-Special program of gathering material
+-Introduction of the program into practice
+-Official program of gathering material
+
+
+?
+Interpretation of the received average indices in comparison with specifications belongs to:
++Program of analysis of material
+-Program of processing material
+-Special program of gathering material
+-Introduction of the program into practice
+-Official program of gathering material
+
+
+?
+Interpretation of the received extensive indices in comparison with indices of other facilities belongs to:
++Program of analysis of material
+-Program of processing material
+-Special program of gathering material
+-Introduction of the program into practice
+-Official program of gathering material
+
+
+?
+Interpretation of the received indices of ratio in dynamics belongs to:
++Program of analysis of material
+-Program of processing material
+-Special program of gathering material
+-Introduction of the program into practice
+-Official program of gathering material
+
+
+?
+What table has only one predicate?
++Simple
+-Group
+-Combined
+-Statistical
+-Regular
+
+
+?
+What table has only one subject and some of the predicates are not interconnected?
++Group
+-Simple
+-Combined
+-Statistical
+-Regular
+
+
+?
+Statistical study is done in certain sequence (stage by stage). What does the 2nd stage of statistical study include?
++Data recording, gathering statistical material
+-Statistical analysis
+-Scheduling of statistical study, processing of its program
+-Processing the data
+-Introduction of results of research in practice
+
+
+?
+What method of medical statistics allows to establish orientation, force and degree of influence of certain factors on level of health of the population?
++Correlation analysis
+-Variation analysis
+-Dynamic analysis
+-Standardization of indices
+-Economic methods
+
+
+?
+What criteria of estimation of heterogeneity of signs is defined by difference of extreme values variant?
++Amplitude
+-Mode
+-Median
+-Average square deviation
+-Variation factor
+
+
+?
+what stage of direct method of standardization are intensive indices calculated?
++І
+-ІІ
+-ІІІ
+-IV
+-V
+
+
+?
+what stage of direct method of standardization are selection and standard calculated?
++ІІ
+-І
+-ІІІ
+-IV
+-V
+
+
+?
+To what is standardization of indices applied?
++Comparative estimation of demographic indices in different age and sex groups.
+-Analysis of demographic indices.
+-Analysis of indices of disease.
+-Analysis of indices of activity of hospital.
+-Analysis of indices of activity of polyclinic.
+
+
+?
+Method of standardization of indices makes it possible to conduct:
++Elimination of influence of heterogeneity as share of the studied set.
+-Comparison of the indices calculated in quantitatively non-uniform set.
+-Comparison of the indices calculated in qualitatively non-uniform set.
+-Studying and analysis of dynamics of indices.
+-Estimation of correlation between the phenomena.
+
+
+?
+What method of standardization is most often applied?
++Straight line
+-Indirect
+-Return
+-Full
+-Partial
+
+
+?
+Standardized indices should be considered:
++Conditional
+-Full
+-Official
+-True
+-Relative
+
+
+?
+Heterogeneity of a set is most often caused by?
++Different age and sex structure.
+-Different quantitative structure.
+-Unequal number of observations.
+-Small number of observations.
+-Large number of observations.
+
+?
+what stage of direct method of standardization are simple intensive and standardized indices compared?
++V
+-І
+-ІІ
+-ІІІ
+-IV
+
+
+?
+what stage of direct method of standardization are "expected" values calculated?
++ІІІ
+-І
+-ІІ
+-IV
+-V
+
+
+?
+what stage of direct method of standardization are standardized indices calculated?
++IV
+-І
+-ІІ
+-ІІІ
+-V
+
+
+?
+In what cases is standardization of indices done?
++Comparative estimation of hospital lethality in two hospitals with different structure of patients by departments.
+-Comparative estimation of indices of health.
+-Studying correlation between the phenomena.
+-Studying correlation in polyclinic and hospital work.
+-Analysis of hospital lethality for some years.
+
+
+?
+To what are graphic visualizations applied in statistics?
++Evident image of statistical values, their profound analysis.
+-Estimation of reliability of results of statistical study.
+-Studying correlation between the phenomena.
+-Standardization of indices.
+-Calculation of error of relative and average values.
+
+
+?
+In public health practice it is often necessary to calculate standardized indices. What is the practical value of the standardization method?
++Allows to find influence of heterogeneity of studied groups on the studied phenomenon
+-Allows to estimate dynamic indices
+-Allows to compare extensive indices
+-Allows to define heterogeneity of studied groups
+-Allows to compare ratio indices in non-uniform groups
+
+
+?
+calculation of the standardized index, different derivative values are calculated. Which of them can display valid frequency of a phenomenon in the environment?
++Intensive indices
+-"Expected" numbers in groups
+-Standardized
+-Sum of "expected" numbers in the aggregate studied
+-Extensive indices
+
+
+?
+Graphic visualizations have wide use for evident display of different statistical values. What diagrams can display the standardized indices?
++Column diagrams
+-Sector diagrams
+-Intra-column diagrams
+-Radial diagrams
+-It is possible to use all diagrams
+
+
+?
+Graphic visualizations are widely used for evident revisualization of different statistical values and for their analysis. What diagrams can display the real and standardized indices in dynamics?
++Linear
+-Cartograms
+-Column
+-Intra-column
+-Radial
+
+
+?
+Direct method of standardization consists in exclusion of influence of heterogeneity of structure of studied groups on the general index. Select 3rd stage of calculation of the standardized indices.
++Calculation of expected values taking into account the standard
+-Choice and calculation of the standard
+-Calculation of the general and by-group indices
+-Calculation of the standardized indices
+-Comparison of the intensive and standardized indices
+
+
+?
+comparison of general intensive indices, it is necessary to consider that their level is influenced by heterogeneity of structure of compared groups. For heterogeneity elimination, standardized indices are used. Select 2nd stage of calculation of the standardized indices direct method.
++Choice and calculation of the standard
+-Calculation of the general and by-group indices
+-Calculation of the standardized indices
+-Calculation of expected values taking into account the standard
+-Comparison of the intensive and standardized indices
+
+
+?
+Calculation of standardized indices by direct method includes four stages. Select 1st stage of calculation of the standardized indices.
++Calculation of the general and by-group indices
+-Choice and calculation of the standard
+-Calculation of the standardized indices
+-Calculation of expected values taking into account the standard
+-Comparison of the intensive and standardized indices
+
+
+?
+Comparison of the general intensive indices causes complexities as a result of heterogeneity of compared groups, making it necessary to calculate standardized indices. Define 4th stage of calculation of these indices.
++Calculation of the standardized indices
+-Choice and calculation of the standard
+-Calculation of the general and by-group indices
+-Calculation of expected values taking into account the standard
+-Comparison of the intensive and standardized indices
+
+
+?
+In many cases comparison of indices of disease, death rate etc. is impossible through heterogeneity of the set in which these indices are calculated. What application of statistical method makes it possible to compare these indices?
++Standardization method
+-Correlation method
+-T-criterion of Wilcoxon
+-Estimation of reliability of relative values
+-Estimation of reliability of average values
+
+
+?
+One of the stages of calculation of the standardized indices by direct method is standard choice. Which of the below can be taken for a standard.
++Numerical structure of one of compared groups
+-Average level of the phenomenon studied (by time, territory)
+-Geometrical mean
+-Average sum of the phenomena in percentage
+-Phenomenon uncharacteristic for compared groups
+
+
+?
+Calculation of the standardized index by direct method includes some stages. Select what of the below positions belongs to the first stage.
++Calculation of the general and by-group indices
+-Calculation of average level of indices
+-Comparison of the standardized and extensive indices
+-Calculation of deviation of "expected" values from intensive indices
+-Phenomenon calculation in percentage

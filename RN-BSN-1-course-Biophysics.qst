@@ -1,0 +1,4529 @@
+?
+ question: 6342030  name:  …is a psychiatric treatment in which seizures are electrically induced in ...
+:: …is a psychiatric treatment in which seizures are electrically induced in ...::[html] …is a psychiatric treatment in which seizures are electrically induced in patients to provide relief from psychiatric illnesses
++Electroshock therapy
+-Electrical muscle stimulation
+-Electrophoresis
+-Galvanization
+-Electroanalgesia
+
+
+
+?
+ question: 6341941  name: … are the sounds that medical personnel listen for when they are taking blood...
+::… are the sounds that medical personnel listen for when they are taking blood...::[html]… are the sounds that medical personnel listen for when they are taking blood pressure using a non-invasive procedure.
+-Stokes sounds
+-Ostwald sounds
++Korotkoff sounds 
+-Kendall method
+-Riva-Rocci method
+
+
+
+?
+ question: 6342172  name: … consists of sequential passage of light rays that initially penetrate ...
+::… consists of sequential passage of light rays that initially penetrate ...::[html]… consists of sequential passage of light rays that initially penetrate through the protective screen, then fall on the prism, then deviate and fall on the objective, which produce a thumbnail image
+-Endoscopic system
+-Optical system
+-Image transmission system
++Lens system of the image transfer
+-Illumination system
+
+
+
+?
+ question: 6342173  name: … consists of three parts: lens, transmission system image, eyepiece
+::… consists of three parts\: lens, transmission system image, eyepiece::[html]… consists of three parts\: lens, transmission system image, eyepiece
+-Endoscopic system
++Optical system
+-Image transmission system
+-Lens system of the image transfer
+-Illumination system
+
+
+
+?
+ question: 6342034  name: … engages direct currents with 50 and 100 Hz semi-sinusoidal pulses for ...
+::… engages direct currents with 50 and 100 Hz semi-sinusoidal pulses for ...::[html]… engages direct currents with 50 and 100 Hz semi-sinusoidal pulses for medicinal purposes.
++Diadynamic therapy
+-Fluctuorization
+-Electric current of conductivity
+-Current of displacement in a vacuum
+-Closeness of stream of eaten up power of hertzian waves
+
+
+
+?
+ question: 6341913  name: … is a fluid that can be completely characterized by its rest frame mass ...
+::… is a fluid that can be completely characterized by its rest frame mass ...::[html]… is a fluid that can be completely characterized by its rest frame mass density pm; and isotropic pressure p.
+-pure fluid
+-suspension
+-non-Newtonian fluid
+-smooth fluid
++perfect fluid
+
+
+
+?
+ question: 6342029  name: … is a form of analgesia, or pain relief, that uses electricity to ease pain
+::… is a form of analgesia, or pain relief, that uses electricity to ease pain::[html]… is a form of analgesia, or pain relief, that uses electricity to ease pain
+-Electroshock therapy
+-Electrical muscle stimulation
+-Electrophoresis
+-Galvanization
++Electroanalgesia
+
+
+
+?
+ question: 6342192  name: … is a lens with a thickness that is negligible compared to the radii of ...
+::… is a lens with a thickness that is negligible compared to the radii of ...::[html]… is a lens with a thickness that is negligible compared to the radii of curvature of the lens surfaces.
+-A thick lens
+-A prism
++A thin lens
+-Converging
+-Diverging
+
+
+
+?
+ question: 6342191  name: … is a transparent optical element with flat, polished surfaces ...
+::… is a transparent optical element with flat, polished surfaces ...::[html]… is a transparent optical element with flat, polished surfaces that refract light.
+-A lens
++A prism
+-Protuberant
+-Negative
+-Collecting
+
+
+
+?
+ question: 6342228  name: … is defined as the bending of light around the corners of an obstacle or ...
+::… is defined as the bending of light around the corners of an obstacle or ...::[html]… is defined as the bending of light around the corners of an obstacle or aperture into the region of geometrical shadow of the obstacle
++Difraction
+-Interference
+-Polarization
+-Magnitistriction
+-Reflection
+
+
+
+?
+ question: 6342181  name: … measures the degree of rotation of polarized light as it passes through an ...
+::… measures the degree of rotation of polarized light as it passes through an ...::[html]… measures the degree of rotation of polarized light as it passes through an optically active material
+-A refractometer
++A polarimeter
+-A spectrometer
+-A spectrograph
+-A photoelectric colorimeter
+
+
+
+?
+ question: 6341915  name: … states that an increase in the speed of a fluid occurs simultaneously with ...
+::… states that an increase in the speed of a fluid occurs simultaneously with ...::[html]… states that an increase in the speed of a fluid occurs simultaneously with a decrease in pressure or a decrease in the fluid's potential energy.
+-Momentum conservation law
+-conservation law
++the Bernoulli equation
+-the Reynolds equation
+-the Stokes law
+
+
+
+?
+ question: 6342174  name: … transmits the image to the other end of the endoscope
+::… transmits the image to the other end of the endoscope::[html]… transmits the image to the other end of the endoscope
+-Endoscopic system
+-Optical system
++Image transmission system
+-Lens system of the image transfer
+-Illumination system
+
+
+
+?
+ question: 6341918  name: …indicates that when the cross-sectional area of a pipe gets smaller, the ...
+::…indicates that when the cross-sectional area of a pipe gets smaller, the ...::[html]…indicates that when the cross-sectional area of a pipe gets smaller, the velocity of the fluid must become greater.
+-momentum conservation law
+-the law of conservation of mass
+-the Bernoulli equation
+-the Reynolds equation
++the equation of continuity
+
+
+
+?
+ question: 6342033  name: …is a combined (simultaneous) application of direct current, mostly galvanic ...
+::…is a combined (simultaneous) application of direct current, mostly galvanic ...::[html]…is a combined (simultaneous) application of direct current, mostly galvanic current, and small amount of drug or combination of drugs.
+-Electroshock therapy
+-Electrical muscle stimulation
++Medicinal electrophoresis
+-Galvanization
+-Electroanalgesia
+
+
+
+?
+ question: 6341967  name: …is a curve of the electrical activity of the heart, which characterizes the ...
+::…is a curve of the electrical activity of the heart, which characterizes the ...::[html]…is a curve of the electrical activity of the heart, which characterizes the activity of the heart muscle.
+-Equipotential surface
++Electrocardiogram
+-Electroencephalogram
+-Electroretinogram
+-Dipole
+
+
+
+?
+ question: 6341968  name: …is a diagnostic test that measures the electrical activity generated by ...
+::…is a diagnostic test that measures the electrical activity generated by ...::[html]…is a diagnostic test that measures the electrical activity generated by neural and non-neuronal cells in the retina in response to a light stimulus
+-Equipotential surface
+-Electrocardiogram
+-Electroencephalogram
++Electroretinogram
+-Dipole
+
+
+
+?
+ question: 6342180  name: …is a laboratory or field device for the measurement of an index of refraction
+::…is a laboratory or field device for the measurement of an index of refraction::[html]…is a laboratory or field device for the measurement of an index of refraction
++A refractometer
+-A polarimeter
+-A spectrometer
+-A spectrograph
+-A photoelectric colorimeter
+
+
+
+?
+ question: 6342193  name: …is a lens that causes light, parallel to its principal axis, to converge to ...
+::…is a lens that causes light, parallel to its principal axis, to converge to ...::[html]…is a lens that causes light, parallel to its principal axis, to converge to the principal axis
+-A lens
+-A prism
+-Thin lens
++Converging
+-Diverging
+
+
+
+?
+ question: 6342194  name: …is a lens that causes light, parallel to its principal axis, to diverge away...
+::…is a lens that causes light, parallel to its principal axis, to diverge away...::[html]…is a lens that causes light, parallel to its principal axis, to diverge away from the principal axis.
+-A lens
+-A prism
+-Thin lens
+-Converging
++Diverging
+
+
+
+?
+ question: 6342035  name: …is a medicinal application of alternating low-voltage (under-100 V) current,...
+::…is a medicinal application of alternating low-voltage (under-100 V) current,...::[html]…is a medicinal application of alternating low-voltage (under-100 V) current, fully or partially rectified, with chaotically fluctuating frequency (up to 2000 Hz) and amplitude (up to 3 mA/cm2).
+-Diadynamic therapy
++Fluctuorization
+-Electric current of conductivity
+-Current of displacement in a vacuum
+-Closeness of stream of eaten up power of hertzian waves
+
+
+
+?
+ question: 6342036  name: …is a medicinal application of low-frequency (1-100 Hz) “pulses”, which could...
+::…is a medicinal application of low-frequency (1-100 Hz) “pulses”, which could...::[html]…is a medicinal application of low-frequency (1-100 Hz) “pulses”, which could be either homogeneous in frequency during the procedure or alternate periodically within a selected frequency range.
+-Diadynamic therapy
+-Fluctuorization
++Interference therapy
+-Current of displacement in a vacuum
+-Ergo therapy
+
+
+
+?
+ question: 6342053  name: …is a method for separation and analysis of macromolecules and their ...
+::…is a method for separation and analysis of macromolecules and their ...::[html]…is a method for separation and analysis of macromolecules and their fragments, based on their size and charge.
+-Electroshock therapy
+-Electrical muscle stimulation
++Gel electrophoresis 
+-Galvanization
+-Electroanalgesia
+
+
+
+?
+ question: 6342028  name: …is a method of physiotherapy, based on the application of a magnetic field ...
+::…is a method of physiotherapy, based on the application of a magnetic field ...::[html]…is a method of physiotherapy, based on the application of a magnetic field of high frequency.
+-Electrotherapy
+-Electrophoresis
+-Galvanization
++Inductothermy
+-Ophthalmology
+
+
+
+?
+ question: 6341969  name: …is a record of the tiny electrical impulses produced by the brain activity
+::…is a record of the tiny electrical impulses produced by the brain activity::[html]…is a record of the tiny electrical impulses produced by the brain activity
+-Equipotential surface
+-Electrocardiogram
++Electroencephalogram
+-Electroretinogram
+-Dipole
+
+
+
+?
+ question: 6342171  name: …is a set of tools and devices which are designed to perform endoscopic surgery
+::…is a set of tools and devices which are designed to perform endoscopic surgery::[html]…is a set of tools and devices which are designed to perform endoscopic surgery
++Endoscopic system
+-Optical system
+-Image transmission system
+-Lens system of the image transfer
+-Illumination system
+
+
+
+?
+ question: 6341960  name: …is a system of two point charges q, which are equal in magnitude but ...
+::…is a system of two point charges q, which are equal in magnitude but ...::[html]…is a system of two point charges q, which are equal in magnitude but opposite in sign
++Electrical dipole
+-Current dipole
+-Dipole moment
+-Shoulder of the dipole
+-Current dipole moment
+
+
+
+?
+ question: 6341927  name: …is a term used in cardiac physiology that describes the volume of blood ...
+::…is a term used in cardiac physiology that describes the volume of blood ...::[html]…is a term used in cardiac physiology that describes the volume of blood being pumped by the heart, in particular by a left or right ventricle, per unit time.
+-stroke volume
+-total cardiac output
++cardiac output
+-total blood volume
+-minimal blood volume
+
+
+
+?
+ question: 6342190  name: …is a transmissive optical device that focuses or disperses a light beam by ...
+::…is a transmissive optical device that focuses or disperses a light beam by ...::[html]…is a transmissive optical device that focuses or disperses a light beam by means of refraction.
++A lens
+-A prism
+-Protuberant
+-Negative
+-Collecting
+
+
+
+?
+ question: 6341924  name: …is an apparatus for measuring the volume of air inspired and expired by the ...
+::…is an apparatus for measuring the volume of air inspired and expired by the ...::[html]…is an apparatus for measuring the volume of air inspired and expired by the lungs
+-barometer
+-viscometer
+-venturi meter
+-tonometer
++spirometer
+
+
+
+?
+ question: 6342226  name: …is imposition of the coherent waves in which we can observe strengthening or...
+::…is imposition of the coherent waves in which we can observe strengthening or...::[html]…is imposition of the coherent waves in which we can observe strengthening or weakening of the resulting amplitude fluctuations
+-Difraction
++Interference
+-Polarization
+-Magnitistriction
+-Reflection
+
+
+
+?
+ question: 6342040  name: …is inversely proportional to the signal frequency and the capacitance C 
+::…is inversely proportional to the signal frequency and the capacitance C ::[html]…is inversely proportional to the signal frequency and the capacitance C 
+-reactance
+-inductive reactance
++capacitive reactance
+-resistance
+-total (complete) impedance
+
+
+
+?
+ question: 6342032  name: …is medical treatment by direct electric current, having constant value, of ...
+::…is medical treatment by direct electric current, having constant value, of ...::[html]…is medical treatment by direct electric current, having constant value, of low voltage (up to 80V) and low intensity (up to 50 mA).
+-Electroshock therapy
+-Electrical muscle stimulation
+-Medicinal electrophoresis
++Galvanization
+-Electroanalgesia
+
+
+
+?
+ question: 6342039  name: …is proportional to the signal frequency L.
+::…is proportional to the signal frequency L.::[html]…is proportional to the signal frequency L.
+-reactance
++inductive reactance
+-capacitive reactance
+-resistance
+-total (complete) impedance
+
+
+
+?
+ question: 6341955  name: …is proportional to the square root of the elastic modulus of the vessel wall...
+::…is proportional to the square root of the elastic modulus of the vessel wall...::[html]…is proportional to the square root of the elastic modulus of the vessel wall E multiply to wall thickness h divided by density R and diameter d of vessel (E*h / R*d)
++pulse wave velocity
+-resistance
+-mass
+-pressure
+-length
+
+
+
+?
+ question: 6341929  name: …is the amount of mass in a unit volume of the substance
+::…is the amount of mass in a unit volume of the substance::[html]…is the amount of mass in a unit volume of the substance
+-fluid
++density
+-pressure
+-mass
+-volume
+
+
+
+?
+ question: 6342093  name: …is the combination of electric and magnetic force on a point charge due ...
+::…is the combination of electric and magnetic force on a point charge due ...::[html]…is the combination of electric and magnetic force on a point charge due to electromagnetic fields
+-Ampere's force
++Lorentz force 
+-Faraday force
+-Maxwell force
+-Newton
+
+
+
+?
+ question: 6341938  name: …is the difference between systolic pressure and diastolic pressure
+::…is the difference between systolic pressure and diastolic pressure::[html]…is the difference between systolic pressure and diastolic pressure
+-total atmospheric pressure
+-venous central pressure
+-systolic blood pressure
+-diastolic blood pressure
++pulse pressure
+
+
+
+?
+ question: 6342031  name: …is the elicitation of muscle contraction using electric impulses
+::…is the elicitation of muscle contraction using electric impulses::[html]…is the elicitation of muscle contraction using electric impulses
+-Electroshock therapy
++Electrical muscle stimulation
+-Electrophoresis
+-Galvanization
+-Electroanalgesia
+
+
+
+?
+ question: 6342094  name: …is the force of attraction or repulsion between two current-carrying wires ...
+::…is the force of attraction or repulsion between two current-carrying wires ...::[html]…is the force of attraction or repulsion between two current-carrying wires in magnetic field
++Ampere's force
+-Lorentz force 
+-Faraday force
+-Maxwell force
+-Newton
+
+
+
+?
+ question: 6341928  name: …is the magnitude of the normal force acting per unit surface area
+::…is the magnitude of the normal force acting per unit surface area::[html]…is the magnitude of the normal force acting per unit surface area
+-fluid
+-density
++pressure
+-mass
+-volume
+
+
+
+?
+ question: 6341936  name: …is the pressure in your blood vessels when your heart beats
+::…is the pressure in your blood vessels when your heart beats::[html]…is the pressure in your blood vessels when your heart beats
+-total atmospheric pressure
+-venous central pressure
++systolic blood pressure
+-diastolic blood pressure
+-there is no correct answer
+
+
+
+?
+ question: 6341937  name: …is the pressure in your blood vessels when your heart is resting between beats
+::…is the pressure in your blood vessels when your heart is resting between beats::[html]…is the pressure in your blood vessels when your heart is resting between beats
+-total atmospheric pressure
+-venous central pressure
+-systolic blood pressure
++diastolic blood pressure
+-there is no correct answer
+
+
+
+?
+ question: 6342041  name: …is the real part of impedance; a device with a purely resistive impedance ...
+::…is the real part of impedance; a device with a purely resistive impedance ...::[html]…is the real part of impedance; a device with a purely resistive impedance exhibits no phase shift between the voltage and current.
+-reactance
+-inductive reactance
+-capacitive reactance
++resistance
+-total (complete) impedance
+
+
+
+?
+ question: 6341934  name: …is the velocity at which the arterial pulse propagates through the ...
+::…is the velocity at which the arterial pulse propagates through the ...::[html]…is the velocity at which the arterial pulse propagates through the circulatory system
++pulse wave velocity
+-density
+-pressure
+-mass
+-volume of wave
+
+
+
+?
+ question: 6341926  name: …is the volume of blood pumped from the left ventricle per beat
+::…is the volume of blood pumped from the left ventricle per beat::[html]…is the volume of blood pumped from the left ventricle per beat
++stroke volume
+-total cardiac output
+-cardiac output
+-total blood volume
+-minimal blood volume
+
+
+
+?
+ question: 6341910  name: …is the volume of fluid which passes per unit time
+::…is the volume of fluid which passes per unit time::[html]…is the volume of fluid which passes per unit time
++the volumetric flow
+-the magnetic flow
+-the electric current
+-the light flow
+-the heat flow
+
+
+
+?
+ question: 6342184  name: …measures transmission coefficients and optical density of the transparent ...
+::…measures transmission coefficients and optical density of the transparent ...::[html]…measures transmission coefficients and optical density of the transparent liquid solutions and transparent solid samples, determinates the concentration of substances in the solutions
+-A refractometer
+-A polarimeter
+-A spectrometer
+-A spectrograph
++A photoelectric colorimeter
+
+
+
+?
+ question: 6341911  name: …occurs when a fluid flows in parallel layers, with no disruption between the...
+::…occurs when a fluid flows in parallel layers, with no disruption between the...::[html]…occurs when a fluid flows in parallel layers, with no disruption between the layers
+-electric flow
+-magnetic flow
+-light flow
++laminar flow
+-turbulent flow
+
+
+
+?
+ question: 6341919  name: …states that a body immersed in a fluid is buoyed up by force that is equal ...
+::…states that a body immersed in a fluid is buoyed up by force that is equal ...::[html]…states that a body immersed in a fluid is buoyed up by force that is equal to the weight of the fluid displaced.
++archimedes’ principle
+-the law of conservation of mass
+-the Bernoulli equation
+-the Reynolds equation
+-the Stokes law
+
+
+
+?
+ question: 6341916  name: …states that a particular measurable property of an isolated physical system ...
+::…states that a particular measurable property of an isolated physical system ...::[html]…states that a particular measurable property of an isolated physical system does not change as the system evolves over time
+-momentum conservation law
++conservation law
+-the Bernoulli equation
+-the Reynolds equation
+-the Stokes law
+
+
+
+?
+ question: 6341917  name: …states that mass is neither created nor destroyed in any ordinary mechanical...
+::…states that mass is neither created nor destroyed in any ordinary mechanical...::[html]…states that mass is neither created nor destroyed in any ordinary mechanical or chemical process.
+-momentum conservation law
++the law of conservation of mass
+-the Bernoulli equation
+-the Reynolds equation
+-the Stokes law
+
+
+
+?
+ question: 6341932  name: …states that the pressure drop in an incompressible and Newtonian fluid in ...
+::…states that the pressure drop in an incompressible and Newtonian fluid in ...::[html]…states that the pressure drop in an incompressible and Newtonian fluid in laminar flow flowing through a long cylindrical pipe of constant cross
+-Archimedes’ principle
++Hagen–Poiseuille equation
+-The Bernoulli equation
+-The Reynolds equation
+-The Stokes law
+
+
+
+?
+ question: 6342059  name: A constant current is
+::A constant current is::[html]A constant current is
++a type of direct current that does not change its intensity with time
+-an electric current which periodically reverses polarity
+-the unidirectional flow of electric charge
+-a unidirectional surge of current of very short duration
+-an alternating current
+
+
+
+?
+ question: 6342182  name: A device for measuring the energy distribution of light streams by wavelength is
+::A device for measuring the energy distribution of light streams by wavelength is::[html]A device for measuring the energy distribution of light streams by wavelength is
+-A refractometer
+-A polarimeter
++A spectrometer
+-A spectrograph
+-A photoelectric colorimeter
+
+
+
+?
+ question: 6341921  name: A device that uses the Venturi effect to measure the velocity of fluids in ...
+::A device that uses the Venturi effect to measure the velocity of fluids in ...::[html]A device that uses the Venturi effect to measure the velocity of fluids in pipes.
+-barometer
+-viscometer
++venturi meter
+-tonometer
+-spirometer
+
+
+
+?
+ question: 6342183  name: A device which records the radiation from almost all of the optical spectrum is
+::A device which records the radiation from almost all of the optical spectrum is::[html]A device which records the radiation from almost all of the optical spectrum is
+-A refractometer
+-A polarimeter
+-A spectrometer
++A spectrograph
+-A photoelectric colorimeter
+
+
+
+?
+ question: 6342125  name: A light ray has an angle of incidence 20  deg. The angle of reflection will be:
+::A light ray has an angle of incidence 20  deg. The angle of reflection will be\:::[html]A light ray has an angle of incidence 20  deg. The angle of reflection will be\:
+-0
+-34
++20
+-65
+-67
+
+
+
+?
+ question: 6342122  name: A light ray has an angle of incidence 24  deg. What is the angle with the ...
+::A light ray has an angle of incidence 24  deg. What is the angle with the ...::[html]A light ray has an angle of incidence 24  deg. What is the angle with the reflecting surface?
+-0
+-34
+-56
+-65
++66
+
+
+
+?
+ question: 6342121  name: A light ray has an angle of incidence 34 deg. What is the angle with the ...
+::A light ray has an angle of incidence 34 deg. What is the angle with the ...::[html]A light ray has an angle of incidence 34 deg. What is the angle with the reflecting surface?
+-0
+-34
++56
+-65
+-67
+
+
+
+?
+ question: 6342126  name: A light ray has an angle of incidence of 30  deg. The angle of reflection ...
+::A light ray has an angle of incidence of 30  deg. The angle of reflection ...::[html]A light ray has an angle of incidence of 30  deg. The angle of reflection will be\:
++30
+-34
+-20
+-65
+-67
+
+
+
+?
+ question: 6342123  name: A light ray has an angle of incidence of 44  deg. What is the angle with the ...
+::A light ray has an angle of incidence of 44  deg. What is the angle with the ...::[html]A light ray has an angle of incidence of 44  deg. What is the angle with the reflecting surface?
+-0
+-34
++46
+-65
+-67
+
+
+
+?
+ question: 6342127  name: A light ray has an angle of incidence of 50  deg. The angle of reflection ...
+::A light ray has an angle of incidence of 50  deg. The angle of reflection ...::[html]A light ray has an angle of incidence of 50  deg. The angle of reflection will be\:
+-0
+-34
++50
+-65
+-67
+
+
+
+?
+ question: 6342124  name: A light ray has an angle of incidence of 64  deg. What is the angle with the ...
+::A light ray has an angle of incidence of 64  deg. What is the angle with the ...::[html]A light ray has an angle of incidence of 64  deg. What is the angle with the reflecting surface?
++26
+-34
+-56
+-65
+-67
+
+
+
+?
+ question: 6342199  name: A light wavelength in a vacuum is equal 600 nm.  Light passes from a vacuum ...
+::A light wavelength in a vacuum is equal 600 nm.  Light passes from a vacuum ...::[html]A light wavelength in a vacuum is equal 600 nm.  Light passes from a vacuum to environment  with the index of refraction equal 1,5. Define a light wavelength in environment.
+-900 nm
+-550 nm
++400 nm
+-450 nm
+-750 nm
+
+
+
+?
+ question: 6342215  name: A method of the determination concentration in colored solutions is based on
+::A method of the determination concentration in colored solutions is based on::[html]A method of the determination concentration in colored solutions is based on
++Bouguer-Beer law
+-Snell law
+-Ohm law
+-Lorence law
+-Bio law
+
+
+
+?
+ question: 6341890  name: A subjective term describing the strength of the ear's perception of a sound is
+::A subjective term describing the strength of the ear's perception of a sound is::[html]A subjective term describing the strength of the ear's perception of a sound is
+-a energy
+-a frequency
+-a level of sound intensity
+-a timbre
++a loudness
+
+
+
+?
+ question: 6341962  name: A vector equal to the product of the charge q on the shoulder of the dipole l is
+::A vector equal to the product of the charge q on the shoulder of the dipole l is::[html]A vector equal to the product of the charge q on the shoulder of the dipole l is
+-Electrical dipole
+-Current dipole
++Dipole moment
+-Shoulder of the dipole
+-Current dipole moment
+
+
+
+?
+ question: 6341965  name: A vector equal to the product of the current I on the shoulder of the dipole ...
+::A vector equal to the product of the current I on the shoulder of the dipole ...::[html]A vector equal to the product of the current I on the shoulder of the dipole L is
+-electrical dipole
+-current dipole
+-dipole moment
+-shoulder of the dipole
++current dipole moment
+
+
+
+?
+ question: 6342150  name: Absolute index of refraction of environment is
+::Absolute index of refraction of environment is::[html]Absolute index of refraction of environment is
+-determined in relation to the index of refraction of ice
+-determined in relation to the index of refraction of air
+-is determined in relation to the index of refraction of water
+-equal to the relation of speed of photon in a vacuum to speed of photon in a matter
++the relation of light velocity in a vacuum to light velocity in a substance
+
+
+
+?
+ question: 6342149  name: Absolute index of refraction of medium
+::Absolute index of refraction of medium::[html]Absolute index of refraction of medium
+-does not depend on a wavelength light
+-always equal zero
+-always more 2
+-always less unit
++is more than 1
+
+
+
+?
+ question: 6342060  name: Alternating current is
+::Alternating current is::[html]Alternating current is
+-a type of direct current that does not change its intensity with time
++an electric current which periodically reverses polarity
+-the unidirectional flow of electric charge
+-a unidirectional surge of current of very short duration
+-a direct current
+
+
+
+?
+ question: 6342051  name: Ammeter is
+::Ammeter is::[html]Ammeter is
++a device that measures the amount of current in a circuit
+-a device that measures the potential difference between any two points in an electric circuit
+-the current through a conductor between two points
+-the voltage
+-the power of heating generated by an 
+
+
+
+?
+ question: 6341844  name: Amplitude is
+::Amplitude is::[html]Amplitude is
+-the distance that a particle of the medium is displaced from its equilibrium position as the wave passes by
++the maximum value of the displacement
+-the distance, in the direction of propagation, in which the wave repeats itself
+-it is the time for a wave to repeat itself
+-the number of waves passing a particular point per second
+
+
+
+?
+ question: 6342142  name: An expression for the absolute index of refraction is
+::An expression for the absolute index of refraction is::[html]An expression for the absolute index of refraction is
++c/v
+-2c/v
+-v/c
+-3v
+-3c
+
+
+
+?
+ question: 6342147  name: An index of refraction at normal dispersion of light
+::An index of refraction at normal dispersion of light::[html]An index of refraction at normal dispersion of light
+-increased with the increase of wavelength light
+-does not depend on a wavelength light
++decreases with the increasing wavelength light
+-decreases with the increasing of light frequency
+-does not depend on frequency of light
+
+
+
+?
+ question: 6341920  name: An instrument that measure atmospheric pressure
+::An instrument that measure atmospheric pressure::[html]An instrument that measure atmospheric pressure
++barometer
+-viscometer
+-venturi meter
+-tonometer
+-spirometer
+
+
+
+?
+ question: 6342027  name: An operating factor of ultra high frequency  therapy is
+::An operating factor of ultra high frequency  therapy is::[html]An operating factor of ultra high frequency  therapy is
+-amplitude
+-velocity
+-current of displacement in the vacuum
+-ultra low frequency magnetic field
++ultra high frequency electric field
+
+
+
+?
+ question: 6342146  name: At a supervision in a microscope two close located points on preparation ...
+::At a supervision in a microscope two close located points on preparation ...::[html]At a supervision in a microscope two close located points on preparation hardly to distinguish because of
+-refraction
+-polarization
+-dispersion
++diffraction
+-Dopler effect
+
+
+
+?
+ question: 6341949  name: At atherosclerosis, the thickness of an artery wall increases by 4 times.  ...
+::At atherosclerosis, the thickness of an artery wall increases by 4 times.  ...::[html]At atherosclerosis, the thickness of an artery wall increases by 4 times.  How does this factor influence the blood flow?
+-it decreases comparing to the norm
+-there is no influence
+-it decreases by 1 time comparing to the norm
+-it increases comparing to the norm
++it increases by 2 times comparing to the norm
+
+
+
+?
+ question: 6342144  name: At the refraction of beam of white light in a glass prism most strongly from ...
+::At the refraction of beam of white light in a glass prism most strongly from ...::[html]At the refraction of beam of white light in a glass prism most strongly from primary direction will deviate
+-orange ray
+-green ray
+-yellow ray
+-red ray
++violet ray
+
+
+
+?
+ question: 6341871  name: At what value of strain the tension will be equal to the Young’s modules?
+::At what value of strain the tension will be equal to the Young’s modules?::[html]At what value of strain the tension will be equal to the Young’s modules?
+-any value
+-equal 3
++equal 1
+-equal 2
+-equal 4
+
+
+
+?
+ question: 6342090  name: Biopotentials of the muscles after the amplifier will pass through
+::Biopotentials of the muscles after the amplifier will pass through::[html]Biopotentials of the muscles after the amplifier will pass through
++the switching device, followed by control unit and finally are recorded by oscilloscope
+-the control unit, followed by switching device and finally are recorded by switching device
+-the oscilloscope, followed by control unit and finally are recorded by oscilloscope
+-the switching device, followed by control unit
+-the control unit and oscilloscope
+
+
+
+?
+ question: 6342097  name: Calculate Lorentz force, if magnetic induction B=2 T, velocity v=1m/s, charge...
+::Calculate Lorentz force, if magnetic induction B\=2 T, velocity v\=1m/s, charge...::[html]Calculate Lorentz force, if magnetic induction B\=2 T, velocity v\=1m/s, charge q\=2 C, sin(a)\=1  
++4 N
+-6 N 
+-8 N
+-10 N
+-12 N
+
+
+
+?
+ question: 6342098  name: Calculate Lorentz force, if magnetic induction B=3 T, velocity v=1m/s, charge...
+::Calculate Lorentz force, if magnetic induction B\=3 T, velocity v\=1m/s, charge...::[html]Calculate Lorentz force, if magnetic induction B\=3 T, velocity v\=1m/s, charge q\=2 C, sin(a)\=1  
+-4 N
++6 N 
+-8 N
+-10 N
+-12 N
+
+
+
+?
+ question: 6342099  name: Calculate Lorentz force, if magnetic induction B=4 T, velocity v=1m/s, charge...
+::Calculate Lorentz force, if magnetic induction B\=4 T, velocity v\=1m/s, charge...::[html]Calculate Lorentz force, if magnetic induction B\=4 T, velocity v\=1m/s, charge q\=2 C, sin(a)\=1  
+-4 N
+-6 N 
++8 N
+-10 N
+-12 N
+
+
+
+?
+ question: 6342100  name: Calculate Lorentz force, if magnetic induction B=5 T, velocity v=1m/s, charge...
+::Calculate Lorentz force, if magnetic induction B\=5 T, velocity v\=1m/s, charge...::[html]Calculate Lorentz force, if magnetic induction B\=5 T, velocity v\=1m/s, charge q\=2 C, sin(a)\=1  
+-4 N
+-6 N 
+-8 N
++10 N
+-12 N
+
+
+
+?
+ question: 6342101  name: Calculate Lorentz force, if magnetic induction B=6 T, velocity v=1m/s, charge...
+::Calculate Lorentz force, if magnetic induction B\=6 T, velocity v\=1m/s, charge...::[html]Calculate Lorentz force, if magnetic induction B\=6 T, velocity v\=1m/s, charge q\=2 C, sin(a)\=1  
+-4 N
+-6 N 
+-8 N
+-10 N
++12 N
+
+
+
+?
+ question: 6342102  name: Calculate Lorentz force, if magnetic induction B=6 T, velocity v=2m/s, charge...
+::Calculate Lorentz force, if magnetic induction B\=6 T, velocity v\=2m/s, charge...::[html]Calculate Lorentz force, if magnetic induction B\=6 T, velocity v\=2m/s, charge q\=2 C, sin(a)\=1  
++24 N
+-48 N 
+-72 N
+-60 N
+-36 N
+
+
+
+?
+ question: 6342104  name: Calculate Lorentz force, if magnetic induction B=6 T, velocity v=3m/s, charge...
+::Calculate Lorentz force, if magnetic induction B\=6 T, velocity v\=3m/s, charge...::[html]Calculate Lorentz force, if magnetic induction B\=6 T, velocity v\=3m/s, charge q\=2 C, sin(a)\=1  
+-24 N
+-48 N 
+-72 N
+-60 N
++36 N
+
+
+
+?
+ question: 6342103  name: Calculate Lorentz force, if magnetic induction B=6 T, velocity v=4m/s, charge...
+::Calculate Lorentz force, if magnetic induction B\=6 T, velocity v\=4m/s, charge...::[html]Calculate Lorentz force, if magnetic induction B\=6 T, velocity v\=4m/s, charge q\=2 C, sin(a)\=1  
+-24 N
++48 N 
+-72 N
+-60 N
+-36 N
+
+
+
+?
+ question: 6342105  name: Calculate Lorentz force, if magnetic induction B=6 T, velocity v=5m/s, charge...
+::Calculate Lorentz force, if magnetic induction B\=6 T, velocity v\=5m/s, charge...::[html]Calculate Lorentz force, if magnetic induction B\=6 T, velocity v\=5m/s, charge q\=2 C, sin(a)\=1  
+-24 N
+-48 N 
+-72 N
++60 N
+-36 N
+
+
+
+?
+ question: 6342106  name: Calculate Lorentz force, if magnetic induction B=6 T, velocity v=6m/s, charge...
+::Calculate Lorentz force, if magnetic induction B\=6 T, velocity v\=6m/s, charge...::[html]Calculate Lorentz force, if magnetic induction B\=6 T, velocity v\=6m/s, charge q\=2 C, sin(a)\=1  
+-24 N
+-48 N 
++72 N
+-60 N
+-36 N
+
+
+
+?
+ question: 6342001  name: Calculate the electric field intensity E if the force F is 10 N, charge q is 2 C
+::Calculate the electric field intensity E if the force F is 10 N, charge q is 2 C::[html]Calculate the electric field intensity E if the force F is 10 N, charge q is 2 C
++5 N/C
+-6 N/C
+-7 N/C
+-8 N/C
+-9 N/C
+
+
+
+?
+ question: 6342002  name: Calculate the electric field intensity E if the force F is 12 N, charge q is 2 C
+::Calculate the electric field intensity E if the force F is 12 N, charge q is 2 C::[html]Calculate the electric field intensity E if the force F is 12 N, charge q is 2 C
+-5 N/C
++6 N/C
+-7 N/C
+-8 N/C
+-9 N/C
+
+
+
+?
+ question: 6342003  name: Calculate the electric field intensity E if the force F is 14 N, charge q is 2 C
+::Calculate the electric field intensity E if the force F is 14 N, charge q is 2 C::[html]Calculate the electric field intensity E if the force F is 14 N, charge q is 2 C
+-5 N/C
+-6 N/C
++7 N/C
+-8 N/C
+-9 N/C
+
+
+
+?
+ question: 6342004  name: Calculate the electric field intensity E if the force F is 16 N, charge q is 2 C
+::Calculate the electric field intensity E if the force F is 16 N, charge q is 2 C::[html]Calculate the electric field intensity E if the force F is 16 N, charge q is 2 C
+-5 N/C
+-6 N/C
+-7 N/C
++8 N/C
+-9 N/C
+
+
+
+?
+ question: 6342005  name: Calculate the electric field intensity E if the force F is 18 N, charge q is 2 C
+::Calculate the electric field intensity E if the force F is 18 N, charge q is 2 C::[html]Calculate the electric field intensity E if the force F is 18 N, charge q is 2 C
+-5 N/C
+-6 N/C
+-7 N/C
+-8 N/C
++9 N/C
+
+
+
+?
+ question: 6342006  name: Calculate the electric field intensity E if the force F is 20 N, charge q is 2 C
+::Calculate the electric field intensity E if the force F is 20 N, charge q is 2 C::[html]Calculate the electric field intensity E if the force F is 20 N, charge q is 2 C
++10 N/C
+-12 N/C
+-14 N/C
+-16 N/C
+-18 N/C
+
+
+
+?
+ question: 6342007  name: Calculate the electric field intensity E if the force F is 24 N, charge q is 2 C
+::Calculate the electric field intensity E if the force F is 24 N, charge q is 2 C::[html]Calculate the electric field intensity E if the force F is 24 N, charge q is 2 C
+-10 N/C
++12 N/C
+-14 N/C
+-16 N/C
+-18 N/C
+
+
+
+?
+ question: 6342008  name: Calculate the electric potential difference if the work is 10 J, charge is 2 C
+::Calculate the electric potential difference if the work is 10 J, charge is 2 C::[html]Calculate the electric potential difference if the work is 10 J, charge is 2 C
++5 J/C
+-6 J/C
+-7 J/C
+-8 J/C
+-9 J/C
+
+
+
+?
+ question: 6342009  name: Calculate the electric potential difference if the work is 12 J, charge is 2 C
+::Calculate the electric potential difference if the work is 12 J, charge is 2 C::[html]Calculate the electric potential difference if the work is 12 J, charge is 2 C
+-5 J/C
++6 J/C
+-7 J/C
+-8 J/C
+-9 J/C
+
+
+
+?
+ question: 6342010  name: Calculate the electric potential difference if the work is 14 J, charge is 2 C
+::Calculate the electric potential difference if the work is 14 J, charge is 2 C::[html]Calculate the electric potential difference if the work is 14 J, charge is 2 C
+-5 J/C
+-6 J/C
++7 J/C
+-8 J/C
+-9 J/C
+
+
+
+?
+ question: 6342011  name: Calculate the electric potential difference if the work is 16 J, charge is 2 C
+::Calculate the electric potential difference if the work is 16 J, charge is 2 C::[html]Calculate the electric potential difference if the work is 16 J, charge is 2 C
+-5 J/C
+-6 J/C
+-7 J/C
++8 J/C
+-9 J/C
+
+
+
+?
+ question: 6342012  name: Calculate the electric potential difference if the work is 18 J, charge is 2 C
+::Calculate the electric potential difference if the work is 18 J, charge is 2 C::[html]Calculate the electric potential difference if the work is 18 J, charge is 2 C
+-5 J/C
+-6 J/C
+-7 J/C
+-8 J/C
++9 J/C
+
+
+
+?
+ question: 6342013  name: Calculate the electric potential difference if the work is 20 J, charge is 2 C
+::Calculate the electric potential difference if the work is 20 J, charge is 2 C::[html]Calculate the electric potential difference if the work is 20 J, charge is 2 C
++10 J/C
+-12 J/C
+-14 J/C
+-16 J/C
+-18 J/C
+
+
+
+?
+ question: 6342014  name: Calculate the electric potential difference if the work is 24 J, charge is 2 C
+::Calculate the electric potential difference if the work is 24 J, charge is 2 C::[html]Calculate the electric potential difference if the work is 24 J, charge is 2 C
+-10 J/C
++12 J/C
+-14 J/C
+-16 J/C
+-18 J/C
+
+
+
+?
+ question: 6342015  name: Calculate the electric potential difference if the work is 28 J, charge is 2 C
+::Calculate the electric potential difference if the work is 28 J, charge is 2 C::[html]Calculate the electric potential difference if the work is 28 J, charge is 2 C
+-10 J/C
+-12 J/C
++14 J/C
+-16 J/C
+-18 J/C
+
+
+
+?
+ question: 6342016  name: Calculate the electric potential difference if the work is 32 J, charge is 2 C
+::Calculate the electric potential difference if the work is 32 J, charge is 2 C::[html]Calculate the electric potential difference if the work is 32 J, charge is 2 C
+-10 J/C
+-12 J/C
+-14 J/C
++16 J/C
+-18 J/C
+
+
+
+?
+ question: 6342017  name: Calculate the electric potential difference if the work is 36 J, charge is 2 C
+::Calculate the electric potential difference if the work is 36 J, charge is 2 C::[html]Calculate the electric potential difference if the work is 36 J, charge is 2 C
+-10 J/C
+-12 J/C
+-14 J/C
+-16 J/C
++18 J/C
+
+
+
+?
+ question: 6342108  name: Calculate the speed of the alpha particles that enter an electromagnetic ...
+::Calculate the speed of the alpha particles that enter an electromagnetic ...::[html]Calculate the speed of the alpha particles that enter an electromagnetic field if the electric intensity is 100 V/m and the magnetic induction is 2 T.
++50
+-51
+-52
+-53
+-54
+
+
+
+?
+ question: 6342109  name: Calculate the speed of the alpha particles that enter an electromagnetic ...
+::Calculate the speed of the alpha particles that enter an electromagnetic ...::[html]Calculate the speed of the alpha particles that enter an electromagnetic field if the electric intensity is 102 V/m and the magnetic induction is 2 T.
+-50
++51
+-52
+-53
+-54
+
+
+
+?
+ question: 6342110  name: Calculate the speed of the alpha particles that enter an electromagnetic ...
+::Calculate the speed of the alpha particles that enter an electromagnetic ...::[html]Calculate the speed of the alpha particles that enter an electromagnetic field if the electric intensity is 104 V/m and the magnetic induction is 2 T.
+-50
+-51
++52
+-53
+-54
+
+
+
+?
+ question: 6342111  name: Calculate the speed of the alpha particles that enter an electromagnetic ...
+::Calculate the speed of the alpha particles that enter an electromagnetic ...::[html]Calculate the speed of the alpha particles that enter an electromagnetic field if the electric intensity is 106 V/m and the magnetic induction is 2 T.
+-50
+-51
+-52
++53
+-54
+
+
+
+?
+ question: 6342112  name: Calculate the speed of the alpha particles that enter an electromagnetic ...
+::Calculate the speed of the alpha particles that enter an electromagnetic ...::[html]Calculate the speed of the alpha particles that enter an electromagnetic field if the electric intensity is 108 V/m and the magnetic induction is 2 T.
+-50
+-51
+-52
+-53
++54
+
+
+
+?
+ question: 6342113  name: Calculate the speed of the alpha particles that enter an electromagnetic ...
+::Calculate the speed of the alpha particles that enter an electromagnetic ...::[html]Calculate the speed of the alpha particles that enter an electromagnetic field if the electric intensity is 110 V/m and the magnetic induction is 2 T.
++55
+-56
+-57
+-58
+-59
+
+
+
+?
+ question: 6342114  name: Calculate the speed of the alpha particles that enter an electromagnetic ...
+::Calculate the speed of the alpha particles that enter an electromagnetic ...::[html]Calculate the speed of the alpha particles that enter an electromagnetic field if the electric intensity is 112 V/m and the magnetic induction is 2 T.
+-55
++56
+-57
+-58
+-59
+
+
+
+?
+ question: 6342115  name: Calculate the speed of the alpha particles that enter an electromagnetic ...
+::Calculate the speed of the alpha particles that enter an electromagnetic ...::[html]Calculate the speed of the alpha particles that enter an electromagnetic field if the electric intensity is 114 V/m and the magnetic induction is 2 T.
+-55
+-56
++57
+-58
+-59
+
+
+
+?
+ question: 6342116  name: Calculate the speed of the alpha particles that enter an electromagnetic ...
+::Calculate the speed of the alpha particles that enter an electromagnetic ...::[html]Calculate the speed of the alpha particles that enter an electromagnetic field if the electric intensity is 116 V/m and the magnetic induction is 2 T.
+-55
+-56
+-57
++58
+-59
+
+
+
+?
+ question: 6342117  name: Calculate the speed of the alpha particles that enter an electromagnetic ...
+::Calculate the speed of the alpha particles that enter an electromagnetic ...::[html]Calculate the speed of the alpha particles that enter an electromagnetic field if the electric intensity is 118 V/m and the magnetic induction is 2 T.
+-55
+-56
+-57
+-58
++59
+
+
+
+?
+ question: 6341958  name: Choose the law of classic mechanics where the formula of flow continuity in ...
+::Choose the law of classic mechanics where the formula of flow continuity in ...::[html]Choose the law of classic mechanics where the formula of flow continuity in hydrodynamics can be applied.
+-the Omh`s law
++the law of conservation of mass
+-the first law of thermodynamics
+-the second law of thermodynamics
+-the law of conservation of volume
+
+
+
+?
+ question: 6341943  name: Choose the profile of the linear velocity distribution in the transversal ...
+::Choose the profile of the linear velocity distribution in the transversal ...::[html]Choose the profile of the linear velocity distribution in the transversal section of a cylindrical capillary for the laminar flow of a viscid Newtonian fluid.
+-exponent
++parabolic
+-linear
+-trapezoid
+-hyperbolic
+
+
+
+?
+ question: 6341944  name: Choose the rheological model for the description of the rheological ...
+::Choose the rheological model for the description of the rheological ...::[html]Choose the rheological model for the description of the rheological properties of the whole blood at the high shear velocity
+-the Kelvin model
+-the Bingham-Shvedov model
++the Newton model
+-the Maxwell model
+-the Kelvin-Voigt model
+
+
+
+?
+ question: 6341945  name: Choose the rheological model that can be applied for the description of the ...
+::Choose the rheological model that can be applied for the description of the ...::[html]Choose the rheological model that can be applied for the description of the properties of the human blood plasma using the modern experimental data.
+-it contains two parallel springs and a plunger
+-it contains four springs and a plunger
++it contains just a Newtonian element (plunger)
+-it contains a parallel spring and a plunger
+-it contains a consistent spring and a plunger
+
+
+
+?
+ question: 6342227  name: Coherent waves are
+::Coherent waves are::[html]Coherent waves are
+-waves with the same frequency
+-waves with the same wavelength
+-waves with the frequency equal 5 Hz
++waves with the same frequency and constant phase difference
+-waves with the wavelength equal 12 nm
+
+
+
+?
+ question: 6342210  name: Colored transparent solutions have monochromatic absorption coefficient ...
+::Colored transparent solutions have monochromatic absorption coefficient ...::[html]Colored transparent solutions have monochromatic absorption coefficient proportional to the
+-light absorption
++concentration of the colored substance
+-refraction
+-polarization
+-wavelength
+
+
+
+?
+ question: 6342037  name: Conductivity of water solution of electrolyte depends on
+::Conductivity of water solution of electrolyte depends on::[html]Conductivity of water solution of electrolyte depends on
+-a concentration of cations
+-a concentration of anions
+-a mobility and charge of ions
+-a concentration and charge of ions
++a concentration, mobility and electric charge of ions
+
+
+
+?
+ question: 6341882  name: Depth of ultrasound penetration in a tissue depends on
+::Depth of ultrasound penetration in a tissue depends on::[html]Depth of ultrasound penetration in a tissue depends on
+-amplitude of a sound wave
++frequency of ultrasound
+-initial phase of ultrasound
+-velocity of light
+-displacement of ultrasound
+
+
+
+?
+ question: 6342179  name: Determining of the rectum diseases and lower division of the sigmoid colon is
+::Determining of the rectum diseases and lower division of the sigmoid colon is::[html]Determining of the rectum diseases and lower division of the sigmoid colon is
+-Gastroscopy
+-Bronchoscopy
+-Laparoscopy
+-Colonoscopy
++Proctoscopy
+
+
+
+?
+ question: 6342231  name: Diffraction grating is a set of
+::Diffraction grating is a set of::[html]Diffraction grating is a set of
++a large number of narrow slits separated by non-transparent spaces
+-columns
+-rods
+-lines
+-dots
+
+
+
+?
+ question: 6342197  name: Dioptric power of a lens is
+::Dioptric power of a lens is::[html]Dioptric power of a lens is
++the reciprocal of the focal length of a lens
+-the sum of geometrical differences of motion
+-always equal to the geometrical difference of motion
+-always less geometrical difference of motion
+-does not depend focal length
+
+
+
+?
+ question: 6342061  name: Direct current is
+::Direct current is::[html]Direct current is
+-a type of direct current that does not change its intensity with time
+-an electric current which periodically reverses polarity
++the unidirectional flow of electric charge
+-a unidirectional surge of current of very short duration
+-If for any unequal intervals carried the same number of electrical pulses;
+
+
+
+?
+ question: 6342148  name: Dispersion of light is
+::Dispersion of light is::[html]Dispersion of light is
+-index of refraction
+-wavelength
+-intensity of light
++the phenomenon in which the phase velocity of a wave depends on its frequency
+-frequency
+
+
+
+?
+ question: 6341843  name: Displacement is
+::Displacement is::[html]Displacement is
++the distance that a particle of the medium is displaced from its equilibrium position as the wave passes by
+-the maximum value of the displacement
+-the distance, in the direction of propagation, in which the wave repeats itself
+-it is the time for a wave to repeat itself
+-the number of waves passing a particular point per second
+
+
+
+?
+ question: 6341884  name: Doppler effect allows to record
+::Doppler effect allows to record::[html]Doppler effect allows to record
+-wavelength
+-angular velocity
++linear velocity and direction of blood flow in the vessels
+-loudness
+-sound intensity
+
+
+
+?
+ question: 6341982  name: Duration of a cardiac cycle is
+::Duration of a cardiac cycle is::[html]Duration of a cardiac cycle is
+-10 mV
++0.8-0.9 sec
+-20 F 
+-20 sec
+-10 kg
+
+
+
+?
+ question: 6341983  name: ECG areas located between the “teeth” are called
+::ECG areas located between the “teeth” are called::[html]ECG areas located between the “teeth” are called
+-intervals
+-isoelectric line
++segments  
+-positive
+-negative
+
+
+
+?
+ question: 6342024  name: Electric current can be defined as:
+::Electric current can be defined as\:::[html]Electric current can be defined as\:
++the amount of electric charge that flows through a cross section of a wire per unit time
+-the magnitude of an electric current as measured by the quantity of electricity crossing a specified area of equipotential surface per unit time
+-the amount of electric current passing through a cross-sectional area (perpendicular to the direction of current) of a conductor in a given unit of time
+-the ratio of the work done to the charge q in moving the charge between two points in an electric field.
+-the inverse of the resistivity
+
+
+
+?
+ question: 6342038  name: Electrical impedance is
+::Electrical impedance is::[html]Electrical impedance is
+-reactance
+-inductive reactance
+-capacitive reactance
+-resistance
++total (complete) impedance
+
+
+
+?
+ question: 6342054  name: Electrical mobility of the particle is defined as
+::Electrical mobility of the particle is defined as::[html]Electrical mobility of the particle is defined as
++the ratio of the drift velocity to the magnitude of the electric field
+-the current through a conductor between two points is inversly proportional to the voltage across the two points I\=R/V
+-the current through a conductor between two points is equal to the voltage I\=V
+-the voltage is equal to the resistance V\=R
+-the resistance is inversly proportional to the voltage R\=I/V
+
+
+
+?
+ question: 6341976  name: Electrocardiography (ECG) is
+::Electrocardiography (ECG) is::[html]Electrocardiography (ECG) is
+-an electrophysiological monitoring method to record electrical activity of the brain
++the process of recording the electrical activity of the heart over a period of time using electrodes placed on the skin
+-measures the electrical responses of various cell types in the retina, including the photoreceptors , inner retinal cells, and the ganglion cells. 
+-an electrodiagnostic medicine technique for evaluating and recording the electrical activity produced by skeletal muscles
+-a non-invasive method for the measurement of gastric myoelectrical activity
+
+
+
+?
+ question: 6342071  name: Electrodes are set on different extremity heights (on the endings) – one ...
+::Electrodes are set on different extremity heights (on the endings) – one ...::[html]Electrodes are set on different extremity heights (on the endings) – one electrode on the shoulder, and the other on the palm of the hand  at
+-transverse or transregional galvanization
++longitudinal galvanization 
+-dotted galvanization 
+-isoelectric focusing
+-ultrasound machine
+
+
+
+?
+ question: 6342070  name: Electrodes are set transversely on a certain body part at
+::Electrodes are set transversely on a certain body part at::[html]Electrodes are set transversely on a certain body part at
++transverse or transregional galvanization
+-longitudinal galvanization 
+-dotted galvanization 
+-isoelectric focusing
+-ultrasound machine
+
+
+
+?
+ question: 6341975  name: Electroencephalography (EEG) is
+::Electroencephalography (EEG) is::[html]Electroencephalography (EEG) is
++an electrophysiological monitoring method to record electrical activity of the brain
+-the process of recording the electrical activity of the heart over a period of time using electrodes placed on the skin
+-measures the electrical responses of various cell types in the retina, including the photoreceptors, inner retinal cells, and the ganglion cells. 
+-an electrodiagnostic medicine technique for evaluating and recording the electrical activity produced by skeletal muscles
+-a non-invasive method for the measurement of gastric myoelectrical activity
+
+
+
+?
+ question: 6341979  name: Electrogastrography (EGG) is
+::Electrogastrography (EGG) is::[html]Electrogastrography (EGG) is
+-an electrophysiological monitoring method to record electrical activity of the brain
+-the process of recording the electrical activity of the heart over a period of time using electrodes placed on the skin
+-measures the electrical responses of various cell types in the retina, including the photoreceptors , inner retinal cells, and the ganglion cells. 
+-an electrodiagnostic medicine technique for evaluating and recording the electrical activity produced by skeletal muscles
++a non-invasive method for the measurement of gastric myoelectrical activity
+
+
+
+?
+ question: 6342025  name: Electromotive force is …
+::Electromotive force is …::[html]Electromotive force is …
+-the inverse of resistivity
+-the magnitude of an electric current as measured by the quantity of electricity crossing a specified area of equipotential surface per unit time
+-a flow of electric charge through a medium
+-the amount of electric current passing through a cross-sectional area (perpendicular to the direction of current) of a conductor in a given unit of time
++the voltage developed by any source of electrical energy such as a battery or dynamo.
+
+
+
+?
+ question: 6341978  name: Electromyography (EMG) is
+::Electromyography (EMG) is::[html]Electromyography (EMG) is
+-an electrophysiological monitoring method to record electrical activity of the brain
+-the process of recording the electrical activity of the heart over a period of time using electrodes placed on the skin
+-measures the electrical responses of various cell types in the retina, including the photoreceptors , inner retinal cells, and the ganglion cells. 
++an electrodiagnostic medicine technique for evaluating and recording the electrical activity produced by skeletal muscles
+-a non-invasive method for the measurement of gastric myoelectrical activity
+
+
+
+?
+ question: 6341977  name: Electroretinography is
+::Electroretinography is::[html]Electroretinography is
+-an electrophysiological monitoring method to record electrical activity of the brain
+-the process of recording the electrical activity of the heart over a period of time using electrodes placed on the skin
++measures the electrical responses of various cell types in the retina, including the photoreceptors , inner retinal cells, and the ganglion cells. 
+-an electrodiagnostic medicine technique for evaluating and recording the electrical activity produced by skeletal muscles
+-a non-invasive method for the measurement of gastric myoelectrical activity
+
+
+
+?
+ question: 6341891  name: Equation S = A cos [w (t+x/v)] is the equation of the plane harmonic wave ...
+::Equation S \= A cos [w (t+x/v)] is the equation of the plane harmonic wave ...::[html]Equation S \= A cos [w (t+x/v)] is the equation of the plane harmonic wave extending in
+-decrease of coordinate z
+-increases of coordinate y
+-increases of coordinate x
++decrease of coordinate x
+-decrease of coordinate y
+
+
+
+?
+ question: 6341888  name: Equation S = A cos[w (t-x/v)] is
+::Equation S \= A cos[w (t-x/v)] is::[html]Equation S \= A cos[w (t-x/v)] is
+-the equation of harmonic fluctuations
+-the velocity equation
+-the Ohm’s law
+-the equation of a spherical wave
++the equation of the plane wave
+
+
+
+?
+ question: 6342177  name: Examination and surgery of the abdominal organs is
+::Examination and surgery of the abdominal organs is::[html]Examination and surgery of the abdominal organs is
+-Gastroscopy
+-Bronchoscopy
++Laparoscopy
+-Colonoscopy
+-Proctoscopy
+
+
+
+?
+ question: 6342175  name: Examination of the stomach, surgery on the stomach surface is
+::Examination of the stomach, surgery on the stomach surface is::[html]Examination of the stomach, surgery on the stomach surface is
++Gastroscopy
+-Bronchoscopy
+-Laparoscopy
+-Colonoscopy
+-Proctoscopy
+
+
+
+?
+ question: 6342074  name: Find the skin resistance when current is equal to 1 mА, and voltage is 2 В.
+::Find the skin resistance when current is equal to 1 mА, and voltage is 2 В.::[html]Find the skin resistance when current is equal to 1 mА, and voltage is 2 В.
+-5000 Ohms
++2000 Ohms
+-3000 Ohms
+-4000 Ohms
+-6000 Ohms
+
+
+
+?
+ question: 6342075  name: Find the skin resistance when current is equal to 1 mА, and voltage is 3 В.
+::Find the skin resistance when current is equal to 1 mА, and voltage is 3 В.::[html]Find the skin resistance when current is equal to 1 mА, and voltage is 3 В.
+-5000 Ohms
+-2000 Ohms
++3000 Ohms
+-4000 Ohms
+-6000 Ohms
+
+
+
+?
+ question: 6342076  name: Find the skin resistance when current is equal to 1 mА, and voltage is 4 В.
+::Find the skin resistance when current is equal to 1 mА, and voltage is 4 В.::[html]Find the skin resistance when current is equal to 1 mА, and voltage is 4 В.
+-5000 Ohms
+-2000 Ohms
+-3000 Ohms
++4000 Ohms
+-6000 Ohms
+
+
+
+?
+ question: 6342077  name: Find the skin resistance when current is equal to 1 mА, and voltage is 6 В.
+::Find the skin resistance when current is equal to 1 mА, and voltage is 6 В.::[html]Find the skin resistance when current is equal to 1 mА, and voltage is 6 В.
+-5000 Ohms
+-2000 Ohms
+-3000 Ohms
+-4000 Ohms
++6000 Ohms
+
+
+
+?
+ question: 6342081  name: Find the skin resistance when current is equal to 10 mА, and voltage is 30 В.
+::Find the skin resistance when current is equal to 10 mА, and voltage is 30 В.::[html]Find the skin resistance when current is equal to 10 mА, and voltage is 30 В.
+-5000 Ohms
+-10000 Ohms
++3000 Ohms
+-4000 Ohms
+-6000 Ohms
+
+
+
+?
+ question: 6342073  name: Find the skin resistance when current is equal to 1mА, and voltage is 5В.
+::Find the skin resistance when current is equal to 1mА, and voltage is 5В.::[html]Find the skin resistance when current is equal to 1mА, and voltage is 5В.
++5000 Ohms
+-2000 Ohms
+-3000 Ohms
+-4000 Ohms
+-6000 Ohms
+
+
+
+?
+ question: 6342080  name: Find the skin resistance when current is equal to 3 mА, and voltage is 30 В.
+::Find the skin resistance when current is equal to 3 mА, and voltage is 30 В.::[html]Find the skin resistance when current is equal to 3 mА, and voltage is 30 В.
+-5000 Ohms
++10000 Ohms
+-3000 Ohms
+-4000 Ohms
+-6000 Ohms
+
+
+
+?
+ question: 6342078  name: Find the skin resistance when current is equal to 5 mА, and voltage is 30 В.
+::Find the skin resistance when current is equal to 5 mА, and voltage is 30 В.::[html]Find the skin resistance when current is equal to 5 mА, and voltage is 30 В.
++6000 Ohms
+-2000 Ohms
+-3000 Ohms
+-4000 Ohms
+-5000 Ohms
+
+
+
+?
+ question: 6342079  name: Find the skin resistance when current is equal to 6 mА, and voltage is 30 В.
+::Find the skin resistance when current is equal to 6 mА, and voltage is 30 В.::[html]Find the skin resistance when current is equal to 6 mА, and voltage is 30 В.
++5000 Ohms
+-2000 Ohms
+-3000 Ohms
+-4000 Ohms
+-6000 Ohms
+
+
+
+?
+ question: 6342082  name: Find the skin resistance when current is equal to 7 mА, and voltage is 35 В.
+::Find the skin resistance when current is equal to 7 mА, and voltage is 35 В.::[html]Find the skin resistance when current is equal to 7 mА, and voltage is 35 В.
++5000 Ohms
+-10000 Ohms
+-3000 Ohms
+-4000 Ohms
+-6000 Ohms
+
+
+
+?
+ question: 6342220  name: Find transparency if the initial intensity I0 = 10, and the intensity of ...
+::Find transparency if the initial intensity I0 \= 10, and the intensity of ...::[html]Find transparency if the initial intensity I0 \= 10, and the intensity of light passed through the medium is Id \= 6
++0.6
+-0.7
+-0.8
+-0.9
+-1.0
+
+
+
+?
+ question: 6342221  name: Find transparency if the initial intensity I0 = 10, and the intensity of ...
+::Find transparency if the initial intensity I0 \= 10, and the intensity of ...::[html]Find transparency if the initial intensity I0 \= 10, and the intensity of light that passed through the medium is Id \= 1
++0.1
+-0.2
+-0.3
+-0.4
+-0.5
+
+
+
+?
+ question: 6342222  name: Find transparency if the initial intensity I0 = 10, and the intensity of ...
+::Find transparency if the initial intensity I0 \= 10, and the intensity of ...::[html]Find transparency if the initial intensity I0 \= 10, and the intensity of light that passed through the medium is Id \= 7
+-0.6
++0.7
+-0.8
+-0.9
+-1.0
+
+
+
+?
+ question: 6342223  name: Find transparency if the initial intensity I0 = 10, and the intensity of ...
+::Find transparency if the initial intensity I0 \= 10, and the intensity of ...::[html]Find transparency if the initial intensity I0 \= 10, and the intensity of light that passed through the medium is Id \= 8
+-0.6
+-0.7
++0.8
+-0.9
+-1.0
+
+
+
+?
+ question: 6342224  name: Find transparency if the initial intensity I0 = 10, and the intensity of ...
+::Find transparency if the initial intensity I0 \= 10, and the intensity of ...::[html]Find transparency if the initial intensity I0 \= 10, and the intensity of light that passed through the medium is Id \= 9
+-0.6
+-0.7
+-0.8
++0.9
+-1.0
+
+
+
+?
+ question: 6341830  name: Formulate the Hooke’s law for deformation stretching-compression through ...
+::Formulate the Hooke’s law for deformation stretching-compression through ...::[html]Formulate the Hooke’s law for deformation stretching-compression through tension and strain.
+-normal tension is directly proportional to the module of a force of elasticity
++normal tension is directly proportional to strain
+-normal tension is inversely proportional to strain
+-normal tension is directly proportional to initial length of standard
+-tangent tension is directly proportional to strain
+
+
+
+?
+ question: 6341838  name: Formulate the Hooke’s law for deformation stretching-compression through the ...
+::Formulate the Hooke’s law for deformation stretching-compression through the ...::[html]Formulate the Hooke’s law for deformation stretching-compression through the applied force and elongation
++the applied force is directly proportional to the elongation
+-the applied force is directly proportional to initial length of standard
+-the applied force inversely proportional to the absolute lengthening
+-the applied force is directly proportional tension
+-the applied force is directly proportional to the relative lengthening
+
+
+
+?
+ question: 6341847  name: Frequency is
+::Frequency is::[html]Frequency is
+-the distance that a particle of the medium is displaced from its equilibrium position as the wave passes by
+-the maximum value of the displacement
+-the distance, in the direction of propagation, in which the wave repeats itself
+-it is the time for a wave to repeat itself
++the number of waves passing a particular point per second
+
+
+
+?
+ question: 6341876  name: Full energy of a material point which fluctuate by harmonic law is directly ...
+::Full energy of a material point which fluctuate by harmonic law is directly ...::[html]Full energy of a material point which fluctuate by harmonic law is directly proportional to
++the square of displacement amplitude
+-the frequency of fluctuations
+-the amplitude of displacement
+-the amplitude of velocity
+-the square of acceleration
+
+
+
+?
+ question: 6341877  name: Full energy of a material point which fluctuate by harmonic law is directly ...
+::Full energy of a material point which fluctuate by harmonic law is directly ...::[html]Full energy of a material point which fluctuate by harmonic law is directly proportional to
+-the square of displacement amplitude
++the square of frequency
+-the amplitude of displacement
+-the amplitude of velocity
+-the square of acceleration
+
+
+
+?
+ question: 6341914  name: Give the definition of the «vascular system»:
+::Give the definition of the «vascular system»\:::[html]Give the definition of the «vascular system»\:
+-the open system that consists of the elastic tubules (vessels) of different diameter
++the closed system that consists of the elastic tubules (vessels) of different diameter
+-the open system that consists of the inelastic tubules (vessels) of different diameter
+-the closed system that consists of the inelastic tubules (vessels) of the same diameter
+-the closed system that consists of the elastic tubules (vessels) of the same diameter
+
+
+
+?
+ question: 6342202  name: Glasses for astigmatic eye are equipped
+::Glasses for astigmatic eye are equipped::[html]Glasses for astigmatic eye are equipped
+-with collecting lenses
+-with prismatic lenses
+-with dispersive lenses
++with cylindrical lenses
+-with negative lenses
+
+
+
+?
+ question: 6342201  name: Glasses for farsighted eye are equipped
+::Glasses for farsighted eye are equipped::[html]Glasses for farsighted eye are equipped
+-with cylindrical lenses
+-with prismatic lenses
+-with dispersive lenses
++with collecting lenses
+-with negative lenses
+
+
+
+?
+ question: 6342200  name: Glasses for myopic eye are equipped
+::Glasses for myopic eye are equipped::[html]Glasses for myopic eye are equipped
+-with prismatic lenses
+-with cylindrical lenses
+-with positive lenses
+-with collecting lenses
++with diverging lenses
+
+
+
+?
+ question: 6341854  name: Harmonic oscillation are described by equation x = 0,01 cos (pt+p/3). Find ...
+::Harmonic oscillation are described by equation x \= 0,01 cos (pt+p/3). Find ...::[html]Harmonic oscillation are described by equation x \= 0,01 cos (pt+p/3). Find the amplitude of oscillation.
++0,01
+-0,02
+-0,03
+-0,04
+-0,05
+
+
+
+?
+ question: 6341853  name: Harmonic oscillation are described by equation x = 0,05 cos (3pt+p/3). Find ...
+::Harmonic oscillation are described by equation x \= 0,05 cos (3pt+p/3). Find ...::[html]Harmonic oscillation are described by equation x \= 0,05 cos (3pt+p/3). Find the angular frequency of oscillation.
+-p
+-2p
++3p
+-4p
+-5p
+
+
+
+?
+ question: 6341855  name: Harmonic oscillation are described by equation x = 0,05 cos (5pt+p/3). Find ...
+::Harmonic oscillation are described by equation x \= 0,05 cos (5pt+p/3). Find ...::[html]Harmonic oscillation are described by equation x \= 0,05 cos (5pt+p/3). Find the angular frequency of oscillation.
+-p
+-2p
+-3p
+-4p
++5p
+
+
+
+?
+ question: 6341848  name: Harmonic oscillation are described by equation x = 0,3 cos (p/3t + p/7). Find...
+::Harmonic oscillation are described by equation x \= 0,3 cos (p/3t + p/7). Find...::[html]Harmonic oscillation are described by equation x \= 0,3 cos (p/3t + p/7). Find the initial phase of oscillation.
+-p/3
+-p/4
+-p/5
+-p/6
++p/7
+
+
+
+?
+ question: 6341835  name: Harmonic oscillation are described by equation X=0,02 cos(pt + p/3). Find the...
+::Harmonic oscillation are described by equation X\=0,02 cos(pt + p/3). Find the...::[html]Harmonic oscillation are described by equation X\=0,02 cos(pt + p/3). Find the amplitude of oscillation.
+-0,01
++0,02
+-0,03
+-0,04
+-0,05
+
+
+
+?
+ question: 6341828  name: Harmonic oscillation are described by equation X=0,04 cos(pt + p/3). Find the...
+::Harmonic oscillation are described by equation X\=0,04 cos(pt + p/3). Find the...::[html]Harmonic oscillation are described by equation X\=0,04 cos(pt + p/3). Find the amplitude of oscillation.
+-0,01
+-0,02
+-0,03
++0,04
+-0,05
+
+
+
+?
+ question: 6341981  name: Height (amplitude) of teeth is measured in
+::Height (amplitude) of teeth is measured in::[html]Height (amplitude) of teeth is measured in
++mV
+-A
+-F 
+-second
+-kg
+
+
+
+?
+ question: 6342087  name: How are electrical charges and magnetic poles similar?
+::How are electrical charges and magnetic poles similar?::[html]How are electrical charges and magnetic poles similar?
++Unlike attract and the same type repel
+-Both are plus and minus
+-Magnetic poles attract electrons
+-Both change positive to negative charges
+-None of the above
+
+
+
+?
+ question: 6341899  name: How do the red blood cells (erythrocytes) influence the blood viscosity?
+::How do the red blood cells (erythrocytes) influence the blood viscosity?::[html]How do the red blood cells (erythrocytes) influence the blood viscosity?
+-the increasing of erythrocytes causes the decreasing of the blood viscosity
+-the decreasing of erythrocytes causes the increasing of the blood viscosity
++the increasing of erythrocytes causes the increasing of the blood viscosity
+-there is no any dependence
+-the decreasing of erythrocytes causes the decreasing of the blood viscosity
+
+
+
+?
+ question: 6341900  name: How does the shear rate influence the blood viscosity?
+::How does the shear rate influence the blood viscosity?::[html]How does the shear rate influence the blood viscosity?
+-there is no any dependence
+-the viscosity increases when the shear rate is high
++the viscosity increases when the shear rate is low
+-the viscosity decreases when the shear rate is low
+-such dependence can be observed only in children
+
+
+
+?
+ question: 6341897  name: How does the viscosity will change if the temperature increased?
+::How does the viscosity will change if the temperature increased?::[html]How does the viscosity will change if the temperature increased?
++the viscosity decreases
+-the viscosity increases gradually
+-the viscosity doesn’t change
+-the viscosity inflates
+-the viscosity doesn’t depend on the temperature
+
+
+
+?
+ question: 6341852  name: How the volume of sample will change during stretching?
+::How the volume of sample will change during stretching?::[html]How the volume of sample will change during stretching?
+-can diminish or remain without the change
+-remains without the change
+-can only diminish
++can be increased or be remained without change
+-can be only increased
+
+
+
+?
+ question: 6342134  name: If light speeds up upon entering a new medium, the angle of incidence is ...
+::If light speeds up upon entering a new medium, the angle of incidence is ...::[html]If light speeds up upon entering a new medium, the angle of incidence is equal 20 deg, the angle of refraction will be
++greater than the angle of incidence
+-20 deg
+-0 deg
+-10 deg
+-5 deg
+
+
+
+?
+ question: 6342135  name: If light speeds up upon entering a new medium, the angle of incidence is ...
+::If light speeds up upon entering a new medium, the angle of incidence is ...::[html]If light speeds up upon entering a new medium, the angle of incidence is equal 30 deg, the angle of refraction will be
++greater than the angle of incidence
+-20 deg, less than the angle of incidence
+-0 deg
+-10 deg
+-5 deg
+
+
+
+?
+ question: 6342136  name: If light speeds up upon entering a new medium, the angle of incidence is ...
+::If light speeds up upon entering a new medium, the angle of incidence is ...::[html]If light speeds up upon entering a new medium, the angle of incidence is equal 50 deg, the angle of refraction will be
++greater than the angle of incidence
+-20 deg, less than the angle of incidence
+-0 deg
+-10 deg
+-5 deg
+
+
+
+?
+ question: 6342137  name: If light speeds up upon entering a new medium, the angle of incidence is ...
+::If light speeds up upon entering a new medium, the angle of incidence is ...::[html]If light speeds up upon entering a new medium, the angle of incidence is equal 60 deg, the angle of refraction will be
++greater than the angle of incidence
+-20 deg, less than the angle of incidence
+-0 deg
+-10 deg
+-5 deg
+
+
+
+?
+ question: 6342160  name: If the angle of incidence exceeds the critical angle, the ray is
+::If the angle of incidence exceeds the critical angle, the ray is::[html]If the angle of incidence exceeds the critical angle, the ray is
++completely reflected and does not enter the new medium
+-enter to the new medium
+-equal 9 deg
+-polarized
+-refracted
+
+
+
+?
+ question: 6342118  name: If the frequency of electromagnetic wave decreases,
+::If the frequency of electromagnetic wave decreases,::[html]If the frequency of electromagnetic wave decreases,
++wavelength increases and energy of a photon decreases
+-wavelength decreases and energy of a photon decreases
+-wavelength increases and energy of a photon increases
+-wavelength increases and energy of a photon is constant
+-wavelength is constant and energy of a photon stays the same
+
+
+
+?
+ question: 6342141  name: If the light slows down in the new medium, the angle of incidence is equal  ...
+::If the light slows down in the new medium, the angle of incidence is equal  ...::[html]If the light slows down in the new medium, the angle of incidence is equal  30 deg, the angle of refraction will be
+-70 deg, greater than the angle of incidence
++less than the angle of incidence
+-75 deg
+-100 deg
+-85 deg
+
+
+
+?
+ question: 6342140  name: If the light slows down in the new medium, the angle of incidence is equal 40...
+::If the light slows down in the new medium, the angle of incidence is equal 40...::[html]If the light slows down in the new medium, the angle of incidence is equal 40 deg, the angle of refraction will be
+-70 deg, greater than the angle of incidence
++less than the angle of incidence
+-75 deg
+-100 deg
+-85 deg
+
+
+
+?
+ question: 6342139  name: If the light slows down in the new medium, the angle of incidence is equal 50...
+::If the light slows down in the new medium, the angle of incidence is equal 50...::[html]If the light slows down in the new medium, the angle of incidence is equal 50 deg, the angle of refraction will be
+-70 deg, greater than the angle of incidence
++less than the angle of incidence
+-75 deg
+-100 deg
+-85 deg
+
+
+
+?
+ question: 6342138  name: If the light slows down in the new medium, the angle of incidence is equal 60...
+::If the light slows down in the new medium, the angle of incidence is equal 60...::[html]If the light slows down in the new medium, the angle of incidence is equal 60 deg, the angle of refraction will be
+-70 deg, greater than the angle of incidence
++less than the angle of incidence
+-75 deg
+-100 deg
+-85 deg
+
+
+
+?
+ question: 6341947  name: If the product of the blood velocity and the square of a transversal segment ...
+::If the product of the blood velocity and the square of a transversal segment ...::[html]If the product of the blood velocity and the square of a transversal segment in one part of a vessel is S1*v1\=20, calculate this product in the other part of a vessel S2*v2 by the continuity equation.
++20
+-3
+-4
+-5
+-6
+
+
+
+?
+ question: 6341935  name: If the vessel elasticity decreases with age, the speed of the pulse wave…
+::If the vessel elasticity decreases with age, the speed of the pulse wave…::[html]If the vessel elasticity decreases with age, the speed of the pulse wave…
+-doesn’t change
+-decreases to 1 m/s every 10 years
+-decreases to 3 m/s every 10 years
++increases
+-there is no correct answer
+
+
+
+?
+ question: 6342232  name: If the width of the transparent slits equals to a, and the width of the ...
+::If the width of the transparent slits equals to a, and the width of the ...::[html]If the width of the transparent slits equals to a, and the width of the opaque spaces - b, the period of the diffraction grating is
+-d \= 2a + b
++d \= a + b
+-d \= 2a + 2b
+-d \= 3a + b
+-d \= 2a + 3b
+
+
+
+?
+ question: 6342092  name: In case of galvanization, the current density should not exceed
+::In case of galvanization, the current density should not exceed::[html]In case of galvanization, the current density should not exceed
++0.1 mA/cm^2
+-1 mA/cm^2
+-10 mA/cm^2
+-100 mA/cm^2
+-110 mA/cm^2
+
+
+
+?
+ question: 6341831  name: In longitudinal waves the displacement of the medium is
+::In longitudinal waves the displacement of the medium is::[html]In longitudinal waves the displacement of the medium is
+-half of the period one-way, half of period in other
+-at the same time in two directions
+-in all directions
+-athwart to direction of propagation of wave
++parallel to the propagation of the wave
+
+
+
+?
+ question: 6341972  name: In the first standard leads
+::In the first standard leads::[html]In the first standard leads
+-axis goes from the right arm to the left leg, with the negative electrode on the shoulder and the positive one on the leg RA-LL (RF)
++axis goes from shoulder to shoulder, with the negative electrode placed on the right shoulder and the positive electrode placed on the left shoulder LA-RA (RL)
+-axis goes from the left shoulder (negative electrode) to the left leg (positive electrode) LA-LL (LE)
+-axis goes from the right shoulder (negative electrode) to the right  leg (positive electrode) RA-RL
+-axis goes from the right leg (negative electrode) to the left  leg (positive electrode) RL-LL
+
+
+
+?
+ question: 6341973  name: In the second standard leads
+::In the second standard leads::[html]In the second standard leads
++axis goes from the right arm to the left leg, with the negative electrode on the shoulder and the positive one on the leg RA-LL (RF)
+-axis goes from shoulder to shoulder, with the negative electrode placed on the right shoulder and the positive electrode placed on the left shoulder LA-RA (RL)
+-axis goes from the left shoulder (negative electrode) to the left leg (positive electrode) LA-LL (LE)
+-axis goes from the right shoulder (negative electrode) to the right  leg (positive electrode) RA-RL
+-axis goes from the right leg (negative electrode) to the left  leg (positive electrode) RL-LL
+
+
+
+?
+ question: 6341974  name: In the third standard leads
+::In the third standard leads::[html]In the third standard leads
+-axis goes from the right arm to the left leg, with the negative electrode on the shoulder and the positive one on the leg RA-LL (RF)
+-axis goes from shoulder to shoulder, with the negative electrode placed on the right shoulder and the positive electrode placed on the left shoulder LA-RA (RL)
++axis goes from the left shoulder (negative electrode) to the left leg (positive electrode) LA-LL (LE)
+-axis goes from the right shoulder (negative electrode) to the right  leg (positive electrode) RA-RL
+-axis goes from the right leg (negative electrode) to the left  leg (positive electrode) RL-LL
+
+
+
+?
+ question: 6342178  name: Inspection of the entire colon is
+::Inspection of the entire colon is::[html]Inspection of the entire colon is
+-Gastroscopy
+-Bronchoscopy
+-Laparoscopy
++Colonoscopy
+-Proctoscopy
+
+
+
+?
+ question: 6341885  name: Intensity of a wave is
+::Intensity of a wave is::[html]Intensity of a wave is
+-the amplitude
+-the loudness
+-the velocity
++the energy of a wave that passes a unit area in a unit time
+-frequency of ultrasound
+
+
+
+?
+ question: 6342205  name: is a unit of measurement of the optical power of a lens or curved mirror, ...
+::is a unit of measurement of the optical power of a lens or curved mirror, ...::[html]is a unit of measurement of the optical power of a lens or curved mirror, which is equal to the reciprocal of the focal length measured in metres.
++A Dioptre
+-A Joule
+-A Volt
+-A meter
+-A kilogram
+
+
+
+?
+ question: 6341923  name: is an instrument that measure blood pressure.
+::is an instrument that measure blood pressure.::[html]is an instrument that measure blood pressure.
+-barometer
+-viscometer
+-venturi meter
++tonometer
+-spirometer
+
+
+
+?
+ question: 6341922  name: is an instrument used to measure the viscosity of a fluid.
+::is an instrument used to measure the viscosity of a fluid.::[html]is an instrument used to measure the viscosity of a fluid.
+-barometer
++viscometer
+-venturi meter
+-tonometer
+-spirometer
+
+
+
+?
+ question: 6342050  name: Joule–Lenz law states that
+::Joule–Lenz law states that::[html]Joule–Lenz law states that
+-the current density is directly proportional to the electric field. The coefficient of proportionality is electrical conductivity
+-the current through a conductor between two points is inversly proportional to the voltage across the two points I\=R/V
+-the current through a conductor between two points is equal to the voltage I\=V
+-the voltage is equal to the resistance V\=R
++the power of heating generated by an electrical conductor is proportional to the product of its resistance and the square of the current
+
+
+
+?
+ question: 6341857  name: Kinetic energy of material point which fluctuate by harmonic law is directly ...
+::Kinetic energy of material point which fluctuate by harmonic law is directly ...::[html]Kinetic energy of material point which fluctuate by harmonic law is directly proportional to
+-the amplitude displacement
+-the amplitude of speed of displacement
++the square of displacement amplitude
+-the square of amplitude of acceleration change
+-frequency of vibrations
+
+
+
+?
+ question: 6341869  name: Kinetic energy of material point which fluctuate by harmonic law is directly ...
+::Kinetic energy of material point which fluctuate by harmonic law is directly ...::[html]Kinetic energy of material point which fluctuate by harmonic law is directly proportional to
++the square of frequency
+-frequency of vibrations
+-amplitude of displacement
+-amplitude of speed of displacement
+-the square of acceleration of displacement
+
+
+
+?
+ question: 6342204  name: Lens +2 dioptres is
+::Lens +2 dioptres is::[html]Lens +2 dioptres is
++converging lens with focal distance 0,5 m
+-cylindrical lens
+-dispersive lens with focal distance 0,5 m
+-collecting lens with focal distance 2,0 m
+-dispersive lens with focal distance 2,0 m
+
+
+
+?
+ question: 6342195  name: Lenses are made from materials such as
+::Lenses are made from materials such as::[html]Lenses are made from materials such as
++glass or plastic
+-copper
+-water
+-paper
+-iron
+
+
+
+?
+ question: 6342132  name: Light travels from medium X into medium Y. Medium Y have a higher index of ...
+::Light travels from medium X into medium Y. Medium Y have a higher index of ...::[html]Light travels from medium X into medium Y. Medium Y have a higher index of refraction. One of the following is correct\:
++The light travels faster in X. The light will bend towards the normal in the Y
+-The light travels slowly in X. The light will bend towards the normal in the Y
+-The light travels faster in X. The light will bend bend away from the normal in the Y
+-The light travels slowly in X. The light will bend away from the normal in the Y
+-The light will bend away from the normal in the Y
+
+
+
+?
+ question: 6342089  name: Magnetism is a type of what?
+::Magnetism is a type of what?::[html]Magnetism is a type of what?
+-electricity
++force
+-matter
+-gravity
+-optics
+
+
+
+?
+ question: 6342203  name: Magnifying glass with focal distance F gives a magnification
+::Magnifying glass with focal distance F gives a magnification::[html]Magnifying glass with focal distance F gives a magnification
+-F/2d, where d- distance to the object
+-d/F, where d- distance to the object
+-d*F, where d- distance of the best sight
+-F/d, where d- distance of the best sight
++d/F, where d- distance of the best sight
+
+
+
+?
+ question: 6342218  name: Nephelometric method for determining the concentration is based on
+::Nephelometric method for determining the concentration is based on::[html]Nephelometric method for determining the concentration is based on
++measuring the intensity of light scattered by particles dispersed
+-measuring the weakening of light that has passed through the dispersed system due to absorption
+-measuring the absorbed light in the direction perpendicular to the direction of the main light beam
+-the absorbed light in the direction of the main light beam
+-measuring the voltage
+
+
+
+?
+ question: 6341863  name: Objective characteristics of sound are
+::Objective characteristics of sound are::[html]Objective characteristics of sound are
+-intensity, timbre, frequency
+-volume, acoustic spectrum
+-timbre, intensity, spectrum
++intensity, harmonic spectrum, frequency
+-timbre, frequency, volume
+
+
+
+?
+ question: 6342176  name: Observation of the bronchi, surgery on the bronchi is
+::Observation of the bronchi, surgery on the bronchi is::[html]Observation of the bronchi, surgery on the bronchi is
+-Gastroscopy
++Bronchoscopy
+-Laparoscopy
+-Colonoscopy
+-Proctoscopy
+
+
+
+?
+ question: 6342049  name: Ohm's law in differential form states that
+::Ohm's law in differential form states that::[html]Ohm's law in differential form states that
++the current density is directly proportional to the electric field. The coefficient of proportionality is electrical conductivity
+-the current through a conductor between two points is inversly proportional to the voltage across the two points I\=R/V
+-the current through a conductor between two points is equal to the voltage I\=V
+-the voltage is equal to the resistance V\=R
+-the resistance is inversly proportional to the voltage R\=I/V
+
+
+
+?
+ question: 6342048  name: Ohm's law states that
+::Ohm's law states that::[html]Ohm's law states that
++the current through a conductor between two points is directly proportional to the voltage across the two points I\=V/R
+-the current through a conductor between two points is inversly proportional to the voltage across the two points I\=R/V
+-the current through a conductor between two points is equal to the voltage I\=V
+-the voltage is equal to the resistance V\=R
+-the resistance is inversly proportional to the voltage R\=I/V
+
+
+
+?
+ question: 6341837  name: One day (24 hours) is the period of rotation
+::One day (24 hours) is the period of rotation::[html]One day (24 hours) is the period of rotation
+-earth round a Sun
+-pole-star round a Sun
+-rotation of the Moon
++earth around the axis
+-rotation of the Sun
+
+
+
+?
+ question: 6342185  name: Optical difference of motion of rays of light
+::Optical difference of motion of rays of light::[html]Optical difference of motion of rays of light
++equal to geometrical difference of motion on the index of refraction
+-to the sum of geometrical differences of motion
+-is always equal to the geometrical difference of motion
+-always less geometrical difference of motion
+-does not depend on the geometrical difference of motion
+
+
+
+?
+ question: 6342187  name: Optical power of collecting lens is equal to 5 diopters. Calculate the focal ...
+::Optical power of collecting lens is equal to 5 diopters. Calculate the focal ...::[html]Optical power of collecting lens is equal to 5 diopters. Calculate the focal distance of lens.
+-0,25 m
+-0,5 m
+--2,0 m
+-2,5 m
++0,2 m
+
+
+
+?
+ question: 6342164  name: Optically less dense environment
+::Optically less dense environment::[html]Optically less dense environment
++has a less index of refraction
+-has a less velocity
+-has a greater index of refraction
+-has a greater asorbance
+-has  a less absorbance
+
+
+
+?
+ question: 6342163  name: Optically more dense environment
+::Optically more dense environment::[html]Optically more dense environment
+-has a less index of refraction
+-has a greater velocity
++has a greater index of refraction
+-has a greater asorbance
+-has  a less absorbance
+
+
+
+?
+ question: 6341992  name: P wave corresponds to
+::P wave corresponds to::[html]P wave corresponds to
+-the timeframe of distribution of excitation from the atria to the ventricles
+-a reflection of an intermediate stage - the polarization of the ventricles
+-the propagation of excitation in the myocardium of the ventricles in the direction of the endocardium to the epicardium 
+-delay of the electrical impulse at the AV node and the depolarization of the atrium
++firing of the sinoatrial node and depolarization of the atria
+
+
+
+?
+ question: 6341846  name: Period is
+::Period is::[html]Period is
+-the distance that a particle of the medium is displaced from its equilibrium position as the wave passes by
+-the maximum value of the displacement
+-the distance, in the direction of propagation, in which the wave repeats itself
++it is the time for a wave to repeat itself
+-the number of waves passing a particular point per second
+
+
+
+?
+ question: 6342120  name: Please place the following electromagnetic wave classification, in order of ...
+::Please place the following electromagnetic wave classification, in order of ...::[html]Please place the following electromagnetic wave classification, in order of increasing wavelength
+-x-rays, gamma rays, UV light, visible light, infrared, microwaves, radiowaves
+-UV light, gamma rays, x-rays, visible light, infrared, microwaves, radiowaves
+-visible light, gamma rays, x-rays, UV light, infrared, microwaves, radiowaves
++gamma rays, x-rays, UV light, visible light, infrared, microwaves, radiowave
+-none sequence is correct
+
+
+
+?
+ question: 6341940  name: Poiseuille's equation can be applied to
+::Poiseuille's equation can be applied to::[html]Poiseuille's equation can be applied to
+-conservation mass
+-perpendicular flow
+-turbulent flow
+-strict flow
++laminar flow
+
+
+
+?
+ question: 6342207  name: Polarized light can be obtained by
+::Polarized light can be obtained by::[html]Polarized light can be obtained by
++double refraction
+-diffraction of light
+-fotoefect
+-electrostriction
+-magnitostriction
+
+
+
+?
+ question: 6341860  name: Potential energy of material point which fluctuate by harmonic law is ...
+::Potential energy of material point which fluctuate by harmonic law is ...::[html]Potential energy of material point which fluctuate by harmonic law is directly proportional to
+-the amplitude displacement
+-the amplitude of speed of displacement
++the square of displacement amplitude
+-the square of amplitude of acceleration change
+-frequency of vibrations
+
+
+
+?
+ question: 6341867  name: Potential energy of material point which fluctuate by harmonic law is ...
+::Potential energy of material point which fluctuate by harmonic law is ...::[html]Potential energy of material point which fluctuate by harmonic law is directly proportional to
+-frequency of vibrations
+-the square of amplitude of acceleration of displacement
+-amplitude of speed of displacement
+-amplitude of displacement
++the square of frequency
+
+
+
+?
+ question: 6341988  name: PQ segment corresponds to
+::PQ segment corresponds to::[html]PQ segment corresponds to
++the timeframe of distribution of excitation from the atria to the ventricles
+-a reflection of an intermediate stage - the polarization of the ventricles
+-the propagation of excitation in the myocardium of the ventricles in the direction of the endocardium to the epicardium 
+-the ventricular repolarization
+-firing of the sinoatrial node and depolarization of the atria
+
+
+
+?
+ question: 6341991  name: PR Interval corresponds to
+::PR Interval corresponds to::[html]PR Interval corresponds to
+-the timeframe of distribution of excitation from the atria to the ventricles
+-a reflection of an intermediate stage - the polarization of the ventricles
+-the propagation of excitation in the myocardium of the ventricles in the direction of the endocardium to the epicardium 
++delay of the electrical impulse at the AV node and the depolarization of the atrium
+-firing of the sinoatrial node and depolarization of the atria
+
+
+
+?
+ question: 6342062  name: Pulse current is
+::Pulse current is::[html]Pulse current is
+-a type of direct current that does not change its intensity with time
+-an electric current which periodically reverses polarity
+-the unidirectional flow of electric charge
++a unidirectional surge of current of very short duration
+-alternating current
+
+
+
+?
+ question: 6341990  name: QRS complex is formed during
+::QRS complex is formed during::[html]QRS complex is formed during
+-the timeframe of distribution of excitation from the atria to the ventricles
+-a reflection of an intermediate stage - the polarization of the ventricles
++the propagation of excitation in the myocardium of the ventricles in the direction of the endocardium to the epicardium 
+-the ventricular repolarization
+-firing of the sinoatrial node and depolarization of the atria
+
+
+
+?
+ question: 6342042  name: Reactance is
+::Reactance is::[html]Reactance is
+-capacitance
++inductive and capacitive reactances
+-inductance
+-resistance
+-total (complete) impedance
+
+
+
+?
+ question: 6342145  name: Red color at sunset are explained by
+::Red color at sunset are explained by::[html]Red color at sunset are explained by
+-Wien displacement law
+-Stephan – Boltzmann law
+-Faraday law
+-Malus law
++Relay law
+
+
+
+?
+ question: 6342063  name: Resistance is indicated:
+::Resistance is indicated\:::[html]Resistance is indicated\:
++R
+-I
+-J
+-r
+-h
+
+
+
+?
+ question: 6342091  name: Solution concentration of the drug substance is recommended to use
+::Solution concentration of the drug substance is recommended to use::[html]Solution concentration of the drug substance is recommended to use
+-1-2 % solutions of drugs for the electrophoresis
+-6-8 % solutions of drugs for the electrophoresis
+-10-12 % solutions of drugs for the electrophoresis
++2-6 % solutions of drugs for the electrophoresis
+-8-10 % solutions of drugs for the electrophoresis
+
+
+
+?
+ question: 6341824  name: Sound methods of diagnostics are:
+::Sound methods of diagnostics are\:::[html]Sound methods of diagnostics are\:
+-auscultation, galvanization, percussion, audiometry
++percussion , phonocardiography, audiometry, auscultation
+-phonocardiograph, galvanization, percussion, audiometry
+-audiometry, auscultation , galvanization, phonocardiograph
+-galvanization, percussion, audiometry, auscultation
+
+
+
+?
+ question: 6341873  name: Sound waves which frequencies are higher than the upper audible limit of ...
+::Sound waves which frequencies are higher than the upper audible limit of ...::[html]Sound waves which frequencies are higher than the upper audible limit of human hearing is
+-x-ray radiation
+-hypersound
+-infrasound
++ultrasound
+-flux
+
+
+
+?
+ question: 6341823  name: Specify unit of force constant (spring constant) in SI from the Hooke’s law.
+::Specify unit of force constant (spring constant) in SI from the Hooke’s law.::[html]Specify unit of force constant (spring constant) in SI from the Hooke’s law.
++N/m
+-Pascal-second
+-Kilogram-meter-second in minus first degrees
+-Kilogram/meter
+-Pascal
+
+
+
+?
+ question: 6341989  name: ST segment corresponds to
+::ST segment corresponds to::[html]ST segment corresponds to
+-the timeframe of distribution of excitation from the atria to the ventricles
++a reflection of an intermediate stage - the polarization of the ventricles
+-the propagation of excitation in the myocardium of the ventricles in the direction of the endocardium to the epicardium 
+-the ventricular repolarization
+-firing of the sinoatrial node and depolarization of the atria
+
+
+
+?
+ question: 6341864  name: Subjective (physiology)characteristics of sound are
+::Subjective (physiology)characteristics of sound are::[html]Subjective (physiology)characteristics of sound are
+-intensity, timbre, frequency
+-volume, acoustic spectrum
+-timbre, intensity, spectrum
++pitch, loudness, timbre
+-timbre, frequency, volume
+
+
+
+?
+ question: 6341987  name: Teeth aimed with peaks down from the isoelectric line are considered
+::Teeth aimed with peaks down from the isoelectric line are considered::[html]Teeth aimed with peaks down from the isoelectric line are considered
+-intervals
+-isoelectric line
+-segments  
+-positive
++negative
+
+
+
+?
+ question: 6341986  name: Teeth aimed with their peaks up from the isoelectric line are considered
+::Teeth aimed with their peaks up from the isoelectric line are considered::[html]Teeth aimed with their peaks up from the isoelectric line are considered
+-intervals
+-isoelectric line
+-segments  
++positive
+-negative
+
+
+
+?
+ question: 6341985  name: The absence of a potential difference on the surface of the body is called
+::The absence of a potential difference on the surface of the body is called::[html]The absence of a potential difference on the surface of the body is called
+-intervals
++isoelectric line
+-segments  
+-positive
+-negative
+
+
+
+?
+ question: 6342189  name: The absolute index of refraction of matter is equal 1,5. Calculate the ...
+::The absolute index of refraction of matter is equal 1,5. Calculate the ...::[html]The absolute index of refraction of matter is equal 1,5. Calculate the relative refractive index of matter relatively vacuum.
++1,5
+-0
+-1,25
+-3/4
+-4/3
+
+
+
+?
+ question: 6342188  name: The absolute refractive index of one matter is equal 1.5, other 1.2. ...
+::The absolute refractive index of one matter is equal 1.5, other 1.2. ...::[html]The absolute refractive index of one matter is equal 1.5, other 1.2. Calculate the relative refractive index of the first matter in relation to second one.
++1.5/1.2
+-4/5
+-3/5
+-1,5
+-1,2
+
+
+
+?
+ question: 6342019  name: The amount of electric charge that flows through a cross section of a wire ...
+::The amount of electric charge that flows through a cross section of a wire ...::[html]The amount of electric charge that flows through a cross section of a wire per unit time is called
++electric current
+-energy
+-current density
+-current source
+-electromotive force
+
+
+
+?
+ question: 6342156  name: The angle of incidence is equal to the angle of reflection is
+::The angle of incidence is equal to the angle of reflection is::[html]The angle of incidence is equal to the angle of reflection is
+-the law of diffraction
+-the law of polarization
+-the law of absorbance
+-the law of refraction
++the law of reflection
+
+
+
+?
+ question: 6342151  name: The angle of reflection is counted off from
+::The angle of reflection is counted off from::[html]The angle of reflection is counted off from
+-incident ray
++surface normal
+-refracted ray
+-1
+-border
+
+
+
+?
+ question: 6342158  name: The angle of refraction (r) is related to the angle of incidence (i) as ...
+::The angle of refraction (r) is related to the angle of incidence (i) as ...::[html]The angle of refraction (r) is related to the angle of incidence (i) as sin(i)/sin(r) \= n2/ n1 is
+-the law of diffraction
+-the law of polarization
+-the law of absorbance
++the law of refraction
+-the law of reflection
+
+
+
+?
+ question: 6342186  name: The beam of light from the real source can not be done infinitely narrow from...
+::The beam of light from the real source can not be done infinitely narrow from...::[html]The beam of light from the real source can not be done infinitely narrow from the phenomenon
+-interferences
++diffractions
+-polarization
+-absorptions
+-dispersions
+
+
+
+?
+ question: 6341954  name: The blood flow is laminar if Reynolds number is equal to:
+::The blood flow is laminar if Reynolds number is equal to\:::[html]The blood flow is laminar if Reynolds number is equal to\:
++2000
+-4000
+-5000
+-3000
+-6000
+
+
+
+?
+ question: 6342234  name: The condition of diffraction maximum, where L-wavelength, n=0, 1, 2, 3… is
+::The condition of diffraction maximum, where L-wavelength, n\=0, 1, 2, 3… is::[html]The condition of diffraction maximum, where L-wavelength, n\=0, 1, 2, 3… is
+-d sinf \= 2n L/2
+-d sinf \= 2n L
+-d sinf \= (2n+1) L/2
+-d sinf \= L/2
++d sinf \= nL
+
+
+
+?
+ question: 6342233  name: The condition of diffraction minimum, where L-wavelength, n=0, 1, 2, 3… is
+::The condition of diffraction minimum, where L-wavelength, n\=0, 1, 2, 3… is::[html]The condition of diffraction minimum, where L-wavelength, n\=0, 1, 2, 3… is
+-d sinf \= 2n L/2
+-d sinf \= 2n L
++d sinf \= (2n+1) L/2
+-d sinf \= L/2
+-d sinf \= nL
+
+
+
+?
+ question: 6342229  name: The condition of the constructive interference is
+::The condition of the constructive interference is::[html]The condition of the constructive interference is
++n*L, L- wavelength, n - any integer
+-n/L, L- wavelength, n - any integer
+-n^2*L, L- wavelength, n - any integer
+-(2n+1)L/2, L- wavelength, n - any integer
+-n^3*L, L- wavelength, n - any integer
+
+
+
+?
+ question: 6342230  name: The condition of the destructive interference is
+::The condition of the destructive interference is::[html]The condition of the destructive interference is
+-n*L, L- wavelength, n - any integer
+-n/L, L- wavelength, n - any integer
+-n^2*L, L- wavelength, n - any integer
++(2n+1)L/2, L- wavelength, n - any integer
+-n^3*L, L- wavelength, n - any integer
+
+
+
+?
+ question: 6342159  name: The critical angle is the angle of incidence that produces an angle of ...
+::The critical angle is the angle of incidence that produces an angle of ...::[html]The critical angle is the angle of incidence that produces an angle of refraction equal to
+-45 deg
++90 deg
+-44 deg
+-47 deg
+-87 deg
+
+
+
+?
+ question: 6341889  name: The decibel is the unit of
+::The decibel is the unit of::[html]The decibel is the unit of
+-a energy
+-a frequency
++a level of sound intensity
+-a timbre
+-a loudness
+
+
+
+?
+ question: 6341957  name: The difference between the maximal and minimal blood pressure is …
+::The difference between the maximal and minimal blood pressure is …::[html]The difference between the maximal and minimal blood pressure is …
+-the systolic blood pressure
+-the diastolic blood pressure
++the pulse pressure
+-the average blood pressure
+-the initial blood pressure
+
+
+
+?
+ question: 6342026  name: The difference in electric potential energy between two points per ...
+::The difference in electric potential energy between two points per ...::[html]The difference in electric potential energy between two points per unit electric charge is called
+-electric current
+-current intensity
+-current source
+-force
++voltage
+
+
+
+?
+ question: 6341984  name: The ECG areas consisting of a segment and wave are called
+::The ECG areas consisting of a segment and wave are called::[html]The ECG areas consisting of a segment and wave are called
++intervals
+-isoelectric line
+-segments  
+-positive
+-negative
+
+
+
+?
+ question: 6342055  name: The electric current of conductivity renders
+::The electric current of conductivity renders::[html]The electric current of conductivity renders
+-only magnetic action
+-magnetic and chemical actions
+-thermal and chemical actions
+-thermal and magnetic actions
++thermal, magnetic and chemical actions
+
+
+
+?
+ question: 6342022  name: The electric current per unit area of cross section is called
+::The electric current per unit area of cross section is called::[html]The electric current per unit area of cross section is called
+-electric current
+-current intensity
++current density
+-current source
+-impedance
+
+
+
+?
+ question: 6341999  name: The electric field intensity E is defined as
+::The electric field intensity E is defined as::[html]The electric field intensity E is defined as
++E\=F/q
+-E\=F*q
+-E\=F/2q
+-E\=2F/q
+-E\=3F/q
+
+
+
+?
+ question: 6342044  name: The electrical conductance is
+::The electrical conductance is::[html]The electrical conductance is
+-a measure of the difficulty to pass an electric current through that conductor
++the ease with which an electric current passes
+-inductance
+-resistance
+-total (complete) impedance
+
+
+
+?
+ question: 6342047  name: The electrical conductance is measured in 
+::The electrical conductance is measured in ::[html]The electrical conductance is measured in 
+-Ampere (A)
+-Volt (V)
+-Watt (W)
++Siemens (S)
+-Coulomb (C)
+
+
+
+?
+ question: 6341939  name: The electrical equivalent of vessels elasticity is
+::The electrical equivalent of vessels elasticity is::[html]The electrical equivalent of vessels elasticity is
+-the electric current
++the electric capacitance
+-inductivity
+-the electric resistance
+-the electric potential
+
+
+
+?
+ question: 6342043  name: The electrical resistance of an electrical conductor is 
+::The electrical resistance of an electrical conductor is ::[html]The electrical resistance of an electrical conductor is 
++a measure of the difficulty to pass an electric current through that conductor
+-the ease with which an electric current passes
+-inductance
+-resistance
+-total (complete) impedance
+
+
+
+?
+ question: 6342096  name: The equation F=B*I*l sin(a) is
+::The equation F\=B*I*l sin(a) is::[html]The equation F\=B*I*l sin(a) is
++Ampere's law
+-Lorentz law 
+-Faraday law
+-Maxwell law
+-Newton
+
+
+
+?
+ question: 6342095  name: The equation F=qBvsin(a) is
+::The equation F\=qBvsin(a) is::[html]The equation F\=qBvsin(a) is
+-Ampere's law
++Lorentz law
+-Faraday law
+-Maxwell force
+-Newton
+
+
+
+?
+ question: 6342225  name: The equation I=Io*cos^2(a) is
+::The equation I\=Io*cos^2(a) is::[html]The equation I\=Io*cos^2(a) is
+-Wien displacement law
+-Stephan – Boltzmann law
+-Faraday law
++Malus law
+-Relay law
+
+
+
+?
+ question: 6342213  name: The equation Id=Io*exp(-a*c*d) is called
+::The equation Id\=Io*exp(-a*c*d) is called::[html]The equation Id\=Io*exp(-a*c*d) is called
++Bouguer law
+-Snell law
+-Ohm law
+-Lorence law
+-Bio law
+
+
+
+?
+ question: 6341963  name: The equation p=ql   is
+::The equation p\=ql   is::[html]The equation p\=ql   is
+-Electrical dipole
+-Current dipole
++Dipole moment
+-Shoulder of the dipole
+-Current dipole moment
+
+
+
+?
+ question: 6341946  name: The factors that determine the dynamic viscosity of a non-Newtonian fluid are:
+::The factors that determine the dynamic viscosity of a non-Newtonian fluid are\:::[html]The factors that determine the dynamic viscosity of a non-Newtonian fluid are\:
+-the nature of a fluid, temperature
+-the nature of a fluid, temperature, vessel capacity
+-the nature of a fluid, the fluid flow velocity
++the nature of a fluid, temperature and shear velocity
+-the temperature, pressure
+
+
+
+?
+ question: 6341908  name: The flow is called stationary if the fluid flow rate …
+::The flow is called stationary if the fluid flow rate …::[html]The flow is called stationary if the fluid flow rate …
+-changes with time
++doesn’t change with time
+-changes with the velocity gradient
+-changes only for Newtonian fluids
+-is less than 50 cm/s
+
+
+
+?
+ question: 6341907  name: The fluid flow in the cylindrical tubes is turbulent if Reynolds' number is ...
+::The fluid flow in the cylindrical tubes is turbulent if Reynolds' number is ...::[html]The fluid flow in the cylindrical tubes is turbulent if Reynolds' number is more than…
+-1500
+-1950
+-1100
+-2050
++2300
+
+
+
+?
+ question: 6341883  name: The frequency of ultrasonic waves reflected from moving object is ...
+::The frequency of ultrasonic waves reflected from moving object is ...::[html]The frequency of ultrasonic waves reflected from moving object is proportional to the change in velocity of their movement is called
++Doppler effect
+-Piezoelectric effect
+-Optic effect
+-Magnetic effect
+-Quantum effect
+
+
+
+?
+ question: 6342066  name: The galvanization uses voltage
+::The galvanization uses voltage::[html]The galvanization uses voltage
+-20-200В
+-30-100B
+-20-100В
++30-80В
+-10-1000В
+
+
+
+?
+ question: 6342065  name: The galvanization uses:
+::The galvanization uses\:::[html]The galvanization uses\:
+-applying direct current to 90 mA
++applying direct current to 50 mA
+-applying direct current to 100 mA
+-applying direct current to 200 mA
+-applying direct current to 80 mA
+
+
+
+?
+ question: 6341997  name: The height of R “tooth” is  21 mm, the voltage scale is 10mm=1mv. Calculate ...
+::The height of R “tooth” is  21 mm, the voltage scale is 10mm\=1mv. Calculate ...::[html]The height of R “tooth” is  21 mm, the voltage scale is 10mm\=1mv. Calculate electromotive force of R “tooth” in mV.
+-2.5 mV
+-2.4 mV
+-2.3 mV   
+-2.2 mV
++2.1 mV
+
+
+
+?
+ question: 6341996  name: The height of R “tooth” is  22 mm, the voltage scale is 10mm=1mv. Calculate ...
+::The height of R “tooth” is  22 mm, the voltage scale is 10mm\=1mv. Calculate ...::[html]The height of R “tooth” is  22 mm, the voltage scale is 10mm\=1mv. Calculate electromotive force of R “tooth” in mV.
+-2.5 mV
+-2.4 mV
+-2.3 mV   
++2.2 mV
+-2.1 mV
+
+
+
+?
+ question: 6341995  name: The height of R “tooth” is  23 mm, the voltage scale is 10mm=1mv. Calculate ...
+::The height of R “tooth” is  23 mm, the voltage scale is 10mm\=1mv. Calculate ...::[html]The height of R “tooth” is  23 mm, the voltage scale is 10mm\=1mv. Calculate electromotive force of R “tooth” in mV.
+-2.5 mV
+-2.4 mV
++2.3 mV   
+-2.2 mV
+-2.1 mV
+
+
+
+?
+ question: 6341994  name: The height of R “tooth” is  24 mm, the voltage scale is 10mm=1mv. Calculate ...
+::The height of R “tooth” is  24 mm, the voltage scale is 10mm\=1mv. Calculate ...::[html]The height of R “tooth” is  24 mm, the voltage scale is 10mm\=1mv. Calculate electromotive force of R “tooth” in mV.
+-2.5 mV
++2.4 mV
+-2.3 mV   
+-2.2 mV
+-2.1 mV
+
+
+
+?
+ question: 6341993  name: The height of R “tooth” is 25 mm, the voltage scale is 10mm=1mv. Calculate ...
+::The height of R “tooth” is 25 mm, the voltage scale is 10mm\=1mv. Calculate ...::[html]The height of R “tooth” is 25 mm, the voltage scale is 10mm\=1mv. Calculate electromotive force of R “tooth” in mV.
++2.5 mV
+-2.4 mV
+-2.3 mV   
+-2.2 mV
+-2.1 mV
+
+
+
+?
+ question: 6342208  name: The image formed by a plane mirror is always
+::The image formed by a plane mirror is always::[html]The image formed by a plane mirror is always
+-actual inverted image of object
+-actual diminished image of object
+-actual image of object
++virtual, upright, and of the same shape and size as the object it is reflecting
+-virtual megascopic image of object
+
+
+
+?
+ question: 6342152  name: The incidence angle is angle
+::The incidence angle is angle::[html]The incidence angle is angle
+-ray to the interphase environments
++between surface normal and incident ray
+-of the refracted ray to the interphase environments
+-equal to 10 deg
+-equal to 90 deg
+
+
+
+?
+ question: 6342155  name: The incident ray, the reflected ray and the normal all lay in the same plane is
+::The incident ray, the reflected ray and the normal all lay in the same plane is::[html]The incident ray, the reflected ray and the normal all lay in the same plane is
+-the law of diffraction
+-the law of polarization
+-the law of absorbance
+-the law of refraction
++the law of reflection
+
+
+
+?
+ question: 6342157  name: The incident ray, the refracted ray, and the normal all lay in the same plane is
+::The incident ray, the refracted ray, and the normal all lay in the same plane is::[html]The incident ray, the refracted ray, and the normal all lay in the same plane is
+-the law of diffraction
+-the law of polarization
+-the law of absorbance
++the law of refraction
+-the law of reflection
+
+
+
+?
+ question: 6342211  name: The intensity of light passing through matter decreases exponentially it is ...
+::The intensity of light passing through matter decreases exponentially it is ...::[html]The intensity of light passing through matter decreases exponentially it is stated by
++Bouguer law
+-Snell law
+-Ohm law
+-Lorence law
+-Bio law
+
+
+
+?
+ question: 6341894  name: The laminar flow occurs when
+::The laminar flow occurs when::[html]The laminar flow occurs when
++a fluid flows in parallel layers, with no disruption between the layers
+-a fluid flows in perpendicular layers, with disruption between some layers
+-a flow speed is very high
+-a flow speed is equal to zero
+-a fluid flows in opposite layers
+
+
+
+?
+ question: 6341870  name: The law of conservation of mechanical energy is
+::The law of conservation of mechanical energy is::[html]The law of conservation of mechanical energy is
+-the total energy of an open system remains constant
+-the total energy of an isolated system change over time
+-the high energy state of an open system change over time
++the total energy of an isolated system remains constant
+-the energy of the system increased twice
+
+
+
+?
+ question: 6342166  name: The law of independence of light rays states
+::The law of independence of light rays states::[html]The law of independence of light rays states
+-light rays are reversible
++light rays are independent
+-light rays are straight in a homogeneous medium
+-incident ray, reflected ray, and perpendicular to the boundary separating two media are located in the same plane
+-incident ray, refracted ray, and perpendicular to the boundary separating media, all are located in the same plane
+
+
+
+?
+ question: 6342168  name: The law of linearity of light rays states
+::The law of linearity of light rays states::[html]The law of linearity of light rays states
+-light rays are reversible
+-light rays are independent
++light rays are straight in a homogeneous medium
+-incident ray, reflected ray, and perpendicular to the boundary separating two media are located in the same plane
+-incident ray, refracted ray, and perpendicular to the boundary separating media, all are located in the same plane
+
+
+
+?
+ question: 6342169  name: The law of reflection of light states
+::The law of reflection of light states::[html]The law of reflection of light states
+-light rays are reversible
+-light rays are independent
+-light rays are straight in a homogeneous medium
++incident ray, reflected ray, and perpendicular to the boundary separating two media are located in the same plane
+-incident ray, refracted ray, and perpendicular to the boundary separating media, all are located in the same plane
+
+
+
+?
+ question: 6342170  name: The law of refraction states
+::The law of refraction states::[html]The law of refraction states
+-light rays are reversible
+-light rays are independent
+-light rays are straight in a homogeneous medium
+-incident ray, reflected ray, and perpendicular to the boundary separating two media are located in the same plane
++incident ray, refracted ray, and perpendicular to the boundary separating media, all are located in the same plane
+
+
+
+?
+ question: 6342167  name: The law of reversibility of light rays states
+::The law of reversibility of light rays states::[html]The law of reversibility of light rays states
++light rays are reversible
+-light rays are independent
+-light rays are straight in a homogeneous medium
+-incident ray, reflected ray, and perpendicular to the boundary separating two media are located in the same plane
+-incident ray, refracted ray, and perpendicular to the boundary separating media, all are located in the same plane
+
+
+
+?
+ question: 6341836  name: The law of Weber-Fechner is:
+::The law of Weber-Fechner is\:::[html]The law of Weber-Fechner is\:
+-feeling of irritation straight irritation proportional to force
+-the volume of sound is proportional intensities of sound
+-the level of volume is proportional to force of irritation
+-a volume is proportional to the level of intensity
++the volume at a given frequency is proportional to the logarithm of the intensity
+
+
+
+?
+ question: 6341834  name: The loudness of a sound as heard by the human ear is
+::The loudness of a sound as heard by the human ear is::[html]The loudness of a sound as heard by the human ear is
+-always even 10 watt-meter in minus second degrees
++proportional to the logarithm of the intensity
+-does not depend on frequency
+-depends on frequency
+-10 microwatt-meter is always evened in minus second degrees
+
+
+
+?
+ question: 6342198  name: The magnification of microscope eyepiece is M(ey), the magnification of the ...
+::The magnification of microscope eyepiece is M(ey), the magnification of the ...::[html]The magnification of microscope eyepiece is M(ey), the magnification of the objective lens is M(o). Calculate the total magnification.
+-M(ey)*M(v)
+-M(oh)*M(l)
+-G(ey) /G(l)
+-G(l)/G(ey)
++M(o)*M(ey)
+
+
+
+?
+ question: 6342020  name: The magnitude of an electric current as measured by the quantity of ...
+::The magnitude of an electric current as measured by the quantity of ...::[html]The magnitude of an electric current as measured by the quantity of electricity crossing a specified area of equipotential surface per unit time is called
+-electric current
++current intensity
+-current density
+-current source
+-electromotive force
+
+
+
+?
+ question: 6341998  name: The magnitude of the electric field intensity E is defined as
+::The magnitude of the electric field intensity E is defined as::[html]The magnitude of the electric field intensity E is defined as
++the ratio of the force F acting on the small test charge q0 to the small test charge itself
+-the ratio of the current acting on the small test charge q0 to the small test charge itself
+-the ratio of the length to the small test charge itself
+-the ratio of the voltage acting on the small test charge q0 to the small test charge itself
+-the ratio of the pressure acting on the small test charge q0 to the small test charge itself
+
+
+
+?
+ question: 6341862  name: The main method of investigation of hearing loss is
+::The main method of investigation of hearing loss is::[html]The main method of investigation of hearing loss is
++the tone threshold audiometry
+-the Korotkoff method
+-phonocardiography
+-auscultation
+-percussion
+
+
+
+?
+ question: 6341878  name: The mechanical oscillation with a frequency ranging from 16 Hz to 20 000 Hz is
+::The mechanical oscillation with a frequency ranging from 16 Hz to 20 000 Hz is::[html]The mechanical oscillation with a frequency ranging from 16 Hz to 20 000 Hz is
+-x-ray radiation
+-hypersound
+-infrasound
+-ultrasound
++sound
+
+
+
+?
+ question: 6341930  name: The mechanical work of the heart is equal…
+::The mechanical work of the heart is equal…::[html]The mechanical work of the heart is equal…
+-0,5 J
+-0,81 J
++1 J
+-2 J
+-2,5 J
+
+
+
+?
+ question: 6341933  name: The mechanical work of the left ventricle is equal
+::The mechanical work of the left ventricle is equal::[html]The mechanical work of the left ventricle is equal
+-0,5 J
++0,81 J
+-1,1 J
+-1,2 J
+-2 J
+
+
+
+?
+ question: 6341931  name: The normal velocity of a pulse wave is
+::The normal velocity of a pulse wave is::[html]The normal velocity of a pulse wave is
+-0,3 – 0,5 m/s
+-1 – 2 m/s
+-3 – 5 m/s
++6 – 8 m/s
+-12 – 15 m/s
+
+
+
+?
+ question: 6342217  name: The optical density of the solution D is
+::The optical density of the solution D is::[html]The optical density of the solution D is
+-D\=lg(Id)
+-D\=m/V
++D\=lg(Io/Id)
+-D\=lg(Io)
+-D\=lg(Io-Id)
+
+
+
+?
+ question: 6342214  name: The optical density of the solution is proportional to
+::The optical density of the solution is proportional to::[html]The optical density of the solution is proportional to
+-the concentration of the substance
+-the thickness of the layer
+-the molecular optical density
+-the value of light absorption
++all correct
+
+
+
+?
+ question: 6342216  name: The optical density of the solution with concentration C, molar absorption ...
+::The optical density of the solution with concentration C, molar absorption ...::[html]The optical density of the solution with concentration C, molar absorption coefficient k and the length of light path through the solution l is
+-D\=kCl3
+-D\=C2l/k
+-D\=k/(Cl)
+-D\=1/(kCl)
++D\=kCl
+
+
+
+?
+ question: 6342196  name: The optical system of human eye forms on a retina
+::The optical system of human eye forms on a retina::[html]The optical system of human eye forms on a retina
+-virtual, direct image
+-does not create an image
+-actual, direct image
++real, inverted image
+-virtual, inverted image
+
+
+
+?
+ question: 6342162  name: The phenomenon of complete internal reflection is observed, when light passes
+::The phenomenon of complete internal reflection is observed, when light passes::[html]The phenomenon of complete internal reflection is observed, when light passes
+-from air in water
+-from air in glass
+-from a vacuum in glass
+-from optically less dense in optically more dense environment
++from optically more dense in optically less dense environment
+
+
+
+?
+ question: 6341971  name: The potential difference between the vertices of the triangle is proportional to
+::The potential difference between the vertices of the triangle is proportional to::[html]The potential difference between the vertices of the triangle is proportional to
++the projection of the electric vector corresponding to its sides
+-the charge
+-the energy
+-the temperature
+-the current
+
+
+
+?
+ question: 6342165  name: The principles of fiber optics operation is
+::The principles of fiber optics operation is::[html]The principles of fiber optics operation is
++the thread has a core refractive index greater than the refractive index of the outer shell
+-the thread has a core refractive index less than the refractive index of the outer shell
+-a greater index of refraction
+-a greater asorbance
+-a less absorbance
+
+
+
+?
+ question: 6341865  name: The proportionality constant in Hooke’s law, the ratio of the stress to the ...
+::The proportionality constant in Hooke’s law, the ratio of the stress to the ...::[html]The proportionality constant in Hooke’s law, the ratio of the stress to the strain, is
+-modulus of displacement
++young’s modulus of elasticity
+-coefficient of viscosity
+-Coefficient of hardness
+-poisson's ratio
+
+
+
+?
+ question: 6341956  name: The pulse pressure is:
+::The pulse pressure is\:::[html]The pulse pressure is\:
+-the maximal blood pressure on the artery wall at the ventricle contraption
+-the minimal blood pressure on the artery wall during the rest of the ventricles
++the difference between the maximal and minimal blood pressure
+-the average arterial  pressure during a single cardiac cycle
+-the maximal blood pressure on the artery wall during the rest of the ventricles
+
+
+
+?
+ question: 6342107  name: The radius of the orbit is
+::The radius of the orbit is::[html]The radius of the orbit is
++r\=mv/qB
+-r\=v/qB
+-r\=m/qB
+-r\=mv/B
+-r\=mv/q
+
+
+
+?
+ question: 6341896  name: The rate of the change of the flow speed of two layers of the fluid to the ...
+::The rate of the change of the flow speed of two layers of the fluid to the ...::[html]The rate of the change of the flow speed of two layers of the fluid to the smallest distance between them is called…
+-the speed index
++the speed gradient
+-the laminar flow
+-the turbulent motion
+-the viscosity coefficient
+
+
+
+?
+ question: 6342212  name: The ratio Id/Io is called
+::The ratio Id/Io is called::[html]The ratio Id/Io is called
+-Bouguer law
+-Snell law
++Transmittance or transparency of the solution
+-Lorence law
+-Bio law
+
+
+
+?
+ question: 6341898  name: The ratio of the tangential force acting on the body to the area of the body ...
+::The ratio of the tangential force acting on the body to the area of the body ...::[html]The ratio of the tangential force acting on the body to the area of the body over which tangential force acts is
+-the friction coefficient
+-the speed gradient
+-the viscosity coefficient
+-the kinematic viscosity
++the shearing stress
+
+
+
+?
+ question: 6342153  name: The reflection angle is angle
+::The reflection angle is angle::[html]The reflection angle is angle
+-between light ray to the interphase environments
++between surface normal and reflected ray
+-of the refracted ray to the interphase environments
+-equal to 10 deg
+-equal to 90 deg
+
+
+
+?
+ question: 6342154  name: The refraction angle is angle
+::The refraction angle is angle::[html]The refraction angle is angle
+-between surface normal and incident ray
+-between surface normal and reflected ray
++between surface normal and refracted ray
+-equal to 10 deg
+-equal to 90 deg
+
+
+
+?
+ question: 6342045  name: The resistance (R) of an object is defined as
+::The resistance (R) of an object is defined as::[html]The resistance (R) of an object is defined as
+-inductance
+-the ease with which an electric current passes
++the ratio of voltage across it (V) to current through it (I)
+-energy
+-total (complete) impedance
+
+
+
+?
+ question: 6342046  name: The SI unit of electrical resistance is
+::The SI unit of electrical resistance is::[html]The SI unit of electrical resistance is
+-Ampere (A)
+-Volt (V)
+-Watt (W)
++Ohm
+-Coulomb (C)
+
+
+
+?
+ question: 6342058  name: The SI unit of inductive reactance is
+::The SI unit of inductive reactance is::[html]The SI unit of inductive reactance is
+-F
+-С
+-H/m
+-H
++Оhm
+
+
+
+?
+ question: 6342056  name: The SI unit of the capacitive reactance  is
+::The SI unit of the capacitive reactance  is::[html]The SI unit of the capacitive reactance  is
+-F
+-H
+-H/m
+-Cm
++Оhm
+
+
+
+?
+ question: 6341887  name: The sound cannot extend in
+::The sound cannot extend in::[html]The sound cannot extend in
+-water
+-air
++vacuum
+-metals
+-tissues of an organism
+
+
+
+?
+ question: 6341886  name: The sound extending in air is
+::The sound extending in air is::[html]The sound extending in air is
+-electromagnetic waves
++longitudinal elastic waves
+-gravitational waves
+-electromechanical waves
+-transverse waves
+
+
+
+?
+ question: 6341895  name: The sound speed gradient is the rate of change
+::The sound speed gradient is the rate of change::[html]The sound speed gradient is the rate of change
+-of the energy of sound with velocity
++of the speed of sound with distance
+-of the velocity of sound with energy
+-of the mass with distance
+-of the loudness of sound with distance
+
+
+
+?
+ question: 6342131  name: The speed of light in the medium is 1.5*10^8 m/s. Calculate the index of ...
+::The speed of light in the medium is 1.5*10^8 m/s. Calculate the index of ...::[html]The speed of light in the medium is 1.5*10^8 m/s. Calculate the index of refraction
+-1
++2
+-1.5
+-3
+-0.5
+
+
+
+?
+ question: 6342130  name: The speed of light in the medium is 10^8 m/s. Calculate the index of refraction
+::The speed of light in the medium is 10^8 m/s. Calculate the index of refraction::[html]The speed of light in the medium is 10^8 m/s. Calculate the index of refraction
+-1
+-2
+-1.5
++3
+-0.5
+
+
+
+?
+ question: 6342128  name: The speed of light in the medium is 2*10^8 m/s. Calculate the index of ...
+::The speed of light in the medium is 2*10^8 m/s. Calculate the index of ...::[html]The speed of light in the medium is 2*10^8 m/s. Calculate the index of refraction
+-1
+-2
++1.5
+-3
+-0.5
+
+
+
+?
+ question: 6342129  name: The speed of light in the medium is 3*10^8 m/s. Calculate the index of ...
+::The speed of light in the medium is 3*10^8 m/s. Calculate the index of ...::[html]The speed of light in the medium is 3*10^8 m/s. Calculate the index of refraction
++1
+-2
+-1.5
+-3
+-0.5
+
+
+
+?
+ question: 6341961  name: The system of electric dipole with the voltage source is called
+::The system of electric dipole with the voltage source is called::[html]The system of electric dipole with the voltage source is called
+-Electrical dipole
++Current dipole
+-Dipole moment
+-Shoulder of the dipole
+-Current dipole moment
+
+
+
+?
+ question: 6342209  name: The transition of the light wave energy in various types of internal energy ...
+::The transition of the light wave energy in various types of internal energy ...::[html]The transition of the light wave energy in various types of internal energy of the matter is called
++the light absorption
+-reflection
+-refraction
+-polarization
+-virtual megascopic image of object
+
+
+
+?
+ question: 6341881  name: The ultrasound action are: 1) mechanical; 2) physical and chemical; 3) ...
+::The ultrasound action are\: 1) mechanical; 2) physical and chemical; 3) ...::[html]The ultrasound action are\: 1) mechanical; 2) physical and chemical; 3) thermal; 4) specific biological.
+-only 1
++all answers are correct
+-only 2
+-only 3
+-only 4
+
+
+
+?
+ question: 6341892  name: The ultrasound differs from a sound in
+::The ultrasound differs from a sound in::[html]The ultrasound differs from a sound in
+-a phase
++a frequency
+-an amplitude
+-a coordinate
+-a energy
+
+
+
+?
+ question: 6341875  name: The unit of a normal pressure in SI
+::The unit of a normal pressure in SI::[html]The unit of a normal pressure in SI
+-farad
+-radian
++pascal
+-second
+-joule
+
+
+
+?
+ question: 6342023  name: The unit of current density is
+::The unit of current density is::[html]The unit of current density is
+-Ampere
+-Coulomb/second
++Ampere/meter^2
+-Ohm
+-Ohm/meter
+
+
+
+?
+ question: 6342021  name: The unit of current intensity is
+::The unit of current intensity is::[html]The unit of current intensity is
++Ampere (A)
+-Volt (V)
+-Watt (W)
+-Ohm
+-Coulomb (C)
+
+
+
+?
+ question: 6342000  name: The unit of electric field intensity is
+::The unit of electric field intensity is::[html]The unit of electric field intensity is
+-V/N
++N/C
+-N
+-C
+-A
+
+
+
+?
+ question: 6341880  name: The unit of loudness is
+::The unit of loudness is::[html]The unit of loudness is
+-watt
+-farad
+-mel
+-decibel
++phon
+
+
+
+?
+ question: 6341859  name: The unit of normal tension in SI is
+::The unit of normal tension in SI is::[html]The unit of normal tension in SI is
+-kilogram-meter-second in minus of the first degree
+-radian power minus one
++pascal
+-second power minus 1
+-pascal-second
+
+
+
+?
+ question: 6341868  name: The unit of pressure in Si is.
+::The unit of pressure in Si is.::[html]The unit of pressure in Si is.
+-kilogram/meter-second
+-radian power minus one
++pascal
+-second power minus one
+-sascal-second
+
+
+
+?
+ question: 6341879  name: The unit of sound intensity is
+::The unit of sound intensity is::[html]The unit of sound intensity is
+-mel
++decibel
+-farad
+-watt
+-phon
+
+
+
+?
+ question: 6341874  name: The unit of strain in SI
+::The unit of strain in SI::[html]The unit of strain in SI
++dimensionless
+-pascal-second
+-farad
+-the radian
+-second
+
+
+
+?
+ question: 6341858  name: The unit of tangent tension in SI is
+::The unit of tangent tension in SI is::[html]The unit of tangent tension in SI is
++Pascal
+-Pascal-second
+-Kilogram/meter-second in minus first degrees
+-Radian power minus one
+-Second power minus 1
+
+
+
+?
+ question: 6341909  name: The unit the volumetric flow rate in SI is
+::The unit the volumetric flow rate in SI is::[html]The unit the volumetric flow rate in SI is
++cubic meters per second
+-kilogram per second
+-farad per second
+-joule per second
+-pascal per second
+
+
+
+?
+ question: 6341866  name: The velocity of movement is
+::The velocity of movement is::[html]The velocity of movement is
+-the second derivative of acceleration on time
++the first derivative of displacement on time
+-the second derivative of displacement on time
+-the first derivative of impulse on time
+-the first derivative of impulse on a coordinate
+
+
+
+?
+ question: 6342064  name: The voltage is determined by the formula:
+::The voltage is determined by the formula\:::[html]The voltage is determined by the formula\:
++R*I
+-I/R
+-R/i
+-J*R
+-J/I
+
+
+
+?
+ question: 6342133  name: Total internal reflection can occur:
+::Total internal reflection can occur\:::[html]Total internal reflection can occur\:
+-Only when the incident medium is less dense than the transmitting medium
++Only when the incident medium is denser than the transmitting medium
+-Only when the incident medium are equal 1
+-Irrespective by the density of the medium
+-When the mediums have equal density.
+
+
+
+?
+ question: 6341842  name: Transverse wave is a wave in which the particles of the medium execute simple...
+::Transverse wave is a wave in which the particles of the medium execute simple...::[html]Transverse wave is a wave in which the particles of the medium execute simple harmonic motion in a direction
+-half of the period one-way, half of period in other
++perpendicular to its direction of propagation
+-in all directions
+-athwart to direction of propagation of wave
+-parallel to the propagation of the wave
+
+
+
+?
+ question: 6342219  name: Tubidimetry is based on
+::Tubidimetry is based on::[html]Tubidimetry is based on
+-measuring the intensity of light scattered by particles dispersed
++measuring the weakening of light that has passed through the dispersed system due to absorption
+-measuring the absorbed light in the direction perpendicular to the direction of the main light beam
+-the absorbed light in the direction of the main light beam
+-measuring the voltage
+
+
+
+?
+ question: 6342072  name: Two electrodes are applied, one active (mobile, applied in painful spots), ...
+::Two electrodes are applied, one active (mobile, applied in painful spots), ...::[html]Two electrodes are applied, one active (mobile, applied in painful spots), the other inactive and considerably bigger at
+-transverse or transregional galvanization
+-longitudinal galvanization 
++dotted galvanization 
+-isoelectric focusing
+-ultrasound machine
+
+
+
+?
+ question: 6341912  name: Type of fluid flow in which the fluid undergoes irregular fluctuations, or ...
+::Type of fluid flow in which the fluid undergoes irregular fluctuations, or ...::[html]Type of fluid flow in which the fluid undergoes irregular fluctuations, or mixing, is
+-electric flow
+-magnetic flow
+-light flow
+-laminar flow
++turbulent flow
+
+
+
+?
+ question: 6342057  name: Unit of electrical impedance in SI is
+::Unit of electrical impedance in SI is::[html]Unit of electrical impedance in SI is
+-F
+-С
+-H/m
+-H
++Оhm
+
+
+
+?
+ question: 6342083  name: Unit of induction of the magnetic field in SI is
+::Unit of induction of the magnetic field in SI is::[html]Unit of induction of the magnetic field in SI is
+-A/m
+-F/m
+-Тl/m
+-H/m
++Tl
+
+
+
+?
+ question: 6341964  name: Vector directed from the negative point charge to the positive point charge is
+::Vector directed from the negative point charge to the positive point charge is::[html]Vector directed from the negative point charge to the positive point charge is
+-Electrical dipole
+-Current dipole
+-Dipole moment
++Shoulder of the dipole
+-Current dipole moment
+
+
+
+?
+ question: 6342119  name: Visible light wavelengths ranging from
+::Visible light wavelengths ranging from::[html]Visible light wavelengths ranging from
+-0 to 1000 nanometers
+-200 to 300 micrometers
++360 to 760 nanometers
+-1000 to 10000 nanometers
+-0 to 10 nanometers
+
+
+
+?
+ question: 6342052  name: Voltmeter is
+::Voltmeter is::[html]Voltmeter is
+-a device that measures the amount of current in a circuit
++a device that measures the potential difference between any two points in an electric circuit
+-a passive two-terminal electrical component that stores electrical energy in an electric field
+-the voltage
+-the power of heating generated by an electrical conductor is proportional to the product of its resistance and the square of the current
+
+
+
+?
+ question: 6341845  name: Wavelength is
+::Wavelength is::[html]Wavelength is
+-the distance that a particle of the medium is displaced from its equilibrium position as the wave passes by
+-the maximum value of the displacement
++the distance, in the direction of propagation, in which the wave repeats itself
+-it is the time for a wave to repeat itself
+-the number of waves passing a particular point per second
+
+
+
+?
+ question: 6342086  name: What are the opposite ends of a magnet called
+::What are the opposite ends of a magnet called::[html]What are the opposite ends of a magnet called
+-its terminals
++its north and south poles
+-its magnetic fields
+-its electromagnetic poles
+-none of the above
+
+
+
+?
+ question: 6342067  name: What are the types of electrophoresis:
+::What are the types of electrophoresis\:::[html]What are the types of electrophoresis\:
++frontal, zonal and continuous
+-frontal, zonal
+-zonal and continuous
+-zonal
+-zonal and gel electrophoresis
+
+
+
+?
+ question: 6341980  name: What components belong to electrocardiograph
+::What components belong to electrocardiograph::[html]What components belong to electrocardiograph
+-the amplifier
+-a voltage sourse calibration
+-electromechanical transducer 
+-belt-extension mechanism
++all correct
+
+
+
+?
+ question: 6342018  name: What components belong to the electroencephalograph?
+::What components belong to the electroencephalograph?::[html]What components belong to the electroencephalograph?
+-the switch of the leads
+-biopotential amplifier
+-recording device
+-device calibration
++all correct
+
+
+
+?
+ question: 6341829  name: What is audiogram?
+::What is audiogram?::[html]What is audiogram?
++the graph which shows the loss of hearing in decibels depending on a frequency of sound
+-the graph which represents the threshold of the pain feeling at difft
+-the graph which shows a dependence of the threshold of hearing from an intensity of sound
+-the graph which represents the loss of hearing depending on an intensity of sound
+-the graph which shows a dependence of the threshold of the pain feeling from an intensity of sound
+
+
+
+?
+ question: 6341861  name: What is hearing loss:
+::What is hearing loss\:::[html]What is hearing loss\:
+-difference of levels of volume at pathology and norm
+-difference of levels of sound stream at pathology and norm
++decreasing level of volume of sound perception on this frequency in relation to a norm
+-increasing of level of volume of sound in relation to his norm
+-increasing of level of intensity of sound of this frequency in relation to a norm
+
+
+
+?
+ question: 6341872  name: What is pitch?
+::What is pitch?::[html]What is pitch?
+-intensity of sound
+-subjective feeling of frequency of sound
+-subjective feeling of intensity of sound
++frequency of main sound tone
+-average frequency of overtones
+
+
+
+?
+ question: 6341953  name: What is the diastolic blood pressure if the systolic blood pressure is ...
+::What is the diastolic blood pressure if the systolic blood pressure is ...::[html]What is the diastolic blood pressure if the systolic blood pressure is 120mmHg and the pulse pressure is equal to 50 mmHg?
++70 mmHg
+-80 mmHg
+-90 mmHg
+-60 mmHg
+-50 mmHg
+
+
+
+?
+ question: 6342206  name: What is the difference between plane polarized and nature light?
+::What is the difference between plane polarized and nature light?::[html]What is the difference between plane polarized and nature light?
++The oscillation of  the electric and magnetic fields may be in a single direction
+-Propagate with velocity of light in vacuum
+-Е perpendicular Х
+-Х perpendicular Н
+-Е perpendicular Н
+
+
+
+?
+ question: 6341966  name: What is the direction of the dipole shoulder?
+::What is the direction of the dipole shoulder?::[html]What is the direction of the dipole shoulder?
++from the negative point charge to the positive point charge
+-from the positive point charge to the negative point charge
+-perpendicular
+-from north to south
+-from south to north
+
+
+
+?
+ question: 6341959  name: What is the mechanical work of the heart at contraction?
+::What is the mechanical work of the heart at contraction?::[html]What is the mechanical work of the heart at contraction?
++A\=1 J
+-A\=0,8 J
+-A\=354 J
+-A\=3,3 J
+-A\=1,2 J
+
+
+
+?
+ question: 6341952  name: What is the pulse pressure if the systolic blood pressure is 120mmHg and the ...
+::What is the pulse pressure if the systolic blood pressure is 120mmHg and the ...::[html]What is the pulse pressure if the systolic blood pressure is 120mmHg and the diastolic blood pressure is equal to 70mmHg?
++50 mmHg
+-190 mmHg
+-100 mmHg
+-60 mmHg
+-80 mmHg
+
+
+
+?
+ question: 6341825  name: What is the ratio of the stretched length to the original length during ...
+::What is the ratio of the stretched length to the original length during ...::[html]What is the ratio of the stretched length to the original length during deformation if strain equal 48?
+-48
++49
+-50
+-51
+-52
+
+
+
+?
+ question: 6341827  name: What is the ratio of the stretched length to the original length during ...
+::What is the ratio of the stretched length to the original length during ...::[html]What is the ratio of the stretched length to the original length during deformation if strain equal 47?
+-47
++48
+-49
+-50
+-51
+
+
+
+?
+ question: 6341833  name: What is the ratio of the stretched length to the original length during ...
+::What is the ratio of the stretched length to the original length during ...::[html]What is the ratio of the stretched length to the original length during deformation if strain equal 6?
++7
+-8
+-9
+-10
+-11
+
+
+
+?
+ question: 6341951  name: What is the systolic blood pressure if the total maximal blood pressure is ...
+::What is the systolic blood pressure if the total maximal blood pressure is ...::[html]What is the systolic blood pressure if the total maximal blood pressure is 880 mm and the atmospheric pressure is 760 mm?
++120 mm
+-110 mm
+-800 mm
+-90 mm
+-85 mm
+
+
+
+?
+ question: 6341950  name: What is the total maximal blood pressure if the systolic blood pressure is ...
+::What is the total maximal blood pressure if the systolic blood pressure is ...::[html]What is the total maximal blood pressure if the systolic blood pressure is 120 mm and the atmospheric pressure is 760 mm?
++880 mm
+-800 mm
+-640 mm
+-820 mm
+-600 mm
+
+
+
+?
+ question: 6341925  name: What is the velocity of blood flow in the aorta?
+::What is the velocity of blood flow in the aorta?::[html]What is the velocity of blood flow in the aorta?
+-0,5 mm/s
+-0,5 cm/s
++0,5 m/s
+-5 cm/s
+-15 cm/s
+
+
+
+?
+ question: 6341905  name: What part of vessel system has the highest pressure in human body?
+::What part of vessel system has the highest pressure in human body?::[html]What part of vessel system has the highest pressure in human body?
+-the arteriole
+-the capillary
+-the vein
++the aorta
+-the artery
+
+
+
+?
+ question: 6341903  name: What part of vessel system has the highest velocity in human body?
+::What part of vessel system has the highest velocity in human body?::[html]What part of vessel system has the highest velocity in human body?
+-the arteriole
+-the capillary
+-the vein
++the aorta
+-the artery
+
+
+
+?
+ question: 6341902  name: What part of vessel system has the largest diameter in human body?
+::What part of vessel system has the largest diameter in human body?::[html]What part of vessel system has the largest diameter in human body?
+-the arteriole
+-the capillary
+-the vein
++the aorta
+-the artery
+
+
+
+?
+ question: 6341901  name: What part of vessel system has the lowest hydraulic resistance in human body?
+::What part of vessel system has the lowest hydraulic resistance in human body?::[html]What part of vessel system has the lowest hydraulic resistance in human body?
+-the arteriole
+-the capillary
+-the vein
++the aorta
+-the artery
+
+
+
+?
+ question: 6341906  name: What part of vessel system has the lowest pressure in human body?
+::What part of vessel system has the lowest pressure in human body?::[html]What part of vessel system has the lowest pressure in human body?
+-the arteriole
+-the capillary
++the vein
+-the aorta
+-the artery
+
+
+
+?
+ question: 6341904  name: What part of vessel system has the lowest velocity in human body?
+::What part of vessel system has the lowest velocity in human body?::[html]What part of vessel system has the lowest velocity in human body?
+-the arteriole
++the capillary
+-the vein
+-the aorta
+-the artery
+
+
+
+?
+ question: 6342161  name: What phenomenon is used in fiber optics?
+::What phenomenon is used in fiber optics?::[html]What phenomenon is used in fiber optics?
+-Polarization
+-Diffraction
++Total internal reflection
+-Absorbance
+-Electricity
+
+
+
+?
+ question: 6341942  name: What statement is correct?
+::What statement is correct?::[html]What statement is correct?
+-if Reynolds number is more than 1000, the flow is constant
+-if Reynolds number is less than 2300, the flow is turbulent
+-if Reynolds number is more than 2300, the flow is laminar
+-if Reynolds' number is less than 1000, the flow is turbulent
++if Reynolds' number is less than 2300, the flow is laminar
+
+
+
+?
+ question: 6342068  name: What type refers to the zonal electrophoresis:
+::What type refers to the zonal electrophoresis\:::[html]What type refers to the zonal electrophoresis\:
+-imunophoresis
++electrophoresis on paper
+-iontophoresis
+-isoelectric focusing
+-continuous electrophoresis
+
+
+
+?
+ question: 6342069  name: What type refers to the zonal electrophoresis:
+::What type refers to the zonal electrophoresis\:::[html]What type refers to the zonal electrophoresis\:
+-imunophoresis
+-iontophoresis
++electrophoresis on cellulose acetate
+-isoelectric focusing
+-continuous electrophoresis
+
+
+
+?
+ question: 6341893  name: When sound and ultrasonic waves have equal amplitudes, the ultrasonic wave ...
+::When sound and ultrasonic waves have equal amplitudes, the ultrasonic wave ...::[html]When sound and ultrasonic waves have equal amplitudes, the ultrasonic wave will have
++greater intensity
+-smaller frequency of fluctuations
+-the same intensity
+-smaller intensity
+-greater depth of penetration into the gas-environment
+
+
+
+?
+ question: 6342088  name: Which object would not attract a magnet?
+::Which object would not attract a magnet?::[html]Which object would not attract a magnet?
+-scissors
+-nail
++water
+-screw
+-steal
+
+
+
+?
+ question: 6342084  name: Which of the following are magnetic poles?
+::Which of the following are magnetic poles?::[html]Which of the following are magnetic poles?
++north and south
+-east and west
+-red and blue
+-north and west
+-east and south
+
+
+
+?
+ question: 6342085  name: Which of the following is not a magnetic material?
+::Which of the following is not a magnetic material?::[html]Which of the following is not a magnetic material?
+-steel
+-cobalt
++aluminum
+-iron
+-brass
+
+
+
+?
+ question: 6342143  name: Which of the following is the correct formula for lens power?
+::Which of the following is the correct formula for lens power?::[html]Which of the following is the correct formula for lens power?
++D\=1/F
+-D\=2/F
+-D\=F
+-D\=3F
+-D\=4F
+
+
+
+?
+ question: 6341970  name: Who proposed to explain model of the electrical activity of the heart using ...
+::Who proposed to explain model of the electrical activity of the heart using ...::[html]Who proposed to explain model of the electrical activity of the heart using current dipole with dipole moment
++Einthoven
+-Nobel
+-Faraday
+-Roentgen
+-Snell
+
+
+
+?
+ question: 6341856  name: Young's modulus is equal 13 kPa, and the tension (stress) is equal 0,52kPa. ...
+::Young's modulus is equal 13 kPa, and the tension (stress) is equal 0,52kPa. ...::[html]Young's modulus is equal 13 kPa, and the tension (stress) is equal 0,52kPa. Find the strain of skin (by Hooke’s law).
+-0,01
+-0,02
+-0,03
++0,04
+-0,05
+
+
+
+?
+ question: 6341826  name: Young's modulus is equal 13 kPa, and the tension (stress) is equal 1,17. Find...
+::Young's modulus is equal 13 kPa, and the tension (stress) is equal 1,17. Find...::[html]Young's modulus is equal 13 kPa, and the tension (stress) is equal 1,17. Find the strain of skin (by Hooke’s law).
+-0,06
+-0,07
+-0,08
++0,09
+-0,001
+
+
+
+?
+ question: 6341849  name: Young's modulus is equal 13 kPa, and the tension (stress) is equal 1,3 kPa. ...
+::Young's modulus is equal 13 kPa, and the tension (stress) is equal 1,3 kPa. ...::[html]Young's modulus is equal 13 kPa, and the tension (stress) is equal 1,3 kPa. Find the strain of skin (by Hooke’s law).
++0,1
+-0,2
+-0,3
+-0,4
+-0,5
+
+
+
+?
+ question: 6341839  name: Young's modulus is equal 13 kPa, and the tension (stress) is equal 26. Find ...
+::Young's modulus is equal 13 kPa, and the tension (stress) is equal 26. Find ...::[html]Young's modulus is equal 13 kPa, and the tension (stress) is equal 26. Find the strain of skin (by Hooke’s law).
+-3
+-0,3
+-0,4
++2
+-4
+
+
+
+?
+ question: 6341851  name: Young's modulus is equal 13 kPa, and the tension (stress) is equal 39 kPa. ...
+::Young's modulus is equal 13 kPa, and the tension (stress) is equal 39 kPa. ...::[html]Young's modulus is equal 13 kPa, and the tension (stress) is equal 39 kPa. Find the strain of skin (by Hooke’s law).
+-1
+-2
++3
+-4
+-5
+
+
+
+?
+ question: 6341840  name: Young's modulus is equal 13 kPa, and the tension (stress) is equal 39. Find ...
+::Young's modulus is equal 13 kPa, and the tension (stress) is equal 39. Find ...::[html]Young's modulus is equal 13 kPa, and the tension (stress) is equal 39. Find the strain of skin (by Hooke’s law).
++3
+-0,3
+-0,4
+-2
+-4
+
+
+
+?
+ question: 6341841  name: Young's modulus is equal 13 kPa, and the tension (stress) is equal 52. Find ...
+::Young's modulus is equal 13 kPa, and the tension (stress) is equal 52. Find ...::[html]Young's modulus is equal 13 kPa, and the tension (stress) is equal 52. Find the strain of skin (by Hooke’s law).
+-3
+-0,3
+-0,4
+-2
++4
+
+
+
+?
+ question: 6341850  name: Young's modulus is equal 13 kPa, and the tension (stress) is equal 78 kPa. ...
+::Young's modulus is equal 13 kPa, and the tension (stress) is equal 78 kPa. ...::[html]Young's modulus is equal 13 kPa, and the tension (stress) is equal 78 kPa. Find the strain of skin (by Hooke’s law).
+-2
+-3
+-4
+-5
++6
+
+
+
+?
+ question: 6341832  name: Young's modulus is equal 13 kPa, and the tension (stress) is equal 9,1. Find ...
+::Young's modulus is equal 13 kPa, and the tension (stress) is equal 9,1. Find ...::[html]Young's modulus is equal 13 kPa, and the tension (stress) is equal 9,1. Find the strain of skin (by Hooke’s law).
+-0,6
++0,7
+-0,8
+-0,9
+-1
+
+
+
+?
+ question: 6341948  name: Young’s modulus of an artery wall increases by 4 times at hypertension. How ...
+::Young’s modulus of an artery wall increases by 4 times at hypertension. How ...::[html]Young’s modulus of an artery wall increases by 4 times at hypertension. How does this factor influence the blood flow?
++the velocity of the blood flow increases by 2 times comparing to the norm
+-the velocity of the blood flow decreases by 2 times comparing to the norm
+-the velocity of the blood flow decreases comparing to the norm
+-the velocity of the blood flow increases comparing to the norm
+-there is no influence

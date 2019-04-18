@@ -67,6 +67,9 @@
                 <p>This section allows you pick Your respective course and subjects enumerated within. pick one and lets
                     get
                     cracking.</p>
+                <p>Feel Free to contact Admin via the <a href="contact">contact form</a> or via the contact information
+                    at the <a href="#main-footer"> page end</a> for
+                    any enquiries.</p>
                 <button class="accordion buttonToHide medical">Medical</button>
                 <div class="panel">
                     <ul class="subjects-select">
@@ -152,6 +155,8 @@
                         <li class="course">
 
                             <h3>Fifth Course First Stream</h3>
+                            <p>Under Construction! <i class="fas fa-tools"></i> </p>
+
                             <ul>
                                 <li><a href="#">Anesthesiology and intensive care</a></li>
                                 <li><a href="#">Epidemiology</a></li>
@@ -166,6 +171,8 @@
                         <li class="course">
 
                             <h3>Fifth Course Second Stream</h3>
+                            <p>Under Construction! <i class="fas fa-tools"></i> </p>
+
                             <ul>
                                 <li><a href="#">Anesthesiology and intensive care</a></li>
                                 <li><a href="#">Epidemiology</a></li>
@@ -208,26 +215,29 @@
                     <h3>BSN 1st Course</h3>
                     <p><b>After Clicking On Link, Download and Extract Folder onto Device </b> <br />
                         This folder contains practice for Anatomy, Physiology, Phsycology and Medical Biology.</p>
-                    <li><a href="https://drive.google.com/open?id=1d7x2CK5bSIWvMJbobhuXUB5LGxRjgQHR" target="_blank">
-                            Download Practice App</a></li>
+                    <a href="https://drive.google.com/open?id=1d7x2CK5bSIWvMJbobhuXUB5LGxRjgQHR" target="_blank">
+                        Download Practice App</a>
+                    <h3>BSN 2nd Course</h3>
+                    <p><b>After Clicking On Link, Download and Extract Folder onto Device </b> <br />
+                        This folder contains practice for Biochemistry, Leadership in nursing, Microbiology, Nutrition
+                        and Phamacology.</p>
+                    <a href="https://drive.google.com/open?id=1_0aLeqs36PvuPMF-f10LuCu9__dJm-xD" target="_blank">
+                        Download Practice App</a>
+                    <h3>RN-BSN 1st Course</h3>
+                    <p><b>After Clicking On Link, Download and Extract Folder onto Device </b> <br />
+                        This folder contains practice for .</p>
+                    <a href="https://drive.google.com/open?id=1bLvA3dNNvKqLM7_JbfHd5Eh1l_8Yc4by" target="_blank">
+                        Download Practice App</a>
                 </div>
 
                 <button class="accordion buttonToHide pharmacy">Pharmacy</button>
                 <div class="panel">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-                        labore
-                        et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-                        ut
-                        aliquip ex ea commodo consequat.</p>
+                    <p>Under Construction! <i class="fas fa-tools"></i> </p>
                 </div>
 
                 <button class="accordion buttonToHide dentistry">Dentistry</button>
                 <div class="panel">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-                        labore
-                        et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-                        ut
-                        aliquip ex ea commodo consequat.</p>
+                    <p>Under Construction! <i class="fas fa-tools"></i> </p>
                 </div>
             </div>
 

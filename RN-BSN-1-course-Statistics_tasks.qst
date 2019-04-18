@@ -1,0 +1,1795 @@
+
+?
+Over the past 5 years, birth rate in one of the regions of Ukraine was: 8.3‰, 7.8‰, 7.8‰, 8.5‰, 9.0‰. What type of time series is this?
++Interval
+-Momentary
+-Grouped
+-Discrete
+-Open
+
+
+?
+Case rate for chronic bronchitis by years: 60‰, 80‰, 76‰, 74‰, 76‰, 88‰, 78‰, 88‰. What method can be used for alignment of this number?
++Increase in interval of observation
+-Calculation of the arithmetic mean
+-Standardization method
+-Method of χ-square
+-Defining sufficient number of observation
+
+
+?
+Over the past 5 years, birth rate in one of the regions of Ukraine was: 8.3‰, 8.1‰, 7.8‰, 7.8‰, 9.0‰. What type of time series is this?
++Complex
+-Momentary
+-Simple
+-Discrete
+-Increate
+
+
+?
+Over the past 5 years, population in one of the regions of Ukraine as of January, 1st was (absolute values, thousands) 2900, 2895, 2790, 2710, 2600. What type of time series is this?
++Simple
+-Discrete
+-Interval
+-Complex
+-Weighed
+
+
+?
+Case rate for chronic bronchitis by years was: 60‰, 80‰, 76‰, 74‰, 76‰, 88‰, 78‰, 88‰. What method of alignment of time series can be used in this case?
++Method of sliding average
+-Defining sufficient number of observation
+-Calculation of the arithmetic mean
+-Standardization method
+-Method of χ-square
+
+
+?
+Data about quantity of calls for first care by days is shown. What type of time series do they represent?
++Momentary
+-Variation
+-Interval
+-Discrete
+-Increate
+
+
+?
+Number of doctors in the region during 5 years (as of January 1) was 120; 122; 125; 121; 118. What type of time series is this?
++Momentary
+-Complex
+-Interval
+-Range
+-Level
+
+
+?
+For the last 4 years, number of cases of births in the region was: 527; 511; 418; 405. What type of time series is this?
++Interval
+-Simple
+-Momentary
+-Range
+-Stationary
+
+
+?
+Population of Ukraine was: in 2002 – 52 mln, in 2003 – 50 mln, in 2004 – 49 mln, in 2005 – 48.5 mln, in 2006 – 48 mln, in 2007 – 47 mln, in 2008 – 46.7 mln. Write the formula for calculation of pure gain.
++Present level of time series – previous level of time series
+-Previous level of time series – present level of time series
+-Present level of time series / previous level of time series x 100
+-Previous level of time series / present level of time series x 100
+-Present level of time series + previous level of time series
+
+
+?
+The population of Ukraine was: in 2002 – 52 mln, in 2003 – 50 mln, in 2004 – 49 mln, in 2005 – 48.5 mln, in 2006 – 48 mln, in 2007 – 47 mln, in 2008 – 46.7 mln. How do you calculate pure gain for 2002?
++It is impossible to calculate
+-50 – 52 =-2
+-52 – 50 = 2
+-50 / 52 x 100 = 96.2
+-49 – 52 =-3
+
+
+?
+The population of Ukraine was: in 2002 – 52 mln, in 2003 – 50 mln, in 2004 – 49 mln, in 2005 – 48.5 mln, in 2006 – 48 mln, in 2007 – 47 mln, in 2008 – 46.7 mln. How do you calculate pure gain for 2003?
++50 – 52 =-2
+-It is impossible to calculate
+-52 – 50 = 2
+-50 / 52 x 100 = 96.2
+-49 – 52 =-3
+
+
+?
+The population of Ukraine was: in 2002 – 52 mln, in 2003 – 50 mln, in 2004 – 49 mln, in 2005 – 48.5 mln, in 2006 – 48 mln, in 2007 – 47 mln, in 2008 – 46.7 mln. How do you calculate pure gain for 2004?
++49 – 50 =-1
+-It is impossible to calculate
+-50 – 49 = 1
+-49 / 50 x 100 = 98
+-49 – 52 =-3
+
+
+?
+The population of Ukraine was: in 2002 – 52 mln, in 2003 – 50 mln, in 2004 – 49 mln, in 2005 – 48.5 mln, in 2006 – 48 mln, in 2007 – 47 mln, in 2008 – 46.7 mln. How do you calculate pure gain for 2005?
++48.5 – 49 =-0.5
+-It is impossible to calculate
+-49 – 48.5 = 0.5
+-48.5 / 49 x 100 = 99
+-48.5 – 52 =-3.5
+
+
+?
+The population of Ukraine was: in 2002 – 52 mln, in 2003 – 50 mln, in 2004 – 49 mln, in 2005 – 48.5 mln, in 2006 – 48 mln, in 2007 – 47 mln, in 2008 – 46.7 mln. How do you calculate pure gain for 2006?
++48 – 48.5 =-0.5
+-It is impossible to calculate
+-48.5 – 48 = 0.5
+-48.5 / 48 x 100 = 101
+-48 – 52 =-4
+
+
+?
+The population of Ukraine was: in 2002 – 52 mln, in 2003 – 50 mln, in 2004 – 49 mln, in 2005 – 48.5 mln, in 2006 – 48 mln, in 2007 – 47 mln, in 2008 – 46.7 mln. How do you calculate pure gain for 2007?
++47 – 48 =-1
+-It is impossible to calculate
+-48 – 47 = 1
+-47 / 48 x 100 = 97.9
+-47 – 52 =-5
+
+
+?
+The population of Ukraine was: in 2002 – 52 mln, in 2003 – 50 mln, in 2004 – 49 mln, in 2005 – 48.5 mln, in 2006 – 48 mln, in 2007 – 47 mln, in 2008 – 46.7 mln. How do you calculate pure gain for 2008?
++46.7 – 47 =-0.3
+-It is impossible to calculate
+-47 – 46.7 = 0.3
+-46.7 / 47 x 100 = 99.4
+-46.7 – 52 =-5.3
+
+
+?
+The population of Ukraine was: in 2002 – 52 mln, in 2003 – 50 mln, in 2004 – 49 mln, in 2005 – 48.5 mln, in 2006 – 48 mln, in 2007 – 47 mln, in 2008 – 46.7 mln Write the formula of calculation of rate of gain.
++Pure gain / previous level of time series x 100
+-Present level of time series - previous level of time series
+-Previous level of time series - present level of time series
+-Present level of time series / previous level of time series x 100
+-Previous level of time series / present level of time series x 100
+
+
+?
+The population of Ukraine was: in 2002 – 52 mln, in 2003 – 50 mln, in 2004 – 49 mln, in 2005 – 48.5 mln, in 2006 – 48 mln, in 2007 – 47 mln, in 2008 – 46.7 mln. How do you calculate rate of gain for 2002?
++It is impossible to calculate
+--2 / 52 x 100 =-4
+-52 / 50 x 100 = 104
+-50 / 52 x 100 = 96.2
+-50 – 52 =-2
+
+
+?
+The population of Ukraine was: in 2002 – 52 mln, in 2003 – 50 mln, in 2004 – 49 mln, in 2005 – 48.5 mln, in 2006 – 48 mln, in 2007 – 47 mln, in 2008 – 46.7 mln. How do you calculate rate of gain for 2003?
++-2 / 52 x 100 =-4
+-It is impossible to calculate
+-52 / 50 x 100 = 104
+-50 / 52 x 100 = 96.2
+-50 – 52 =-2
+
+
+?
+The population of Ukraine was: in 2002 – 52 mln, in 2003 – 50 mln, in 2004 – 49 mln, in 2005 – 48.5 mln, in 2006 – 48 mln, in 2007 – 47 mln, in 2008 – 46.7 mln. How do you calculate rate of increase for 2003?
++52 / 50 x 100 = 104
+-It is impossible to calculate
+--2 / 52 x 100 =-4
+-50 / 52 x 100 = 96.2
+-50 – 52 =-2
+
+
+?
+In the annual report, data about prevalence of diseases among the population of the region by years is cited. What type of graphic visualization should be applied in this case?
++Linear diagram
+-Column diagram
+-Sector diagram
+-Cartogram
+-Map diagram
+
+
+?
+For the analysis, data of general case rate over the last 5 years is given. Select what diagram is necessary to use in this case.
++Linear diagram
+-Cartogram
+-Sector diagram
+-Column diagram
+-Intra-column diagram
+
+
+?
+For the analysis, data about structure of diseases is cited. Select what diagram is necessary to use in this case.
++Intra-column diagram
+-Cartogram
+-Radial diagram
+-Column diagram
+-Linear diagram
+
+
+?
+Structure of primary case rate of population by ICD-10 was studied. By means of what diagram should results of the given research be represented graphically?
++Sector diagram
+-Column diagram
+-Radial diagram
+-Linear diagram
+-Figured diagram
+
+
+?
+For the last year, among the causes of death of population, cardiovascular diseases (65.0%) rank first in the practice of a general practitioner, neoplasms (13.0%) – second, traumas (8.3%) – third, etc. What diagram illustrates structure of the studied phenomena?
++Sector diagram
+-Column diagram
+-Cartogram
+-Linear diagram
+-Radial diagram
+
+
+?
+Case rate for shigellosis in the region by months of the year in absolute numbers: January – 6; February – 9; March – 11; April – 10; May – 16; June – 23; July – 19; August – 33; September – 58; October – 19; November – 11; December – 5. Total for the year – 220 cases. What type of graphic visualization will best demonstrate monthly deviations of case rate for shigellosis from average?
++Radial diagram
+-Cartogram
+-Column diagram
+-Map diagram
+-Sector diagram
+
+
+?
+Case rate according to population visits to a district clinic: in January – 257 cases of flu, February – 222, March – 210, April – 81, May – 26, June – 5, July – 3, August – 8, September – 19, October – 29, November – 49, December – 152. It is necessary to demonstrate seasonal prevalence of fluctuations of flu. What type of graphic visualization is most expedient in this case?
++Radial diagram
+-Cartogram
+-Sector diagram
+-Histogram
+-Column diagram
+
+
+?
+Select the type of graphic visualization for monthly data on number of registered cases of acute enteric infections in comparison with average monthly values received for 5 previous years.
++Linear diagram
+-Radial diagram
+-Sector diagram
+-Figured diagram
+-Curvilinear
+
+
+?
+Index of infant death rate for last year was 9.7‰, this year – 9.5‰. Select the type of diagram which can be used for graphic visualization.
++Column diagram
+-Sector diagram
+-Figured diagram
+-Intra-column diagram
+-Radial diagram
+
+
+?
+In comparison with last year, case rate for flu has increased by 30%. What index is used in this case?
++Visualization
+-Intensive
+-Extensive
+-Ratio
+-Relative intensity
+
+
+?
+Level of general death rate in Ukraine was: in 2000 – 14.4%, in 2001 – 14.2%, in 2002 – 15.3%, in 2003 – 16.0%. What type of the diagram can be used for this data?
++Linear diagram
+-Intra-column diagram
+-Cartogram
+-Sector diagram
+-Radial diagram
+
+
+?
+A region has 70,000 people: aged 0–14 years – 13.0%, 15–49 years – 52.0%, 50 years and older – 35%. What type of graphic visualization is most expedient to display age structure of the population of the region?
++Sector diagram
+-Radial diagram
+-Linear diagram
+-Column diagram
+-Cartogram
+
+
+?
+Photochronometric research of reception of patients by therapists of polyclinic N 1 in city A in 2003 shows that preparation and acquaintance with medical documentation takes up 10.6% of time, questioning the patient – 15.1%, tests and observation – 35.9%, other elements of work – 38.4% of total time of reception of one patient. What type of diagrams illustrates the results of research visually?
++Sector diagram
+-Column diagram
+-Map diagram
+-Linear diagram
+-Radial diagram
+
+
+?
+In a comprehensive school, per 1000 children, 40 cases of flu were registered in boys, and 60 cases in girls. By means of what type of diagram should the presented indices of flu in schoolchildren be displayed graphically?
++Column diagram
+-Linear diagram
+-Radial diagram
+-Sector diagram
+-Cartogram
+
+
+?
+Annual dynamics of diseases of blood circulation system for the last 10 years was studied. By means of what type of diagram should dynamics of indices of case rate of the population be displayed graphically?
++Linear diagram
+-Radial diagram
+-Sector diagram
+-Column diagram
+-Cartogram
+
+
+?
+Structure of primary case rate of population for 17 classes of diseases was studied. By means of what type of diagram should results of the given research be graphically displayed?
++Sector diagram
+-Column diagram
+-Radial diagram
+-Linear diagram
+-Cartogram
+
+
+?
+Lethality in hospital A – 1.2%, in hospital B – 1.8%. What can be taken for the standard when comparing the standardization data by direct method?
++Half-sum of patients in each department of hospitals A and B
+-Average age of patients in hospital A
+-Average age of patients in hospital B
+-Average duration of treatment in hospital A
+-Average duration of treatment in hospital B
+
+
+?
+Death rate of urban population of the region is 10.8%, rural – 18.3%. What can be taken for the standard when comparing the standardization data by direct method?
++Population half-sum by age groups
+-Average age of urban population
+-Average age of countrymen
+-Disease of urban population
+-Disease of countrymen
+
+
+?
+In comparison with last year, case rate for hypertensive disease has increased by 15%. What index is used in this case?
++Visualization
+-Intensive
+-Extensive
+-Ratio
+-Pure gain
+
+
+?
+In comparison with last year, case rate for flu in children has decreased by 12%. What index is used?
++Visualization
+-Intensive
+-Extensive
+-Ratio
+-Pure gain
+
+
+?
+In comparison with last year, death rate of babies has decreased by 5.6%. What index is used?
++Visualization
+-Intensive
+-Extensive
+-Pure gain
+-Ratio
+
+
+?
+While studying death rate in two regions with different sex and age structure of the population, the following data is obtained: in region A death rate was 14.0‰, in region B – 16.0‰. What statistical method has to be applied to compare these indices?
++Standardization
+-Time series
+-Relative indices
+-Average values
+-Correlation
+
+
++studying case rate in city N, it was established that the population of different administrative areas differs by age structure. What statistical method allows to exclude the influence of this factor on case rate indices?
++Standardization method
+-T-criterion of Wilcoxon
+-Correlation-regression analysis
+-Analysis of time series
+-Calculation of average values
+
+
+?
+Lethality in therapeutic department of hospital was 1.2%, and in surgical – 1.8%. Standardized indices of lethality were 1.6% and 1.1% respectively. Estimate the valid level of lethality in departments:
++Lethality in surgical department was higher than in the therapeutic
+-Lethality in therapeutic department was higher than in the surgical
+-It is necessary to calculate ratio index additionally
+-It is necessary to calculate extensive index additionally
+-If gravity of condition of patients in departments was identical, lethality in therapeutic department would be higher
+
+
+?
+Prevalence of coronary heart disease (CHD) in city A – 50‰, and in city B – 60‰. Age-standardized indices – 58‰ and 55‰ respectively. Evaluate the data:
++If the age structure of the population in cities was identical, CHD prevalence would be higher in city A
+-It is necessary to calculate extensive index additionally
+-It is necessary to calculate Student's criterion
+-If the age structure of the population in cities was identical, CHD prevalence would be higher in city B
+-Age structure of the population does not influence CHD prevalence
+
+
+?
+What method is recommended to be used to find influence of heterogeneity of shop workers (by sex, age, experience, etc.) on case rate?
++Standardization
+-Nonparametric criteria
+-Intensive indices
+-Average values
+-Extensive indices
+
+
+?
+General death rate in region A is 11.9‰, and in region B – 15.9‰. In the age structure of the population of region A, the share of people aged 50 and older is 30.0‰, and in region B – 40.0‰. It is necessary to see whether heterogeneity of age structure of the population has affected difference of indices of the general death rate. What method of medical statistics is most expedient in this case?
++Calculation of the standardized indices
+-Calculation of relative values
+-Calculation of confidential factor
+-Calculation of average values
+-Calculation of correlation factor
+
+
+?
+Head physician of a clinic ordered for an analysis of case rate in firm shops. Sex structure of workers in shops is different. What method of statistical processing of results of case rate analysis needs to be used?
++Standardization
+-Correlation
+-Average values
+-Estimation of reliability of results
+-Time series
+
+
++an firm, during the first half-year, out of 2000 working men 320 had traumas, out of 4000 working women – 280. In the second half-year, out of 6000 men 720 got injured, out of 2000 women – 160. What method of statistical data processing is optimum for elimination of divergences by sex and different trauma levels while analyzing traumatism at the firm?
++Standardization method
+-Calculation of average values
+-Calculation of relative values
+-Regressive analysis
+-Correlation analysis
+
+
+?
+Estimate the standardized indices of incapacity due to cardiovascular diseases among workers of two firms (firm A – 2.2%, B – 1.4%) if intensive indices are 1.2% and 1.9% respectively:
++If the social composition of workers at both firms is identical, incapacity at firm B is higher
+-It is necessary to calculate extensive index additionally
+-It is necessary to calculate Student's criterion
+-If the social composition of workers at both firms is identical, incapacity at the firm A is higher
+-Social composition of workers does not influence prevalence of incapacity
+
+
+?
+Estimate the standardized indices of backbone disease at cargo drivers of two transportation firms (A and B) if the standardized and general intensive indices of disease are at the level of 21‰ and 35‰ respectively.
++Type of labor activity does not influence backbone disease
+-It is necessary to calculate extensive index additionally
+-It is necessary to calculate Student's criterion
+-If the structure of drivers by the form activity was identical backbone disease at the firm B is higher
+-All answers are correct
+
+
+?
+Daily average lethality in surgical department of city hospital N 1 in 2001 – 0.1%, in 2002 – 0.5%. Prospective reason of growth of lethality in 2002 – late hospitalization as a result of defective first care. Indices calculated under condition of identical distribution of patients by terms of hospitalization: in 2001 – 15.0, in 2002 – 11.0. What method has been used for calculation of these conditional indices?
++Standardization
+-Correlation
+-Calculation of average values
+-Calculation of relative values
+-Analysis of time series
+
+
+?
+It is necessary to do comparative estimation of disease of working two uneven-age groups. Average age of group 1 is 30.0 years, group 2 – 40.0 years. What statistical method should be applied in calculation of indices of disease to eliminate influence of age differences of compared groups of workers?
++Standardization method
+-Method of time series
+-Correlation method
+-Method of reception of intensive indices
+-Method of reception of arithmetic mean indices
+
+
+?
+Graphic visualization of growth of schoolchildren of 12 years shows that the sign has two-humped distribution. What does such distribution specify?
++Heterogeneity
+-Revisualization
+-Specificity
+-Insufficiency
+-Sensuality
+
+
+?
+Define the observation unit at studying average duration of patients' stay in hospital depending on terms of their delivery in hospital and the clinical form of disease.
++Separate person
+-Certain contingent of people
+-Separate method of research
+-Set of people or the phenomena which are studied
+-Certain subjects, the phenomena
+
+
+?
+In region D, heart attack lethality grew over the last 5 years. Situation requires estimation of overall performance of cardiological hospitals of the region. Define the observation unit in this case.
++Cardiological hospital
+-Hospitalization case in cardiological hospital
+-Availability of diagnostic equipment in cardiological hospital
+-Availability of cardiologists
+-Timeliness of the reference for medical care in cardiological hospital
+
+
+?
+Define the observation unit at studying average duration of stay of appendectomy patients in hospital, depending on hospital delivery terms and clinical form of appendicitis.
++Patient with appendectomy
+-Patient hospitalized
+-Average duration of stay of a patient in hospital
+-Terms of delivery of the patient
+-Clinical form of appendicitis
+
+
+?
+Define statistical observation unit at study of influence of quantity of blood sugar on wound surface healing in the postoperative period.
++Patient in the postoperative period
+-Quantity of sugar
+-Blood analysis
+-Patient with wound surface
+-Patient on aftercare
+
+
+?
+In epidemiological research, level of arterial pressure (BP) was measured. Prior to the beginning of research, an instruction on measurement of BP was carried out, however metrological check of measuring devices was not done. What errors are most likely to occur at this research and affect reliability of results?
++Regular
+-Methodical
+-Casual
+-Information
+-Logic
+
+
+?
+In children's polyclinic, allergic diseases are studied by copying data from the registration medical documentation. According to the program of research, every third history of development of the child is selected for a sample. What method of sample formation is used by researchers?
++Mechanical
+-Directed
+-Casual
+-Typological
+-Serial
+
+
+?
+In city N, social-hygienic research is conducted. According to the research program, all city population was first divided by habitat (district), and then observation units were proportionally selected from each group. What method of sample formation is used by researchers?
++Typological
+-Serial
+-Casual
+-Mechanical
+-Directed
+
+
+?
+In region A, growth of lethality from stroke is noticed. Situation requires estimation of overall performance of neurologic departments of hospitals of the region. Define the observation unit in this case.
++Neurologic hospital
+-Availability of diagnostic equipment in neurologic hospital
+-Timeliness of the reference in neurologic hospital
+-Availability to population of beds of neurologic profile
+-Availability of hospitals neurologists
+
+
+?
+To study diseases of rural population of a region, inhabitants of villages with clinics were selected as object of research. What method of gathering statistical material by volume should be used in the research?
++Base file
+-Combined
+-Selective
+-Simultaneous
+-Monographic description
+
+
+?
+What method of gathering information has more coverage at studying living conditions of students of medical schools?
++Sociological
+-Interviewing
+-Copying materials
+-Directed selection
+-Statistical
+
+
+?
+Treatment-and-prophylactic facilities providing out-patient care to population constantly record all calls to polyclinic concerning diseases with preventive and other purposes. What type of statistical observation by time do they use?
++Current
+-Continuous
+-Nested
+-Selective
+-Not continuous
+
+
+?
+Treatment-and-prophylactic facilities providing out-patient care to population constantly record all calls to polyclinic concerning diseases with preventive and other purposes. What type of statistical observation by coverage do they use?
++Continuous
+-Individual
+-Current
+-Regular
+-Not continuous
+
+
+?
+For study of disease of urban population of a region, each 10th inhabitant was taken object of research. What method of gathering statistical material by volume should be used in the research?
++Selective
+-Base file
+-Monographic description
+-Combined
+-Continuous
+
+
++school N, measles was diagnosed in 200 pupils, including 130 girls and 70 boys. There were 30 pupils aged up to 7, 8-10 years – 100 pupils, 11-14 years – 50 pupils, more than 14 years – 20 pupils. What type of statistical table needs to be applied to report this data?
++Group
+-Simple
+-Combinational
+-Mixed
+-Total
+
+
++the study of factors of stomach disease, the following signs are taken: sex, age, attitude to smoking and alcohol, trade, place of work etc. What type of statistical table should be used in this case to report this data?
++Group
+-Total
+-Simple
+-Mixed
+-Special
+
+
+?
+Polyclinic provides medical care to adult population. At estimation of its activity, one calculatres indices of disease prevalence, disease structure, average of visits per inhabitant per year, load of doctors on outpatient reception hours, availability of doctors and beds to population etc. Which of the below indices is a ratio index?
++Availability of doctors and beds to population
+-Prevalence of diseases
+-Disease structure
+-Quantity of visits on one inhabitant
+-Loading of doctors on outpatient reception hours
+
+
+?
+For the analysis of activity of ambulance station, data on mid-annual quantity of population, quantity of doctors, quantity of registered diseases (total and by separate classes of diseases) and quantity of visits is taken from annual accounting documents. What ratio represents the concept of intensive index?
++Quantity of diseases over mid-annual quantity of the population
+-Quantity of doctors over mid-annual quantity of the population
+-Quantity of diseases on separate classes over total diseases
+-Mid-annual quantity of the population over quantity of doctors
+-Relative density of visits over doctors of different trades
+
+
+?
+City A has 100,000 inhabitants. Out of 160 cases of infectious diseases 75 are flu cases. What index of flu case rate out of all infectious diseases needs to be used?
++Extensive
+-Intensive
+-Relative intensity
+-Visualization
+-Ratio
+
+
+?
+Population of region N is 50,000. Within the year, 7000 disease cases were registered. What index should be used to characterize prevalence of diseases among the population?
++Intensive index
+-Extensive index
+-Visualization
+-Ratio
+-Standardization
+
+
+?
+Within a year, in a polyclinic which serves 60,000 adult population, 108 cases of heart attack were registered. What index needs to be used for calculation of frequency of cases of heart attack?
++Intensive index
+-Extensive index
+-Visualization
+-Ratio
+-Rate of increase
+
+
+?
+In comparison with last year, level of flu cases has increased by 20%. What index is used for the given calculation?
++Visualization
+-Relative intensity
+-Ratio
+-Intensity
+-Extensiveness
+
+
+?
+A polyclinic serves 30,000 adult population. Within a year, 11,600 disease cases, including 3860 cases with diagnosis established for the first time, were registered. What type of index should be used to characterize prevalence (frequency) of diseases among the population?
++Intensive
+-Extensive
+-Visualization
+-Ratio
+-Physical inabilities
+
+
+?
+Shop doctor of a firm carries out analysis of health of workers annually. Into what dispensary health groups are workers divided in the annual report?
++Healthy, almost healthy, sick by 3 compensation stages
+-Healthy, sick with acute diseases, patients with subcompensated clinical course
+-Healthy, often sick with compensated clinical course
+-Healthy, sick with significant not epidemic diseases, almost healthy
+-Healthy, sick with temporary incapacity, patients with decompensated clinical course
+
+
+?
+Dispensary record with local therapist includes reconvalescents after infectious diseases, those who get sick frequently and for a long time, people with chronic pathology. Which of the below patients belong to the III group of health?
++Those with chronic pathology in compensation stage
+-All categories of patients listed
+-Often and long-sick
+-Reconvalescents after infectious diseases and those with chronic pathology
+-People with chronic diseases
+
+
+?
+During the current year, 10% of employees of a firm never got sick, once – 30%, two times – 15%, four times – 5%, all others – 5 and more times. What is relative density of employees in І group of health?
++40%
+-10%
+-55%
+-60%
+-22%
+
+
+?
+During the current year, 10% of employees of a firm never got sick, once – 30%, two times – 15%, four times – 5%, all others – 5 and more times. What is relative density of employees in IІ group of health?
++15%
+-40%
+-10%
+-60%
+-22%
+
+
+?
+During the current year, 10% of employees of a firm never got sick, once – 30%, two times – 15%, four times – 5%, all others – 5 and more times. What is relative density of employees in IIІ group of health?
++10%
+-40%
+-15%
+-60%
+-22%
+
+
+?
+Last year, a 13-year-old boy had acute respiratory diseases five times. To what health group does he belong?
++Third
+-Second
+-First
+-Fourth
+-Fifth
+
+
+?
+During the year, local pediatrician observed health of 822 children. 50 children never got sick, 1 time – 200 children, 2 times – 150 children, 3 times – 220, 4 times – 180, and more times – 22 children. How many children belong to the first group of health?
++250
+-50
+-180
+-370
+-22
+
+
+?
+During the year, local pediatrician observed health of 822 children. 50 children never got sick, 1 time – 200 children, 2 times – 150 children, 3 times – 220, 4 times – 180, and more times – 22 children. How many children belong to the second group of health?
++370
+-50
+-250
+-180
+-22
+
+
+?
+During the year, local pediatrician observed health of 822 children. 50 children never got sick, 1 time – 200 children, 2 times – 150 children, 3 times – 220, 4 times – 180, and more times – 22 children. How many children belong to the third group of health?
++202
+-50
+-250
+-180
+-370
+
+
+?
+During the year, local pediatrician observed health of 902 children. 100 children never got sick, 1 time – 180 children, 2 times – 200 children, 3 times – 220, 4 times – 180, and more times – 22 children. How many children belong to the I group of health?
++280
+-100
+-420
+-220
+-202
+
+
+?
+During the year, local pediatrician observed health of 902 children. 100 children never got sick, 1 time – 180 children, 2 times – 200 children, 3 times – 220, 4 times – 180, and more times – 22 children. How many children belong to the II group of health?
++420
+-100
+-280
+-220
+-202
+
+
+?
+During the year, local pediatrician observed health of 902 children. 100 children never got sick, 1 time – 180 children, 2 times – 200 children, 3 times – 220, 4 times – 180, and more times – 22 children. How many children belong to the III group of health?
++202
+-100
+-280
+-420
+-220
+
+
+?
+During the year, local therapist observed health of 1,630 people of the site. 100 people never got sick, 1 time – 230 people, 2 times – 240 people, 3 times – 420, 4 times – 560, and more times – 80 people. How many people belong to the I group of health?
++330
+-660
+-230
+-100
+-640
+
+
+?
+During the year, local therapist observed health of 1,630 people of the site. 100 people never got sick, 1 time – 230 people, 2 times – 240 people, 3 times – 420, 4 times – 560, and more times – 80 people. How many people belong to the II group of health?
++660
+-330
+-240
+-100
+-640
+
+
+?
+During the year, local therapist observed health of 1,630 people of the site. 100 people never got sick, 1 time – 230 people, 2 times – 240 people, 3 times – 420, 4 times – 560, and more times – 80 people. How many people belong to the III group of health?
++640
+-330
+-660
+-240
+-100
+
+
+?
+During the year, shop therapist observed health of 2000 workers of a harvester. 50 people never got sick and didn't get incapacity card, 1 time – 310 people, 2 times – 780 people, 3 times – 670, 4 times – 110, and more times – 80 people. How many people belong to the I group of health?
++360
+-190
+-310
+-670
+-1450
+
+
+?
+During the year, shop therapist observed health of 2000 workers of a harvester. 50 people never got sick and didn't get incapacity card, 1 time – 310 people, 2 times – 780 people, 3 times – 670, 4 times – 110, and more times – 80 people. How many people belong to the II group of health?
++1450
+-780
+-310
+-360
+-670
+
+
+?
+During the year, shop therapist observed health of 2000 workers of a harvester. 50 people never got sick and didn't get incapacity card, 1 time – 310 people, 2 times – 780 people, 3 times – 670, 4 times – 110, and more times – 80 people. How many people belong to the III group of health?
++190
+-310
+-860
+-670
+-110
+
+
+?
+Last year, an 11-year-old boy had acute respiratory diseases four times. To what health group does he belong? What percentage does this group currently occupy in Ukraine?
++Third group, 35%
+-Fourth group, 35%
+-Second group, 35%
+-Third group, 20%
+-Fourth group, 20%
+
+
+?
+A fourth form pupil has acutely disharmonious physical development. The boy has chronic bronchitis without considerable organic infringements. During the year, he had no acute diseases. To what group of health does he belong? What percentage does this group currently occupy in Ukraine?
++Third group, 35%
+-Fourth group, 35%
+-Second group, 35%
+-Third group, 20%
+-Fourth group, 20%
+
+
+?
+Man К has stomach ulcer for five years. Last year he had 1 aggravation of the disease. To what group of health does he belong? What percentage does this group currently occupy in Ukraine?
++Third group, 35%
+-Fourth group, 35%
+-Second group, 35%
+-Third group, 20%
+-Fourth group, 20%
+
+
+?
+During medical examination, worker М was not seen to have functional and organic deviations in health. During the year he was sick with ARD once. To what group of health does he belong? What percentage does this group currently occupy in Ukraine?
++First group, 20%
+-Second group, 35%
+-Third group, 35%
+-Third group, 20%
+-First group, 35%
+
+
+?
+Patient Н is diagnosed with CHD, Atherosclerotic cardiosclerosis, Vibrating arrhythmia, permanent form, tachysystole, hypertensive disease ІІІ stage, circulation deficiency ІІІ stage. To what group of health does he belong? What percentage does this group currently occupy in Ukraine?
++Fifth group, 1%
+-Fifth group, 4%
+-Fourth group, 1%
+-Third group, 35%
+-Fourth group, 4%
+
+
+?
+A hospitalized patient S is diagnosed with: chronic glomerulonephritis, nephrotic syndrome, chronic renal insufficiency stage 2. To what health group does the patient belong? What percentage does this group currently occupy in Ukraine?
++Fourth group, 4%
+-Fifth group, 4%
+-Fourth group, 1%
+-Third group, 35%
+-Fifth group, 1%
+
+
+?
+In 2009, lethality from stroke grew in region A. Situation requires estimation of overall performance of neurologic departments of hospitals of the region. Define the observation unit.
++Neurologic department of hospitals of the region
+-Stroke patient
+-Paralysis patient
+-Stroke
+-Hospital
+
+
+?
+In 2009, lethality from stroke grew in region A. Situation requires estimation of overall performance of neurologic departments of hospitals of the region. Define the object of observation.
++Some neurologic departments of hospitals of the region
+-All neurologic departments of hospitals of the region
+-100 stroke patient
+-All strokes
+-Some hospitals
+
+
+?
+In 2009, lethality from stroke grew in region C. Situation requires estimation of overall performance of neurologic departments of hospitals of the region. Define the statistical population.
++All neurologic departments of hospitals of the region
+-All stroke patient
+-All paralysis patient
+-All strokes
+-All hospitals
+
+
+?
+In 2009, lethality from stroke grew in region C. Situation requires estimation of overall performance of neurologic departments of hospitals of the region. Define a sample.
++Some neurologic departments of hospitals of the region
+-All neurologic departments of hospitals of the region
+-100 stroke patient
+-All strokes
+-Some hospitals
+
+
+?
+In 2009, lethality from stroke grew in region A. Situation requires estimation of overall performance of neurologic departments of hospitals of the region. Define alternative registration sign of the given observation.
++Patient's age
+-Stroke
+-Accompanying diseases
+-Coincidence of clinical and pathologic diagnoses
+-Sex of the patient
+
+
+?
+In 2009, lethality from stroke grew in region A. Situation requires estimation of overall performance of neurologic departments of hospitals of the region. Define attributive registration sign of the given observation.
++Stroke
+-Hospital capacity
+-Patient's age
+-Average duration of stay of a patient in hospital
+-Stroke patient
+
+
+?
+In 2009, lethality from stroke grew in region A. Situation requires estimation of overall performance of neurologic departments of hospitals of the region. Define factorial registration sign of the given observation.
++Patient's age
+-Stroke
+-Hospital capacity
+-Average duration of stay of a patient in hospital
+-Stroke patient
+
+
+?
+In 2009, lethality from stroke grew in region A. Situation requires estimation of overall performance of neurologic departments of hospitals of the region. Define productive registration sign of the given observation.
++Stroke
+-Hospital capacity
+-Paralysis patient
+-Patient's age
+-Stroke patient
+
+
+?
+In 2009, lethality from stroke grew in region A. Situation requires estimation of overall performance of neurologic departments of hospitals of the region. How, in your opinion, should a material processing program look?
++Drawing up of table models
+-Calculation of intensive indices
+-Calculation of extensive indices
+-Calculation of average indices
+-Introduction in practice
+
+
+?
+In 2009, lethality from stroke grew in region A. Situation requires estimation of overall performance of neurologic departments of hospitals of the region. How, in your opinion, should an element of material analysis program look?
++Comparison of intensive indices with standards
+-Drawing up of table models
+-Material encryption
+-Distribution into groups
+-Introduction in practice
+
+
+?
+In 2009, kidney function was studied in 30 chronic pyelonephritis patients at nephrological department of TRCH. Average kreatinine level was 13.2 mmol/l, glomerular filtrations – 102.4 ml/min, urea clearance – 69.9 ml/min. Define the observation unit.
++Chronic pyelonephritis patient
+-Nephrological department of TRCH
+-Chronic pyelonephritis
+-Kidney function
+-Urine indices
+
+
+?
+In 2009, kidney function was studied in 30 chronic pyelonephritis patients at nephrological department of TRCH. Average kreatinine level was 13.2 mmol/l, glomerular filtrations – 102.4 ml/min, urea clearance – 69.9 ml/min. Define the object of observation.
++30 chronic pyelonephritis patients
+-All nephrological departments of the region
+-All chronic pyelonephritis patients treated during the year
+-All cases of chronic pyelonephritis during the year
+-All urine indices
+
+
+?
+In 2009, kidney function was studied in 30 chronic pyelonephritis patients at nephrological department of TRCH. Average kreatinine level was 13.2 mmol/l, glomerular filtrations – 102.4 ml/min, urea clearance – 69.9 ml/min. Define the statistical population.
++All chronic pyelonephritis patients treated during the year
+-All nephrological departments of the region
+-Cases of chronic pyelonephritis during the year
+-30 chronic pyelonephritis patients
+-All urine indices
+
+
+?
+In 2009, kidney function was studied in 30 chronic pyelonephritis patients at nephrological department of TRCH. Average kreatinine level was 13.2 mmol/l, glomerular filtrations – 102.4 ml/min, urea clearance – 69.9 ml/min. Define the basic phenomenon studied.
++Chronic pyelonephritis
+-All nephrological departments of the region
+-All chronic pyelonephritis patients treated during the year
+-30 chronic pyelonephritis patients
+-Average kreatinine level at one patient
+
+
+?
+In 2009, kidney function was studied in 30 chronic pyelonephritis patients at nephrological department of TRCH. Average kreatinine level was 13.2 mmol/l, glomerular filtrations – 102.4 ml/min, urea clearance – 69.9 ml/min. Define the sample.
++30 chronic pyelonephritis patients
+-All nephrological departments of the region
+-All sick with the chronic pyelonephritis, treated during the year
+-All cases of chronic pyelonephritis during the year
+-All urine indices
+
+
+?
+In 2009, kidney function was studied in 30 chronic pyelonephritis patients at nephrological department of TRCH. Average kreatinine level was 13.2 mmol/l, glomerular filtrations – 102.4 ml/min, urea clearance – 69.9 ml/min. Define alternative registration sign of the given observation.
++Average kreatinine level
+-Pyelonephritis
+-Accompanying diseases
+-Coincidence of clinical and pathologic diagnoses
+-Sex of the patient
+
+
+?
+In 2009, kidney function was studied in 30 chronic pyelonephritis patients at nephrological department of TRCH. Average kreatinine level was 13.2 mmol/l, glomerular filtrations – 102.4 ml/min, urea clearance – 69.9 ml/min. Define attributive registration sign of the given observation.
++Pyelonephritis
+-Hospital capacity
+-Average glomerular filtration level
+-Average duration of stay of a patient in hospital
+-Average kreatinine level
+
+
+?
+In 2009, kidney function was studied in 30 chronic pyelonephritis patients at nephrological department of TRCH. Average kreatinine level was 13.2 mmol/l, glomerular filtrations – 102.4 ml/min, urea clearance – 69.9 ml/min. Define factorial registration sign of the given observation.
++Patient's age
+-Pyelonephritis
+-Hospital capacity
+-Average duration of stay of a patient in hospital
+-Pyelonephritis patient
+
+
+?
+In 2009, kidney function was studied in 30 chronic pyelonephritis patients at nephrological department of TRCH. Average kreatinine level was 13.2 mmol/l, glomerular filtrations – 102.4 ml/min, urea clearance – 69.9 ml/min. Define productive registration sign of the given observation.
++Average glomerular filtration level
+-Hospital capacity
+-Kidney pathology patient
+-Patient's age
+-Pyelonephritis patient
+
+
+?
+In 2009, kidney function was studied in 30 chronic pyelonephritis patients at nephrological department of TRCH. Average kreatinine level was 13.2 mmol/l, glomerular filtrations – 102.4 ml/min, urea clearance – 69.9 ml/min How, in your opinion, should a material processing program look?
++Drawing up of table models
+-Calculation of intensive indices
+-Calculation of extensive indices
+-Calculation of average indices
+-Introduction in practice
+
+
+?
+In 2009, kidney function was studied in 30 chronic pyelonephritis patients at nephrological department of TRCH. Average kreatinine level was 13.2 mmol/l, glomerular filtrations – 102.4 ml/min, urea clearance – 69.9 ml/min How, in your opinion, should an element of material analysis program look?
++Comparison of intensive indices with standards
+-Drawing up of table models
+-Material encryption
+-Distribution into groups
+-Introduction in practice
+
+
+?
+In 2009, kidney function was studied in 30 chronic pyelonephritis patients at nephrological department of TRCH. Average kreatinine level was 13.2 mmol/l, glomerular filtrations – 102.4 ml/min, urea clearance – 69.9 ml/min How, in your opinion, should the material gathering program look?
++Statistical card of the discharged
+-Drawing up of table models
+-Calculation of intensive indices
+-Material encryption
+-Introduction in practice
+
+
+?
+In 2009, kidney function was studied in 30 chronic pyelonephritis patients at nephrological department of TRCH. Average kreatinine level was 13.2 mmol/l, glomerular filtrations – 102.4 ml/min, urea clearance – 69.9 ml/min. What does the material gathering program consist of?
++Card with the list of registration signs
+-Table models
+-Scheduling and research programs
+-Material encryption
+-Distribution of cards into groups
+
+
+?
+In 2009, at 50 asiderotic anemia patients hospitalized in Ternopil city hospital N2, the following average blood indices were registered: average hemoglobin level – 81.3 g/l, average erythrocytes count – 2.72x10(12)/l, color index – 0.84, speed of subsidence of erythrocytes – 16.7 mm/h. Define the observation unit.
++Asiderotic anemia patients
+-Hematological department of TRCH
+-Asiderotic anemia
+-Average hemoglobin level
+-All indicators of blood
+
+
+?
+In 2009, at 50 asiderotic anemia patients hospitalized in Ternopil city hospital N2, the following average blood indices were registered: average hemoglobin level – 81.3 g/l, average erythrocytes count – 2.72x10(12)/l, color index – 0.84, speed of subsidence of erythrocytes – 16.7 mm/h. Define the object of observation.
++50 asiderotic anemia patients
+-Hematological departments of the region
+-Asiderotic anemia patients treated during the year
+-Asiderotic anemia cases during the year
+-All indicators of blood
+
+
+?
+In 2009, at 50 asiderotic anemia patients hospitalized in Ternopil city hospital N2, the following average blood indices were registered: average hemoglobin level – 81.3 g/l, average erythrocytes count – 2.72x10(12)/l, color index – 0.84, speed of subsidence of erythrocytes – 16.7 mm/h. Define the statistical population.
++All asiderotic anemia patients treated during the year
+-All hematological departments of the region
+-Asiderotic anemia cases during the year
+-50 asiderotic anemia patients
+-All indicators of blood
+
+
+?
+In 2009, at 50 asiderotic anemia patients hospitalized in Ternopil city hospital N2, the following average blood indices were registered: average hemoglobin level – 81.3 g/l, average erythrocytes count – 2.72x10(12)/l, color index – 0.84, speed of subsidence of erythrocytes – 16.7 mm/h. Define the basic phenomenon studied.
++Asiderotic anemia
+-All hematological departments of the region
+-All asiderotic anemia patients which were treated during the year
+-50 asiderotic anemia patients
+-Average level of hemoglobin at one patient
+
+
+?
+In 2009, at 50 asiderotic anemia patients hospitalized in Ternopil city hospital N2, the following average blood indices were registered: average hemoglobin level – 81.3 g/l, average erythrocytes count – 2.72x10(12)/l, color index – 0.84, speed of subsidence of erythrocytes – 16.7 mm/h. Define the sample.
++50 asiderotic anemia patients
+-All hematological departments of the region
+-All asiderotic anemia patients treated during the year
+-Asiderotic anemia cases during the year
+-Average level of hemoglobin at one patient
+
+
+?
+In 2009, at 50 asiderotic anemia patients hospitalized in Ternopil city hospital N2, the following average blood indices were registered: average hemoglobin level – 81.3 g/l, average erythrocytes count – 2.72x10(12)/l, color index – 0.84, speed of subsidence of erythrocytes – 16.7 mm/h. Define alternative registration sign of the given observation.
++Average hemoglobin level
+-Asiderotic anemia
+-Accompanying diseases
+-Coincidence of clinical and pathological diagnoses
+-Patient's sex
+
+
+?
+In 2009, at 50 asiderotic anemia patients hospitalized in Ternopil city hospital N2, the following average blood indices were registered: average hemoglobin level – 81.3 g/l, average erythrocytes count – 2.72x10(12)/l, color index – 0.84, speed of subsidence of erythrocytes – 16.7 mm/h. Define attributive registration sign of the given observation.
++Asiderotic anemia
+-Hospital capacity
+-Average hemoglobin level
+-Average duration of stay of a patient in hospital
+-Average level of speed of subsidence of erythrocytes
+
+
+?
+In 2009, at 50 asiderotic anemia patients hospitalized in Ternopil city hospital N2, the following average blood indices were registered: average hemoglobin level – 81.3 g/l, average erythrocytes count – 2.72x10(12)/l, color index – 0.84, speed of subsidence of erythrocytes – 16.7 mm/h. Define factorial registration signs of the given observation.
++Treatment methods for asiderotic anemia
+-Asiderotic anemia
+-Hospital capacity
+-Average duration of stay of a patient in hospital
+-Asiderotic anemia patients
+
+
+?
+In 2009, at 50 asiderotic anemia patients hospitalized in Ternopil city hospital N2, the following average blood indices were registered: average hemoglobin level – 81.3 g/l, average erythrocytes count – 2.72x10(12)/l, color index – 0.84, speed of subsidence of erythrocytes – 16.7 mm/h. Define productive registration sign of the given observation.
++Average hemoglobin level
+-Treatment methods for asiderotic anemia
+-Blood pathology patient
+-Patient's age
+-Asiderotic anemia patients
+
+
+?
+In 2009, at 50 asiderotic anemia patients hospitalized in Ternopil city hospital N2, the following average blood indices were registered: average hemoglobin level – 81.3 g/l, average erythrocytes count – 2.72x10(12)/l, color index – 0.84, speed of subsidence of erythrocytes – 16.7 mm/h. How, in your opinion, should a material processing program look?
++Drawing up of table models
+-Calculation of Intensive indexs
+-Calculation of Extensive indexs
+-Calculation of average indices
+-Introduction in practice
+
+
+?
+In 2009, at 50 asiderotic anemia patients hospitalized in Ternopil city hospital N2, the following average blood indices were registered: average hemoglobin level – 81.3 g/l, average erythrocytes count – 2.72x10(12)/l, color index – 0.84, speed of subsidence of erythrocytes – 16.7 mm/h. How, in your opinion, should an element of material analysis program look?
++Comparison of Intensive indexs with standards
+-Drawing up of table models
+-Material encryption
+-Distribution into groups
+-Introduction in practice
+
+
+?
+In 2009, at 50 asiderotic anemia patients hospitalized in Ternopil city hospital N2, the following average blood indices were registered: average hemoglobin level – 81.3 g/l, average erythrocytes count – 2.72x10(12)/l, color index – 0.84, speed of subsidence of erythrocytes – 16.7 mm/h. How, in your opinion, should the material gathering program look?
++Statistical card of the discharged
+-Drawing up of table models
+-Calculation of Intensive indexs
+-Material encryption
+-Introduction in practice
+
+
+?
+In 2009, at 50 asiderotic anemia patients hospitalized in Ternopil city hospital N2, the following average blood indices were registered: average hemoglobin level – 81.3 g/l, average erythrocytes count – 2.72x10(12)/l, color index – 0.84, speed of subsidence of erythrocytes – 16.7 mm/h. What does the material gathering program consist of?
++Card with the list of registration signs
+-Table models
+-Scheduling and research programs
+-Material encryption
+-Distribution of cards into groups
+
+
+?
+Logical and technical control of statistical material at a study of 40 diabetes patients conducted at TRCH in 2009 belongs to the ... stage.
++Third
+-First
+-Second
+-Fourth
+-Fifth
+
+
+?
+Alphanumeric encryption of registration signs at a study of 40 diabetes patients conducted at TRCH in 2009 belongs to the ... stage.
++Third
+-First
+-Second
+-Fourth
+-Fifth
+
+
+?
+Distribution of the basic material gathering documents into groups at a study of 40 diabetes patients conducted at TRCH in 2009 belongs to the ... stage.
++Third
+-First
+-Second
+-Fourth
+-Fifth
+
+
+?
+Putting material into tables at a study of 40 diabetes patients conducted at TRCH in 2009 belongs to the ... stage.
++Third
+-First
+-Second
+-Fourth
+-Fifth
+
+
+?
+Graphic visualization of statistical criteria at a study of 40 diabetes patients conducted at TRCH in 2009 belongs to the ... stage.
++Third
+-First
+-Second
+-Fourth
+-Fifth
+
+
+?
+Filling in basic material gathering documents at a study of 40 diabetes patients conducted at TRCH in 2009 belongs to the ... stage.
++Third
+-First
+-Second
+-Fourth
+-Fifth
+
+
+?
+Current control of registration of statistical material at a study of 40 diabetes patients conducted at TRCH in 2009 belongs to the ... stage.
++Second
+-First
+-Third
+-Fourth
+-Fifth
+
+
+?
+Comparison of the received results with average levels in regions at a study of 40 diabetes patients conducted at TRCH in 2009 belongs to the ... stage.
++Fourth
+-First
+-Second
+-Third
+-Fifth
+
+
+?
+Comparison of the received results with standards at a study of 40 diabetes patients conducted at TRCH in 2009 belongs to the ... stage.
++Fourth
+-First
+-Second
+-Third
+-Fifth
+
+
+?
+Defining object of research at the analysis of death rate of babies in the Ternopil region for 2009 belongs to:
++Plan of statistical study
+-Program of statistical study
+-Processing statistical study
+-Observation unit
+-Analysis of statistical study
+
+
+?
+Defining place of research at the analysis of death rate of babies in the Ternopil region for 2009 belongs to:
++Plan of statistical study
+-Program of statistical study
+-Processing statistical study
+-Observation unit
+-Analysis of statistical study
+
+
+?
+Defining terms of conducting research at the analysis of death rate of babies in the Ternopil region for 2009 belongs to:
++Plan of statistical study
+-Program of statistical study
+-Processing statistical study
+-Observation unit
+-Analysis of statistical study
+
+
+?
+Defining ways of processing material of research at the analysis of death rate of babies in the Ternopil region for 2009 belongs to:
++Plan of statistical study
+-Program of statistical study
+-Processing statistical study
+-Observation unit
+-Analysis of statistical study
+
+
+?
+Research objective at the analysis of death rate of babies in the Ternopil region for 2009 belongs to:
++Plan of statistical study
+-Program of statistical study
+-Processing statistical study
+-Observation unit
+-Analysis of statistical study
+
+
+?
+Research problems at the analysis of death rate of babies in the Ternopil region for 2009 belongs to:
++Plan of statistical study
+-Program of statistical study
+-Processing statistical study
+-Observation unit
+-Analysis of statistical study
+
+
+?
+Drawing up of table models at the analysis of death rate of babies in the Ternopil region for 2009 belongs to:
++Program of processing material
+-Special program of gathering material
+-Program of analysis of material
+-Introduction of the program into practice
+-Official program of gathering material
+
+
+?
+40,000 people lived in city K in 2009. That year, 620 babies were born and 680 people died, including 308 women and 372 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.5%, in 2008 – by 0.7%, in 2009 – by 0.9%. 110 doctors worked in medical facilities. Availability of doctors to population is:
++Ratio index
+-Intensive index
+-Extensive index
+-Visualization index
+-Average values
+
+
+?
+40,000 people lived in city L in 2009. That year, 620 babies were born and 680 people died, including 308 women and 372 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.5%, in 2008 – by 0.7%, in 2009 – by 0.9%. 110 doctors worked in medical facilities. Birth rate level is:
++Intensive index
+-Extensive index
+-Ratio index
+-Visualization index
+-Average values
+
+
+?
+40,000 people lived in city W in 2009. That year, 620 babies were born and 680 people died, including 308 women and 372 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.5%, in 2008 – by 0.7%, in 2009 – by 0.9%. 110 doctors worked in medical facilities. The death rate is:
++Intensive index
+-Extensive index
+-Ratio index
+-Visualization index
+-Average values
+
+
+?
+40,000 people lived in city F in 2009. That year, 620 babies were born and 680 people died, including 308 women and 372 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.5%, in 2008 – by 0.7%, in 2009 – by 0.9%. 110 doctors worked in medical facilities. The death rate structure by sex is:
++Extensive index
+-Intensive index
+-Ratio index
+-Visualization index
+-Average values
+
+
+?
+40,000 people lived in city I in 2009. That year, 620 babies were born and 680 people died, including 308 women and 372 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.5%, in 2008 – by 0.7%, in 2009 – by 0.9%. 110 doctors worked in medical facilities. What formula is used to calculate birth rate?
++Number of babies born / number of population x 1000
+-Number of babies born / number of people who died x 1000
+-Number of babies born / number of women who died x 1000
+-Number of babies born / number of population x 100
+-Number of babies born / number of people who died x 100
+
+
+?
+40,000 people lived in city E in 2009. That year, 620 babies were born and 680 people died, including 308 women and 372 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.5%, in 2008 – by 0.7%, in 2009 – by 0.9%. 110 doctors worked in medical facilities. What formula is used to calculate death rate?
++Number of people who died / number of population x 1000
+-Number of people who died / number of babies born x 1000
+-Number of babies born / number of women who died x 1000
+-Number of people who died / number of population x 100
+-Number of babies born / number of people who died x 100
+
+
+?
+40,000 people lived in city D in 2009. That year, 620 babies were born and 680 people died, including 308 women and 372 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.5%, in 2008 – by 0.7%, in 2009 – by 0.9%. 110 doctors worked in medical facilities. What formula is used to calculate share of women who died?
++Number of women who died / number of people who died x 1000
+-Number of women who died / number of people who died x 100
+-Number of people who died / number of babies born x 1000
+-Number of people who died / number of population x 100
+-Number of people who died / number of women who died x 100
+
+
+?
+40,000 people lived in city A in 2009. That year, 620 babies were born and 680 people died, including 308 women and 372 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.5%, in 2008 – by 0.7%, in 2009 – by 0.9%. 110 doctors worked in medical facilities. What formula is used to calculate share of men who died?
++Number of men who died / number of people who died x 1000
+-Number of men who died / number of people who died x 100
+-Number of people who died / number of babies born x 1000
+-Number of people who died / number of population x 100
+-Number of people who died / number of men who died x 100
+
+
+?
+40,000 people lived in city C in 2009. That year, 620 babies were born and 680 people died, including 308 women and 372 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.5%, in 2008 – by 0.7%, in 2009 – by 0.9%. 110 doctors worked in medical facilities. What formula is used to calculate availability of doctors to population?
++Number of doctors / number of population x 10,000
+-Number of doctors / number of people who died x 10,000
+-Number of doctors / number of babies born x 1000
+-Population number / number of doctors x 1000
+-Population number / number of doctors x 100
+
+
+?
+40,000 people lived in city N in 2009. That year, 620 babies were born and 680 people died, including 308 women and 372 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.5%, in 2008 – by 0.7%, in 2009 – by 0.9%. 110 doctors worked in medical facilities. What intensive index can be calculated from the above data?
++Birth rate
+-Availability of doctors to population
+-Death rate structure by sex
+-Average death rate
+-Changes of death rates for the specified period
+
+
+?
+40,000 people lived in city N in 2009. That year, 620 babies were born and 680 people died, including 308 women and 372 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.5%, in 2008 – by 0.7%, in 2009 – by 0.9%. 110 doctors worked in medical facilities. What intensive index can be calculated from the above data?
++Death rate
+-Availability of doctors to population
+-Death rate structure by sex
+-Birth rate average level
+-Changes of death rates for the specified period
+
+
+?
+40,000 people lived in city S in 2009. That year, 620 babies were born and 680 people died, including 308 women and 372 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.5%, in 2008 – by 0.7%, in 2009 – by 0.9%. 110 doctors worked in medical facilities. What intensive index can be calculated from the above data?
++Death rate structure by sex
+-Availability of doctors to population
+-Death rate
+-Average death rate
+-Changes of death rates for the specified period
+
+
+?
+40,000 people lived in city A in 2009. That year, 620 babies were born and 680 people died, including 308 women and 372 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.5%, in 2008 – by 0.7%, in 2009 – by 0.9%. 110 doctors worked in medical facilities. What intensive index can be calculated from the above data?
++Share of women who died
+-Availability of doctors to population
+-Death rate
+-Average death rate
+-Changes of death rates for the specified period
+
+
+?
+In city. in 2009 lived 40,000 people. This year 620 babies were born and 680 people died, including 308 women and 372 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.5%, in 2008 – by 0.7%, in 2009 – by 0.9%. 110 doctors worked in medical facilities. What intensive index can be calculated from the above data?
++Share of men who died
+-Availability of doctors to population
+-Death rate
+-Average death rate
+-Changes of death rates for the specified period
+
+
+?
+40,000 people lived in city A in 2009. That year, 620 babies were born and 680 people died, including 308 women and 372 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.5%, in 2008 – by 0.7%, in 2009 – by 0.9%. 110 doctors worked in medical facilities. What ratio index can be calculated from the above data?
++Availability of doctors to population
+-Death rate
+-Share of men who died
+-Average death rate
+-Changes of death rates for the specified period
+
+
+?
+40,000 people lived in city C in 2009. That year, 620 babies were born and 680 people died, including 308 women and 372 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.5%, in 2008 – by 0.7%, in 2009 – by 0.9%. 110 doctors worked in medical facilities. What visualization index can be calculated from the above data?
++Changes of death rates for the specified period
+-Availability of doctors to population
+-Death rate
+-Share of men who died
+-Average death rate
+
+
+?
+40,000 people lived in city F in 2009. That year, 620 babies were born and 680 people died, including 308 women and 372 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.5%, in 2008 – by 0.7%, in 2009 – by 0.9%. 110 doctors worked in medical facilities. Calculate birth rate.
++620 / 40,000 x 1000
+-40,000 / 620 x 1000
+-620 / 680 x 1000
+-620 / 680 x 100
+-620 / 40,000 x 100
+
+
+?
+40,000 people lived in city F in 2009. That year, 620 babies were born and 680 people died, including 308 women and 372 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.5%, in 2008 – by 0.7%, in 2009 – by 0.9%. 110 doctors worked in medical facilities. Calculate death rate.
++680 / 40,000 x 1000
+-40,000 / 680 x 1000
+-680 / 620 x 1000
+-680 / 620 x 100
+-680 / 40,000 x 100
+
+
+?
+40,000 people lived in city F in 2009. That year, 620 babies were born and 680 people died, including 308 women and 372 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.5%, in 2008 – by 0.7%, in 2009 – by 0.9%. 110 doctors worked in medical facilities. Calculate death rate structure by sex.
++308 / 680 x 100
+-308 / 680 x 1000
+-308 / 40,000 x 100
+-308 / (40,000 – 372) x 100
+-308 / (40,000 – 680) x 1000
+
+
+?
+40,000 people lived in city F in 2009. That year, 620 babies were born and 680 people died, including 308 women and 372 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.5%, in 2008 – by 0.7%, in 2009 – by 0.9%. 110 doctors worked in medical facilities. Calculate death rate structure by sex.
++372 / 680 x 100
+-372 / 680 x 1000
+-372 / 40,000 x 100
+-372 / (40,000 – 308) x 100
+-372 / (40,000 – 680) x 1000
+
+
+?
+60,000 people lived in city K in 2009. That year, 540 babies were born and 980 people died, including 460 women and 520 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.7%, in 2008 – by 1.1%, in 2009 – by 2.4%. 250 doctors worked in medical facilities. Availability of doctors to population is:
++Ratio index
+-Intensive index
+-Extensive index
+-Visualization index
+-Average values
+
+
+?
+60,000 people lived in city M in 2009. That year, 540 babies were born and 980 people died, including 460 women and 520 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.7%, in 2008 – by 1.1%, in 2009 – by 2.4%. 250 doctors worked in medical facilities. Birth rate level is:
++Intensive index
+-Extensive index
+-Ratio index
+-Visualization index
+-Average values
+
+
+?
+60,000 people lived in city C in 2009. That year, 540 babies were born and 980 people died, including 460 women and 520 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.7%, in 2008 – by 1.1%, in 2009 – by 2.4%. 250 doctors worked in medical facilities. The death rate is:
++Intensive index
+-Extensive index
+-Ratio index
+-Visualization index
+-Average values
+
+
+?
+60,000 people lived in city C in 2009. That year, 540 babies were born and 980 people died, including 460 women and 520 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.7%, in 2008 – by 1.1%, in 2009 – by 2.4%. 250 doctors worked in medical facilities. The death rate structure by sex is:
++Extensive index
+-Intensive index
+-Ratio index
+-Visualization index
+-Average values
+
+
+?
+60,000 people lived in city I in 2009. That year, 540 babies were born and 980 people died, including 460 women and 520 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.7%, in 2008 – by 1.1%, in 2009 – by 2.4%. 250 doctors worked in medical facilities. The death rate analysis for the specified period of time is:
++Visualization index
+-Intensive index
+-Extensive index
+-Ratio index
+-Average values
+
+
+?
+60,000 people lived in city T in 2009. That year, 540 babies were born and 980 people died, including 460 women and 520 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.7%, in 2008 – by 1.1%, in 2009 – by 2.4%. 250 doctors worked in medical facilities. What formula is used to calculate birth rate?
++Number of babies born / number of population x 1000
+-Number of babies born / number of people who died x 1000
+-Number of babies born / number of women who died x 1000
+-Number of babies born / number of population x 100
+-Number of babies born / number of people who died x 100
+
+
+?
+60,000 people lived in city C in 2009. That year, 540 babies were born and 980 people died, including 460 women and 520 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.7%, in 2008 – by 1.1%, in 2009 – by 2.4%. 250 doctors worked in medical facilities. What formula is used to calculate death rate?
++Number of people who died / number of population x 1000
+-Number of people who died / number of babies born x 1000
+-Number of babies born / number of women who died x 1000
+-Number of people who died / number of population x 100
+-Number of babies born / number of people who died x 100
+
+
+?
+60,000 people lived in city D in 2009. That year, 540 babies were born and 980 people died, including 460 women and 520 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.7%, in 2008 – by 1.1%, in 2009 – by 2.4%. 250 doctors worked in medical facilities. What formula is used to calculate share of women who died?
++Number of women who died / number of people who died x 1000
+-Number of women who died / number of people who died x 100
+-Number of people who died / number of babies born x 1000
+-Number of people who died / number of population x 100
+-Number of people who died / number of women who died x 100
+
+
+?
+60,000 people lived in city L in 2009. That year, 540 babies were born and 980 people died, including 460 women and 520 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.7%, in 2008 – by 1.1%, in 2009 – by 2.4%. 250 doctors worked in medical facilities. What formula is used to calculate share of men who died?
++Number of men who died / number of people who died x 1000
+-Number of men who died / number of people who died x 100
+-Number of people who died / number of babies born x 1000
+-Number of people who died / number of population x 100
+-Number of people who died / number of men who died x 100
+
+
+?
+60,000 people lived in city H in 2009. That year, 540 babies were born and 980 people died, including 460 women and 520 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.7%, in 2008 – by 1.1%, in 2009 – by 2.4%. 250 doctors worked in medical facilities. What formula is used to calculate availability of doctors to population?
++Number of doctors / number of population x 10,000
+-Number of doctors / number of people who died x 10,000
+-Number of doctors / number of babies born x 1000
+-Population number / number of doctors x 1000
+-Population number / number of doctors x 100
+
+
+?
+60,000 people lived in city J in 2009. That year, 540 babies were born and 980 people died, including 460 women and 520 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.7%, in 2008 – by 1.1%, in 2009 – by 2.4%. 250 doctors worked in medical facilities. What intensive index can be calculated from the above data?
++Birth rate
+-Availability of doctors to population
+-Death rate structure by sex
+-Average death rate
+-Changes of death rates for the specified period
+
+
+?
+60,000 people lived in city O in 2009. That year, 540 babies were born and 980 people died, including 460 women and 520 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.7%, in 2008 – by 1.1%, in 2009 – by 2.4%. 250 doctors worked in medical facilities. What intensive index can be calculated from the above data?
++Death rate
+-Availability of doctors to population
+-Death rate structure by sex
+-Birth rate average level
+-Changes of death rates for the specified period
+
+
+?
+60,000 people lived in city S in 2009. That year, 540 babies were born and 980 people died, including 460 women and 520 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.7%, in 2008 – by 1.1%, in 2009 – by 2.4%. 250 doctors worked in medical facilities. What intensive index can be calculated from the above data?
++Death rate structure by sex
+-Availability of doctors to population
+-Death rate
+-Average death rate
+-Changes of death rates for the specified period
+
+
+?
+60,000 people lived in city T in 2009. That year, 540 babies were born and 980 people died, including 460 women and 520 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.7%, in 2008 – by 1.1%, in 2009 – by 2.4%. 250 doctors worked in medical facilities. What intensive index can be calculated from the above data?
++Share of women who died
+-Availability of doctors to population
+-Death rate
+-Average death rate
+-Changes of death rates for the specified period
+
+
+?
+60,000 people lived in city E in 2009. That year, 540 babies were born and 980 people died, including 460 women and 520 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.7%, in 2008 – by 1.1%, in 2009 – by 2.4%. 250 doctors worked in medical facilities. What intensive index can be calculated from the above data?
++Share of men who died
+-Availability of doctors to population
+-Death rate
+-Average death rate
+-Changes of death rates for the specified period
+
+
+?
+60,000 people lived in city N in 2009. That year, 540 babies were born and 980 people died, including 460 women and 520 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.7%, in 2008 – by 1.1%, in 2009 – by 2.4%. 250 doctors worked in medical facilities. What ratio index can be calculated from the above data?
++Availability of doctors to population
+-Death rate
+-Share of men who died
+-Average death rate
+-Changes of death rates for the specified period
+
+
+?
+60,000 people lived in city M in 2009. That year, 540 babies were born and 980 people died, including 460 women and 520 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.7%, in 2008 – by 1.1%, in 2009 – by 2.4%. 250 doctors worked in medical facilities. What visualization index can be calculated from the above data?
++Changes of death rates for the specified period
+-Availability of doctors to population
+-Death rate
+-Share of men who died
+-Average death rate
+
+
+?
+60,000 people lived in city L in 2009. That year, 540 babies were born and 980 people died, including 460 women and 520 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.7%, in 2008 – by 1.1%, in 2009 – by 2.4%. 250 doctors worked in medical facilities. Calculate birth rate.
++540 / 60,000 x 1000
+-60,000 / 540 x 1000
+-540 / 980 x 1000
+-540 / 980 x 100
+-540 / 60,000 x 100
+
+
+?
+60,000 people lived in city M in 2009. That year, 540 babies were born and 980 people died, including 460 women and 520 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.7%, in 2008 – by 1.1%, in 2009 – by 2.4%. 250 doctors worked in medical facilities. Calculate death rate.
++980 / 60,000 x 1000
+-60,000 / 980 x 1000
+-980 / 540 x 1000
+-980 / 540 x 100
+-980 / 60,000 x 100
+
+
+?
+60,000 people lived in city T in 2009. That year, 540 babies were born and 980 people died, including 460 women and 520 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.7%, in 2008 – by 1.1%, in 2009 – by 2.4%. 250 doctors worked in medical facilities. Calculate death rate structure by sex.
++460 / 980 x 100
+-460 / 980 x 1000
+-460 / 60,000 x 100
+-460 / (60,000 – 520) x 100
+-460 / (60,000 – 980) x 1000
+
+
+?
+60,000 people lived in city A in 2009. That year, 540 babies were born and 980 people died, including 460 women and 520 men. If we take death rate in 2006 as the basis, death rate increased in 2007 by 0.7%, in 2008 – by 1.1%, in 2009 – by 2.4%. 250 doctors worked in medical facilities. Calculate death rate structure by sex.
++520 / 980 x 100
+-520 / 980 x 1000
+-520 / 60,000 x 100
+-5202 / (60,000 – 460) x 100
+-520 / (60,000 – 980) x 1000
+
+
+?
+Over the past 5 years, heart attack lethality grew in region D. The situation requires estimation of efficiency of providing medical care to these patients. Define the observation unit:
++Cardiological hospital
+-Hospitalization case in cardiological hospital with heart attack
+-Timeliness of call for medical care in cardiological hospital
+-Availability of cardiologists
+-Availability of diagnostic equipment in cardiological hospital
+
+
+?
+Over the past 10 years, oncological diseases lethality grew in the eastern regions. The situation requires estimation of efficiency of providing medical care to these patients. Define the observation unit:
++Death case due to oncological disease
+-Oncological clinic
+-Timeliness of call for medical care in oncological clinic
+-Availability of oncologists
+-Availability of diagnostic equipment in oncological clinic
+
+
+?
+Over the past 8 years, tuberculosis lethality grew in the eastern regions. The situation requires estimation of efficiency of providing medical care to these patients. Define the observation unit:
++Death case due to tuberculosis
+-Tuberculosis clinic
+-Timeliness of call for medical care in tuberculosis clinic
+-Availability of phthisiatricians
+-Availability of diagnostic equipment in tuberculosis clinic
+
+
+?
+Work of cardiological units of city S polyclinic was studied. Define the observation unit.
++Cardiological office
+-Each case of cardiological pathology
+-Each case of the reference in the given office
+-Each type of result of cardiovascular diseases
+-It is impossible to define
+
+
+?
+Assistant head physician for medical work studied the level of polyclinic care cases over the past 5 years. By means of what statistical values can he calculate prevalence of diseases?
++Relative values
+-Absolute values
+-Standardized values
+-Average values
+-Values of time series
+
+
+?
+Assistant head physician for medical work studied death rates of the population served in polyclinic over the past 10 years. By means of what statistical values can he calculate death rates?
++Relative values
+-Absolute values
+-Standardized values
+-Average values
+-Values of time series
+
+
+?
+Assistant head physician for medical work studied levels of availability of doctors to population over the last 10 years. By means of what statistical values can he calculate levels of availability of doctors to population?
++Ratio index
+-Standardized values
+-Average values
+-Relative values
+-Values of time series

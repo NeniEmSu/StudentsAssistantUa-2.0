@@ -30,9 +30,9 @@
 
         <div class="contact">
             <h6>Contact Us </h6>
-            <a href="#">24/7chat support</a>
-            <a href="#">+380 93 258 9266</a>
-            <a href="#">StudentsAssistantUA@gmail.com</a>
+            <a href="contact">24/7chat support</a>
+            <a href="tel:+380932589266">+380 93 258 9266</a>
+            <a href="mailto:info@studentsassistantua.com">info@studentsassistantua.com</a>
         </div>
 
         <div class="legal">
