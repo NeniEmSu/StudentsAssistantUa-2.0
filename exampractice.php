@@ -158,14 +158,18 @@
                             <p>Under Construction! <i class="fas fa-tools"></i> </p>
 
                             <ul>
-                                <li><a href="#">Anesthesiology and intensive care</a></li>
-                                <li><a href="#">Epidemiology</a></li>
-                                <li><a href="#">Infectious disease</a></li>
-                                <li><a href="#">Internal Medicine</a></li>
-                                <li><a href="#">Obstetrics and Gynecology</a></li>
-                                <li><a href="#">Pediatrics & Pediatrics infectious</a></li>
-                                <li><a href="#"></a>Surgery, Pediatrics surgery </li>
-                                <li><a href="#"></a>Traumatology & Orthopedics</li>
+                                <li><a href="https://drive.google.com/open?id=1tkucYL3kXJDYwTi5QBGpuy0VGJ1GlJbj">Anesthesiology
+                                        and intensive care</a></li>
+                                <li><a
+                                        href="https://drive.google.com/open?id=1hMFgVmFVRmq-ZkSFSBPm8VscP6thOLR2">Epidemiology</a>
+                                </li>
+                                <li><a href="#">Traumatology & Orthopedics</a> <i class="fas fa-tools"></i></li>
+                                <li><a href="#">Infectious disease</a> <i class="fas fa-tools"></i></li>
+                                <li><a href="#">Internal Medicine</a> <i class="fas fa-tools"></i></li>
+                                <li><a href="#">Obstetrics and Gynecology</a> <i class="fas fa-tools"></i></li>
+                                <li><a href="#">Pediatrics & Pediatrics infectious</a> <i class="fas fa-tools"></i></li>
+                                <li><a href="#">Surgery, Pediatrics surgery </a><i class="fas fa-tools"></i></li>
+
                             </ul>
                         </li>
                         <li class="course">
@@ -174,14 +178,19 @@
                             <p>Under Construction! <i class="fas fa-tools"></i> </p>
 
                             <ul>
-                                <li><a href="#">Anesthesiology and intensive care</a></li>
-                                <li><a href="#">Epidemiology</a></li>
-                                <li><a href="#">Infectious disease</a></li>
-                                <li><a href="#">Internal Medicine</a></li>
-                                <li><a href="#">Obstetrics and Gynecology</a></li>
-                                <li><a href="#">Pediatrics & Pediatrics infectious</a></li>
-                                <li><a href="#"></a>Surgery, Pediatrics surgery </li>
-                                <li><a href="#"></a>Traumatology & Orthopedics</li>
+                                <li><a href="https://drive.google.com/open?id=1tkucYL3kXJDYwTi5QBGpuy0VGJ1GlJbj">Anesthesiology
+                                        and intensive care</a></li>
+                                <li><a
+                                        href="https://drive.google.com/open?id=1hMFgVmFVRmq-ZkSFSBPm8VscP6thOLR2">Epidemiology</a>
+                                </li>
+                                <li><a href="#">Traumatology & Orthopedics</a><i class="fas fa-tools"></i></li>
+                                <li><a href="#">Oncology</a><i class="fas fa-tools"></i></li>
+                                <li><a href="#">Infectious disease</a><i class="fas fa-tools"></i></li>
+                                <li><a href="#">Internal Medicine</a><i class="fas fa-tools"></i></li>
+                                <li><a href="#">Obstetrics and Gynecology</a><i class="fas fa-tools"></i></li>
+                                <li><a href="#">Pediatrics & Pediatrics infectious</a><i class="fas fa-tools"></i></li>
+                                <li><a href="#">Surgery, Pediatrics surgery </a><i class="fas fa-tools"></i></li>
+
                             </ul>
                         </li>
                         <li class="course">
