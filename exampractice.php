@@ -155,34 +155,38 @@
                         <li class="course">
 
                             <h3>Fifth Course First Stream</h3>
-                            <p>Under Construction! <i class="fas fa-tools"></i> </p>
+                            <<p>Under Construction! <i class="fas fa-tools"></i> </p>
+                                <p>Done! <i class="fas fa-check-circle"> </p>
 
-                            <ul>
-                                <li><a href="https://drive.google.com/open?id=1tkucYL3kXJDYwTi5QBGpuy0VGJ1GlJbj">Anesthesiology
-                                        and intensive care</a></li>
-                                <li><a
-                                        href="https://drive.google.com/open?id=1hMFgVmFVRmq-ZkSFSBPm8VscP6thOLR2">Epidemiology</a>
-                                </li>
-                                <li><a href="#">Traumatology & Orthopedics</a> <i class="fas fa-tools"></i></li>
-                                <li><a href="#">Infectious disease</a> <i class="fas fa-tools"></i></li>
-                                <li><a href="#">Internal Medicine</a> <i class="fas fa-tools"></i></li>
-                                <li><a href="#">Obstetrics and Gynecology</a> <i class="fas fa-tools"></i></li>
-                                <li><a href="#">Pediatrics & Pediatrics infectious</a> <i class="fas fa-tools"></i></li>
-                                <li><a href="#">Surgery, Pediatrics surgery </a><i class="fas fa-tools"></i></li>
+                                <ul>
+                                    <li><a target="_blank"
+                                            href="https://drive.google.com/open?id=1tkucYL3kXJDYwTi5QBGpuy0VGJ1GlJbj">Anesthesiology
+                                            and intensive care</a><i class="fas fa-check-circle"></i></li>
+                                    <li><a target="_blank"
+                                            href="https://drive.google.com/open?id=1hMFgVmFVRmq-ZkSFSBPm8VscP6thOLR2">Epidemiology</a>
+                                        <i class="fas fa-check-circle"></i></li>
+                                    <li><a href="#">Traumatology & Orthopedics</a> <i class="fas fa-tools"></i></li>
+                                    <li><a href="#">Infectious disease</a> <i class="fas fa-tools"></i></li>
+                                    <li><a href="#">Internal Medicine</a> <i class="fas fa-tools"></i></li>
+                                    <li><a href="#">Obstetrics and Gynecology</a> <i class="fas fa-tools"></i></li>
+                                    <li><a href="#">Pediatrics & Pediatrics infectious</a> <i class="fas fa-tools"></i>
+                                    </li>
+                                    <li><a href="#">Surgery, Pediatrics surgery </a><i class="fas fa-tools"></i></li>
 
-                            </ul>
+                                </ul>
                         </li>
                         <li class="course">
 
                             <h3>Fifth Course Second Stream</h3>
                             <p>Under Construction! <i class="fas fa-tools"></i> </p>
-
+                            <p>Done! <i class="fas fa-check-circle"> </p>
                             <ul>
-                                <li><a href="https://drive.google.com/open?id=1tkucYL3kXJDYwTi5QBGpuy0VGJ1GlJbj">Anesthesiology
-                                        and intensive care</a></li>
-                                <li><a
+                                <li><a target="_blank"
+                                        href="https://drive.google.com/open?id=1tkucYL3kXJDYwTi5QBGpuy0VGJ1GlJbj">Anesthesiology
+                                        and intensive care</a><i class="fas fa-check-circle"></i></li>
+                                <li><a target="_blank"
                                         href="https://drive.google.com/open?id=1hMFgVmFVRmq-ZkSFSBPm8VscP6thOLR2">Epidemiology</a>
-                                </li>
+                                    <i class="fas fa-check-circle"></i></li>
                                 <li><a href="#">Traumatology & Orthopedics</a><i class="fas fa-tools"></i></li>
                                 <li><a href="#">Oncology</a><i class="fas fa-tools"></i></li>
                                 <li><a href="#">Infectious disease</a><i class="fas fa-tools"></i></li>
@@ -196,26 +200,42 @@
                         <li class="course">
 
                             <h3>Sixth Course First Stream</h3>
+                            <p>Under Construction! <i class="fas fa-tools"></i> </p>
+                            <p>Done! <i class="fas fa-check-circle"> </p>
                             <ul>
-                                <li><a href="#">General Practice (Family medicine)</a></li>
-                                <li><a href="#">Hygiene and Ecology</a></li>
-                                <li><a href="#">Pediatrics with children Infectious Disease </a></li>
-                                <li><a href="#">Social Medicine or Health Economics</a></li>
-                                <li><a href="#">Surgery with pediatrics surgery and oncology</a></li>
-                            </ul>
+                                <li><a href="#">General Practice (Family medicine)</a><i class="fas fa-tools"></i></li>
                         </li>
+                        <li><a href="https://drive.google.com/drive/folders/11NYAzeSgjlyaUBzg854OzfqxGv0Pv7Df?usp=sharing"
+                                target="_blank"> Download Hygiene and ecology Practice App</a><i
+                                class="fas fa-check-circle"></li>
+                        <li><a href="https://drive.google.com/drive/folders/1OJbL6HmxC4u4sO8dPqUCVh4ClrgoKzUC?usp=sharing"
+                                target="_blank"> Download Pediatrics with children_s infectious diseases
+                                Practice App</a><i class="fas fa-check-circle"></li>
+                        <li><a href="https://drive.google.com/drive/folders/1-Qys5tbmfLHmjkj8D22rD-HbLX0MlEwQ?usp=sharing"
+                                target="_blank"> Download Social medicine, organization and economy of health
+                                protection Practice App</a><i class="fas fa-check-circle"></li>
+                        <li><a href="https://drive.google.com/drive/folders/1_dpeHBhJynwv81NR7-msZmHvgIPvZgkc?usp=sharing"
+                                target="_blank"> Download Surgery with children_s surgery and oncology Practice
+                                App</a><i class="fas fa-check-circle"></li>
 
-                        <li class="course">
 
-                            <h3>Sixth Course First Stream</h3>
-                            <ul>
-                                <li><a href="#">General Practice (Family medicine)</a></li>
-                                <li><a href="#">Internal Medicine </a></li>
-                                <li><a href="#">Obstetrics and Gynecology</a></li>
-                                <li><a href="#">Social Medicine or Health Economics</a></li>
-                                <li><a href="#">Surgery with pediatrics surgery and oncology</a></li>
-                            </ul>
-                        </li>
+                    </ul>
+                    </li>
+
+                    <li class="course">
+
+                        <h3>Sixth Course Second Stream</h3>
+                        <p>Under Construction! <i class="fas fa-tools"></i> </p>
+                        <p>Done! <i class="fas fa-check-circle"> </p>
+                        <ul>
+                            <li><a href="https://drive.google.com/drive/folders/1HOBDmLE6NCfSl32XQlL7qfKQRh73qBJF?usp=sharing"
+                                    target="_blank"> Download Internal Medicine Practice App</a><i
+                                    class="fas fa-check-circle"></li>
+                            <li><a href="https://drive.google.com/drive/folders/18BToCBsUpYix45S0yeiFSwvsWNimrmXp?usp=sharing"
+                                    target="_blank"> Download Obstetrics and gynecology Practice App</a><i
+                                    class="fas fa-check-circle"></li>
+                        </ul>
+                    </li>
                     </ul>
                 </div>
 
@@ -225,18 +245,18 @@
                     <p><b>After Clicking On Link, Download and Extract Folder onto Device </b> <br />
                         This folder contains practice for Anatomy, Physiology, Phsycology and Medical Biology.</p>
                     <a href="https://drive.google.com/open?id=1d7x2CK5bSIWvMJbobhuXUB5LGxRjgQHR" target="_blank">
-                        Download Practice App</a>
+                        Download Practice App</a><i class="fas fa-check-circle"></i>
                     <h3>BSN 2nd Course</h3>
                     <p><b>After Clicking On Link, Download and Extract Folder onto Device </b> <br />
                         This folder contains practice for Biochemistry, Leadership in nursing, Microbiology, Nutrition
                         and Phamacology.</p>
                     <a href="https://drive.google.com/open?id=1_0aLeqs36PvuPMF-f10LuCu9__dJm-xD" target="_blank">
-                        Download Practice App</a>
+                        Download Practice App</a><i class="fas fa-check-circle"></i>
                     <h3>RN-BSN 1st Course</h3>
                     <p><b>After Clicking On Link, Download and Extract Folder onto Device </b> <br />
                         This folder contains practice for .</p>
                     <a href="https://drive.google.com/open?id=1bLvA3dNNvKqLM7_JbfHd5Eh1l_8Yc4by" target="_blank">
-                        Download Practice App</a>
+                        Download Practice App</a><i class="fas fa-check-circle"></i>
                 </div>
 
                 <button class="accordion buttonToHide pharmacy">Pharmacy</button>
