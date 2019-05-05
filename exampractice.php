@@ -194,7 +194,8 @@
                                         href="https://drive.google.com/open?id=1hMFgVmFVRmq-ZkSFSBPm8VscP6thOLR2">Epidemiology</a>
                                     <i class="fas fa-check-circle"></i></li>
                                 <li><a href="#">Traumatology & Orthopedics</a><i class="fas fa-tools"></i></li>
-                                <li><a href="#">Oncology</a><i class="fas fa-tools"></i></li>
+                                <li><a href="https://testpractice.studentsassistantua.com/pages/fifthCourseFirstStream/fifthYearFirstStream_index.php"
+                                        target="_blank">Oncology</a><i class="fas fa-tools"></i></li>
                                 <li><a href="#">Infectious disease</a><i class="fas fa-tools"></i></li>
                                 <li><a href="#">Internal Medicine</a><i class="fas fa-tools"></i></li>
                                 <li><a href="#">Obstetrics and Gynecology</a><i class="fas fa-tools"></i></li>
