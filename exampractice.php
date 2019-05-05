@@ -130,30 +130,38 @@
                         <li class="course">
 
                             <h3>Fourth Course First Stream</h3>
+                            <p>Under Construction! <i class="fas fa-tools"></i> </p>
+                            <p>Done! <i class="fas fa-check-circle"> </i></p>
                             <ul>
-                                <li><a href="#">Dermatology and Venerology</a></li>
-                                <li><a href="#">Internal Medicine (Endocrinology)</a></li>
-                                <li><a href="#">Neurology</a></li>
-                                <li><a href="#">Ophthalmology</a></li>
-                                <li><a href="#">Pediatrics</a></li>
-                                <li><a href="#">Psyciatry, narcology</a></li>
-                                <li><a href="#">Surgery</a></li>
-                                <li><a href="#">Urology</a></li>
+                                <li><a href="#">Dermatology and Venerology <i class="fas fa-tools"></i> </a></li>
+                                <li><a href="#">Internal Medicine (Endocrinology) <i class="fas fa-tools"></i> </a></li>
+                                <li><a href="#">Neurology <i class="fas fa-tools"></i> </a></li>
+                                <li><a href="#">Ophthalmology <i class="fas fa-tools"></i> </a></li>
+                                <li><a href="#">Pediatrics <i class="fas fa-tools"></i> </a></li>
+                                <li><a href="#">Psyciatry, narcology <i class="fas fa-tools"></i> </a></li>
+                                <li><a href="#">Surgery <i class="fas fa-tools"></i> </a></li>
+                                <li><a href="#">Urology <i class="fas fa-tools"></i> </a></li>
                             </ul>
                         </li>
 
                         <li class="course">
 
                             <h3>Fourth Course Second Stream</h3>
+                            <p>Under Construction! <i class="fas fa-tools"></i> </p>
+                            <p>Done! <i class="fas fa-check-circle"> </i></p>
                             <ul>
-                                <li><a href="#">Internal Medicine (Endocrinology)</a></li>
+                                <li><a href="#">Internal Medicine (Endocrinology)</a> <i class="fas fa-tools"></i> </li>
                                 <li><a href="#">Neurology</a></li>
-                                <li><a href="#">Otolaryngology</a></li>
-                                <li><a href="#">Pediatrics</a></li>
-                                <li><a href="#">Phthiology</a></li>
-                                <li><a href="#">Physical rehabilitation and sports medicine</a></li>
-                                <li><a href="#">Psyciatry, narcology</a></li>
-                                <li><a href="#">Surgery</a></li>
+                                <li><a href="https://testpractice.studentsassistantua.com/pages/fourthCourseFirstStream/fourthYearFirstStream_index.php"
+                                        target="_blank">aryngology</a><i class="fas fa-check-circle"> </i></li>
+                                <li><a href="#">Pediatrics</a> <i class="fas fa-tools"></i> </li>
+                                <li><a href="https://testpractice.studentsassistantua.com/pages/fourthCourseFirstStream/fourthYearFirstStream_index.php"
+                                        target="_blank">Phthiology</a><i class="fas fa-check-circle"> </i></li>
+                                <li><a href="https://testpractice.studentsassistantua.com/pages/fourthCourseFirstStream/fourthYearFirstStream_index.php"
+                                        target="_blank">Physical rehabilitation and sports medicine</a><i
+                                        class="fas fa-check-circle"> </i></li>
+                                <li><a href="#">Psyciatry, narcology</a> <i class="fas fa-tools"></i> </li>
+                                <li><a href="#">Surgery</a><i class="fas fa-tools"></i></li>
 
                             </ul>
                         </li>
