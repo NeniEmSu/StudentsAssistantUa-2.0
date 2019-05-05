@@ -171,7 +171,8 @@
                                 <li><a target="_blank"
                                         href="https://drive.google.com/open?id=1hMFgVmFVRmq-ZkSFSBPm8VscP6thOLR2">Epidemiology</a>
                                     <i class="fas fa-check-circle"></i></li>
-                                <li><a href="#">Traumatology & Orthopedics</a> <i class="fas fa-tools"></i></li>
+                                <li><a href="https://drive.google.com/open?id=1qdKlc2r6XfaADq6MSNXKs2e6bppj5xhG">Traumatology
+                                        & Orthopedics</a><i class="fas fa-check-circle"></i></li>
                                 <li><a href="#">Infectious disease</a> <i class="fas fa-tools"></i></li>
                                 <li><a href="#">Internal Medicine</a> <i class="fas fa-tools"></i></li>
                                 <li><a href="#">Obstetrics and Gynecology</a> <i class="fas fa-tools"></i></li>
