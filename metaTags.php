@@ -1,3 +1,11 @@
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-1797281199494379",
+    enable_page_level_ads: true
+  });
+</script>
+
 <!-- Meta Tags that occur on all pages and are not necessary to repeat  -->
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
